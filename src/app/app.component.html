@@ -1,0 +1,57 @@
+<div class="container-side">
+    <div class="navbar">
+        <div class="row">
+            <div class="col-md-12 justify-content-content">
+                <div id="custom-search-input">
+                    <div class="input-group col-md-12" [ngClass]="['disable',checkUrl()]">
+                        <form action="">
+                            <input type="text" (keyup)="Search()" name="searchText" [(ngModel)]="searchText" class="form-control input-lg" placeholder="Enter your champion" />
+
+                        </form>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="sidebar">
+        <div class="wrapper">
+            <!-- Sidebar Holder -->
+            <nav id="sidebar">
+                <ul class="list-unstyled components">
+                    <p>TFT App</p>
+                    <li class="">
+                        <div class="btn-group dropright">
+                            <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <img src="../assets/image/dashboard.svg" alt="">
+                      </button>
+                            <div class="dropdown-menu">
+                                <a href="#">Home</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="btn-group dropright">
+                            <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <img src="../assets/image/champions.svg" alt="">
+                    </button>
+                            <div class="dropdown-menu">
+                                <a href="" [routerLink]="['Champion']">Champions</a>
+
+                            </div>
+                        </div>
+                    </li>
+
+                </ul>
+            </nav>
+
+
+        </div>
+
+    </div>
+    <div class="content">
+        <router-outlet></router-outlet>
+    </div>
+
+</div>

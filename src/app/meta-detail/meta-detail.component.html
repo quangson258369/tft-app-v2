@@ -1,0 +1,264 @@
+<div class="container">
+
+    <div class="trait">
+        <div class="content">
+            <ng-container *ngFor="let i of traitActive">
+                <div class="list">
+                    <div class="trait-active">
+                        <div class="trait-icon">
+                            <div class="icon" [ngStyle]="{'border':getBorderSet(i.number,i.traitName),
+                            'background':getBackgroundSet(i.number,i.traitName)}">
+                                <svg viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="frames"><path d="M1 17.7098V6.29016L11 0.575876L21 6.29016V17.7098L11 23.4241L1 17.7098Z" fill="transparent"  stroke-width="1"></path></svg>
+                                <img [src]="getUrlTrails(i.traitName)" alt="Mystic" class="icon-image">
+                            </div>
+                        </div>
+                        <div class="trait-active-number">{{i.number}}</div>
+                        <div>
+                            <div class="name">
+                                <p>{{i.traitName}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </ng-container>
+
+        </div>
+    </div>
+
+
+    <div class="board">
+
+        <div class="board-row">
+            <div class="xx x1-y1">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ1" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(1,0)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ1)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x2-y1">
+                <div class="" data-tooltipped="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ2" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(2,0)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ2)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x3-y1">
+                <div class="" data-tooltipped="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ3" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(3,0)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ3)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x4-y1">
+                <div class="" data-tooltipped="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ4" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(4,0)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ4)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="xx x5-y1">
+                <div class="" data-tooltipped="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ5" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(5,0)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ5)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x6-y1">
+                <div class="" data-tooltipped="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ6" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(6,0)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ6)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="xx x7-y1">
+                <div class="" data-tooltipped="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ7" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(7,0)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ7)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="board-row">
+            <div class="xx x1-y2 is-margin-left">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ8" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(1,1)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ8)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x2-y2">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ9" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(2,1)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ9)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x3-y2">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ10" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(3,1)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ10)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x4-y2">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ11" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(4,1)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ11)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x5-y2">
+                <div class="active" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ12" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(5,1)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ12)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x6-y2">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ13" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(6,1)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ13)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x7-y2">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ14" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(7,1)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ14)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="board-row">
+            <div class="xx x1-y3">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ15" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(1,2)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ15)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x2-y3">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ16" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(2,2)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ16)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x3-y3">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ17" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(3,2)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ17)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x4-y3">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ18" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(4,2)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ18)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x5-y3">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ19" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(5,2)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ19)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x6-y3">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ20" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(6,2)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ20)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x7-y3">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ21" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(7,2)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ21)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="board-row">
+            <div class="xx x1-y4 is-margin-left">
+                <div class="active" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ22" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(1,3)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ22)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+                <div class="xx2"></div>
+            </div>
+            <div class="xx x2-y4">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ23" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(2,3)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ23)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x3-y4">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true">
+                            <svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                                <defs>
+                                    <pattern id="my-champ24" patternUnits="userSpaceOnUse" width="100" height="100">
+                                        <image  [attr.href]="getChampImage(3,3)" x="-25" width="150" height="100"></image>
+                                    </pattern>
+                                </defs>
+                                <polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ24)" style="stroke: rgb(17, 178, 136);">
+                                </polygon>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="xx x4-y4">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ25" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(4,3)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ25)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+                <div class="xx2"></div>
+            </div>
+            <div class="xx x5-y4">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ26" patternUnits="userSpaceOnUse" width="100" height="100"><image [attr.href]="getChampImage(5,3)" x="-25" width="150" height="100"></image></pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ26)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+                <div class="xx2"></div>
+            </div>
+            <div class="xx x6-y4">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true"><svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="my-champ27" patternUnits="userSpaceOnUse" width="100" height="100"><image  [attr.href]="getChampImage(6,3)" x="-25" width="150" height="100"></image>
+                        </pattern></defs><polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ27)" style="stroke: rgb(17, 178, 136);"></polygon></svg></div>
+                    </div>
+                </div>
+                <div class="xx2"></div>
+            </div>
+            <div class="xx x7-y4">
+                <div class="" style="display: inline;">
+                    <div class="component-champion">
+                        <div class="board-square" draggable="true">
+                            <svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                                <defs>
+                                    <pattern id="my-champ28" patternUnits="userSpaceOnUse" width="100" height="100">
+                                        <image  [attr.href]="getChampImage(7,3)" x="-25" width="150" height="100"></image>
+                                    </pattern>
+                                </defs>
+                                <polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#my-champ28)" style="stroke: rgb(17, 178, 136);">
+                                </polygon>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

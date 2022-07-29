@@ -1,0 +1,33 @@
+.board .board-row {
+    display: flex;
+    flex-flow: row wrap;
+    width: 525px;
+}
+
+.board .board-row>div {
+    width: 13.2%;
+}
+
+.xx .component-champion {
+    width: 100%;
+    cursor: move;
+}
+
+.xx2 {
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 66px;
+    z-index: 10;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+.board .is-margin-left {
+    margin-left: 6.6%;
+}
+
+.champion-img {
+    background-image: url(../../assets/champions/aatrox.png)
+}

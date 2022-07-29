@@ -1,0 +1,725 @@
+[{
+        "key": "Set7_Cannoneer",
+        "name": "Cannoneer",
+        "description": "Every 5th attack fires a cannon shot that explodes for physical damage around the target..",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 2,
+                "description": "125% Attack Damage"
+            },
+            {
+                "style": "silver",
+                "min": 3,
+                "max": 3,
+                "description": "225% Attack Damage"
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 4,
+                "description": "325% Attack Damage"
+            },
+            {
+                "style": "chromatic",
+                "min": 5,
+                "max": 25000,
+                "description": "425% Attack Damage"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Tempest",
+        "name": "Tempest",
+        "description": "After 8 seconds, lightning strikes the battlefield. Enemies are stunned for 2 seconds and take a percent of their maximum Health as true damage. Tempest champions gain Attack Speed.",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "10% damage, 20% Attack Speed"
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 5,
+                "description": "20% damage, 50% Attack Speed"
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 7,
+                "description": "30% damage, 100% Attack Speed"
+            },
+            {
+                "style": "chromatic",
+                "min": 8,
+                "max": 25000,
+                "description": "45% damage, 200% Attack Speed"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Assassin",
+        "name": "Assassin",
+        "description": "Innate: Leap to the enemy backline when combat starts. Assassins' Abilities can critically strike and they gain bonus Critical Strike Chance and bonus Critical Strike Damage.",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "15% Crit Chance & 5% Crit Damage"
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5,
+                "description": "30% Crit Chance & 25% Crit Damage"
+            },
+            {
+                "style": "chromatic",
+                "min": 6,
+                "max": 25000,
+                "description": "45% Crit Chance & 45% Crit Damage"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Dragon",
+        "name": "Dragon",
+        "description": "Innate: Require 2 team slots.This is only active with exactly 1 Dragon champion.",
+        "type": "origin",
+        "sets": [{
+                "style": "gold",
+                "min": 1,
+                "max": 1
+            },
+            {
+                "style": "chromatic",
+                "min": 1,
+                "max": 25000
+            }
+        ]
+    },
+    {
+        "key": "Set7_Ragewing",
+        "name": "Ragewing",
+        "description": "Innate: Gain 2 hex Attack Range. Swiftshots gain Attack Speed for each hex between themselves and their target.",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 3,
+                "max": 5,
+                "description": "50% Attack Speed, 25% Omnivamp"
+            },
+            {
+                "style": "silver",
+                "min": 6,
+                "max": 8,
+                "description": "135% Attack Speed, 50% Omnivamp"
+            },
+            {
+                "style": "gold",
+                "min": 9,
+                "max": 25000,
+                "description": "250% Attack Speed, 70% Omnivamp"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Guild",
+        "name": "Guild",
+        "description": "Grant a unique bonus to your team; Guild allies gain double the amount. Increases for each Guild member in play! Sejuani: +100 Health Twitch: +10% Attack Speed Ryze: +10 Ability Power Talon: +10 Attack Damage Bard: +2 Mana per attack Emblem: +5% Omnivamp",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 1,
+                "max": 1,
+                "description": "100% Guild bonus"
+            },
+            {
+                "style": "bronze",
+                "min": 2,
+                "max": 2,
+                "description": "120% Guild bonus"
+            },
+            {
+                "style": "silver",
+                "min": 3,
+                "max": 3,
+                "description": "140% Guild bonus"
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 4,
+                "description": "160% Guild bonus"
+            },
+            {
+                "style": "gold",
+                "min": 5,
+                "max": 5,
+                "description": "180% Guild bonus"
+            },
+            {
+                "style": "chromatic",
+                "min": 6,
+                "max": 6,
+                "description": "200% Guild bonus"
+            },
+            {
+                "style": "chromatic",
+                "min": 7,
+                "max": 25000,
+                "description": "250% Guild bonus"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Cavalier",
+        "name": "Cavalier",
+        "description": "Innate: Charge quickly towards their target whenever they move. Cavaliers gain Armor and Magic Resist. At the start of combat and after each charge, gain double the amount for 4 seconds.",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 2,
+                "description": "40 Armor, 40 Magic Resist"
+            },
+            {
+                "style": "silver",
+                "min": 3,
+                "max": 3,
+                "description": "60 Armor, 60 Magic Resist"
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 4,
+                "description": "80 Armor, 80 Magic Resist"
+            },
+            {
+                "style": "chromatic",
+                "min": 5,
+                "max": 25000,
+                "description": "100 Armor, 100 Magic Resist"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Mage",
+        "name": "Mage",
+        "description": "Mages cast twice and have modified total Ability Power.",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 3,
+                "max": 4,
+                "description": "80% Ability Power"
+            },
+            {
+                "style": "silver",
+                "min": 5,
+                "max": 6,
+                "description": "105% Ability Power"
+            },
+            {
+                "style": "gold",
+                "min": 7,
+                "max": 8,
+                "description": "125% Ability Power"
+            },
+            {
+                "style": "chromatic",
+                "min": 9,
+                "max": 25000,
+                "description": "150% Ability Power"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Evoker",
+        "name": "Evoker",
+        "description": "Gain Mana whenever an ally or enemy casts an Ability.",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "3 Mana"
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5,
+                "description": "7 Mana"
+            },
+            {
+                "style": "chromatic",
+                "min": 6,
+                "max": 25000,
+                "description": "12 Mana"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Shimmerscale",
+        "name": "Shimmerscale",
+        "description": "Grants exclusive random Shimmerscale items.",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 3,
+                "max": 4,
+                "description": "1 unique item"
+            },
+            {
+                "style": "silver",
+                "min": 5,
+                "max": 6,
+                "description": "2 unique item"
+            },
+            {
+                "style": "gold",
+                "min": 7,
+                "max": 8,
+                "description": "4 unique item"
+            },
+            {
+                "style": "chromatic",
+                "min": 9,
+                "max": 25000,
+                "description": "5 unique items, which includes Crown of Champions"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Dragonmancer",
+        "name": "Dragonmancer",
+        "description": "Use the Dragonmancer Blessing item to choose a Hero. The Hero gains massively increased Health and Ability Power, which increases by 20% per star level of your Dragonmancers.",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 3,
+                "max": 5,
+                "description": "300 Health, 15% Ability Power"
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 8,
+                "description": "750 Health, 35% Ability Power"
+            },
+            {
+                "style": "chromatic",
+                "min": 9,
+                "max": 25000,
+                "description": "1400 Health, 60% Ability Power"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Scalescorn",
+        "name": "Scalescorn",
+        "description": "If you don't have a Dragon on your team, Scalescorn champions deal bonus magic damage and take 20% reduced damage from enemies with more than 1700 Health.",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "15 magic damage"
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5,
+                "description": "50 magic damage"
+            },
+            {
+                "style": "chromatic",
+                "min": 6,
+                "max": 25000,
+                "description": "100 magic damage"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Whispers",
+        "name": "Whispers",
+        "description": "Whispers damage shrinks enemies, reducing their Armor and Magic Resist by 40% for 6 seconds. When they damage a shrunken enemy, Whispers gain stacking bonuses.",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "+1 Attack Damage and Ability Power"
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 5,
+                "description": "+3 Attack Damage and Ability Power"
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 7,
+                "description": "+5 Attack Damage and Ability Power"
+            },
+            {
+                "style": "chromatic",
+                "min": 8,
+                "max": 25000,
+                "description": "+8 Attack Damage and Ability Power"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Revel",
+        "name": "Revel",
+        "description": "After dealing damage with an Ability, launch a firecracker that deals magic damage to a random enemy.",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 2,
+                "description": "130 Magic Damage"
+            },
+            {
+                "style": "silver",
+                "min": 3,
+                "max": 3,
+                "description": "160 Magic Damage"
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 4,
+                "description": "210 Magic Damage"
+            },
+            {
+                "style": "chromatic",
+                "min": 5,
+                "max": 25000,
+                "description": "280 Magic Damage"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Mirage",
+        "name": "Mirage",
+        "description": "Mirage champions gain a different Trait bonus from game to game. Variations: Electric Overload, Warlord, Pirate, Dawnbringer, Executioner, Spellsword, Duelist.",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "Bonus Varies"
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 5,
+                "description": "Bonus Varies"
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 7,
+                "description": "Bonus Varies"
+            },
+            {
+                "style": "chromatic",
+                "min": 8,
+                "max": 25000,
+                "description": "Bonus Varies"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Trainer",
+        "name": "Trainer",
+        "description": "Every round, Trainers feed 1 Snax to Nomsy each, adding Health and Ability Power. Nomsy�s star level increases every 25 Snax!",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 2,
+                "description": "Summon Nomsy!"
+            },
+            {
+                "style": "gold",
+                "min": 3,
+                "max": 25000,
+                "description": "Nomsy�s Ability deals 100% more damage."
+            }
+        ]
+    },
+    {
+        "key": "Set7_Mystic",
+        "name": "Mystic",
+        "description": "Your team gains Magic Resist.",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 2,
+                "description": "50 Magic Resist"
+            },
+            {
+                "style": "silver",
+                "min": 3,
+                "max": 3,
+                "description": "100 Magic Resist"
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 4,
+                "description": "175 Magic Resist"
+            },
+            {
+                "style": "chromatic",
+                "min": 5,
+                "max": 25000,
+                "description": "300 Magic Resist"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Legend",
+        "name": "Legend",
+        "description": "Each combat: An adjacent champion bestows their spirit to the Legend, which gains 100% of their Health, Armor, and Magic Resistance, plus 40% of their Ability Power.",
+        "type": "class",
+        "sets": [{
+            "style": "gold",
+            "min": 3,
+            "max": 25000,
+            "description": "Bonus Active"
+        }]
+    },
+    {
+        "key": "Set7_Guardian",
+        "name": "Guardian",
+        "description": "Once per combat at 50% Health, Guardians shield themselves and their closest ally. Shields stack!",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "30% HP"
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5,
+                "description": "45% HP"
+            },
+            {
+                "style": "chromatic",
+                "min": 6,
+                "max": 25000,
+                "description": "65% HP"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Starcaller",
+        "name": "Starcaller",
+        "description": "The first Starcaller to cast their Ability heals you for 2/4/100, depending on their star level.",
+        "type": "origin",
+        "sets": [{
+            "style": "gold",
+            "min": 1,
+            "max": 25000,
+            "description": "Bonus Active"
+        }]
+    },
+    {
+        "key": "Set7_SpellThief",
+        "name": "Spell Thief",
+        "description": "Nab a new Ability after each cast and at the start of every round.",
+        "type": "origin",
+        "sets": [{
+            "style": "gold",
+            "min": 1,
+            "max": 25000,
+            "description": "Bonus Active"
+        }]
+    },
+    {
+        "key": "Set7_Warrior",
+        "name": "Warrior",
+        "description": "Warrior attacks have a 33% chance to increase the damage of their next attack.",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "120% damage"
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5,
+                "description": "220% damage"
+            },
+            {
+                "style": "chromatic",
+                "min": 6,
+                "max": 25000,
+                "description": "420% damage"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Jade",
+        "name": "Jade",
+        "description": "Summon movable Jade Statues that grow in power. Each combat, allies adjacent to a statue gain Attack Speed and maximum Health healing every 2 seconds. When a statue is destroyed, it deals 33% of its Health as magic damage to nearby enemies.",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 3,
+                "max": 5,
+                "description": "1 statue, +2% healing, +20% Attack Speed"
+            },
+            {
+                "style": "silver",
+                "min": 6,
+                "max": 8,
+                "description": "2 statue, +5% healing, +40% Attack Speed"
+            },
+            {
+                "style": "gold",
+                "min": 9,
+                "max": 11,
+                "description": "3 statue, +8% healing, +60% Attack Speed"
+            },
+            {
+                "style": "chromatic",
+                "min": 12,
+                "max": 25000,
+                "description": "4 statue, +25% healing, +100% Attack Speed"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Astral",
+        "name": "Astral",
+        "description": "Every 5th Shop is guaranteed to have 3 Astral units, and also grants an Astral orb. Your team gains bonus Ability Power.",
+        "type": "origin",
+        "sets": [{
+                "style": "bronze",
+                "min": 3,
+                "max": 5,
+                "description": "10 Ability Power"
+            },
+            {
+                "style": "silver",
+                "min": 6,
+                "max": 8,
+                "description": "40 Ability Power; orb value increases"
+            },
+            {
+                "style": "gold",
+                "min": 9,
+                "max": 25000,
+                "description": "80 Ability Power; orbs may contain components"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Swiftshot",
+        "name": "Swiftshot",
+        "description": "Innate: Gain 2 hex Attack Range. Swiftshots gain Attack Speed for each hex between themselves and their target.",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "10% Attack Speed"
+            },
+            {
+                "style": "gold",
+                "min": 4,
+                "max": 5,
+                "description": "20% Attack Speed"
+            },
+            {
+                "style": "chromatic",
+                "min": 6,
+                "max": 999,
+                "description": "40% Attack Speed"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Bard",
+        "name": "Bard",
+        "description": "Allies that survive player combat have a 20% chance to create a Doot. Bard always creates a Doot when dancing. Each Doot you collect increases your Shop odds by 1% for tiers 3, 4, and 5.",
+        "type": "class",
+        "sets": [{
+            "style": "gold",
+            "min": 1,
+            "max": 25000,
+            "description": "Bonus Active"
+        }]
+    },
+    {
+        "key": "Set7_Bruiser",
+        "name": "Bruiser",
+        "description": "Your team gains bonus maximum Health. Bruisers gain double this bonus.",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "200 Health"
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 5,
+                "description": "325 Health"
+            },
+            {
+                "style": "silver",
+                "min": 6,
+                "max": 7,
+                "description": "450 Health"
+            },
+            {
+                "style": "gold",
+                "min": 8,
+                "max": 25000,
+                "description": "700 Health"
+            }
+        ]
+    },
+    {
+        "key": "Set7_Shapeshifter",
+        "name": "Shapeshifter",
+        "description": "Transforming grants bonus maximum Health, and heals for that amount.",
+        "type": "class",
+        "sets": [{
+                "style": "bronze",
+                "min": 2,
+                "max": 3,
+                "description": "40% maximum Health"
+            },
+            {
+                "style": "silver",
+                "min": 4,
+                "max": 5,
+                "description": "90% maximum Health"
+            },
+            {
+                "style": "gold",
+                "min": 6,
+                "max": 25000,
+                "description": "145% maximum Health"
+            }
+        ]
+    }
+]

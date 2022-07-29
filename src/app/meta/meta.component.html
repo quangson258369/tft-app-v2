@@ -1,0 +1,39 @@
+<div class="meta-card-list">
+
+    <div class="meta-card">
+        <ng-container *ngFor="let m of meta;let i=index">
+            <a href="" [routerLink]="['details',m._id] ">
+                <div class="card" [ngStyle]="{'background-image':getBackgroundImage(m.name)}">
+                    <div class="card-name">
+                        <div class="meta-name">
+                            <p class="name">{{m.name}}</p>
+                        </div>
+                    </div>
+                    <div class="champ-list">
+                        <ng-container *ngFor="let c of m.map">
+
+                            <div class="champ-card">
+                                <div class="champ-icon">
+                                    <div class="icon" role="img">
+                                        <span>
+                                                <img [src]="getChampionIcon(c.data.champion_id)" alt="">
+                                            </span>
+                                    </div>
+                                    <div class="champName">
+                                        {{c.data.champion_id.replace("TFT7_","").toLowerCase()}}
+                                    </div>
+                                </div>
+                            </div>
+
+                        </ng-container>
+
+
+                    </div>
+                </div>
+            </a>
+
+        </ng-container>
+
+
+    </div>
+</div>

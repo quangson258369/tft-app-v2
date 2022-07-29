@@ -1,0 +1,52 @@
+<div id="container">
+    <div class="header">
+        <h1>
+            TFT <span style="color:#fc7c00;">CHAMPIONS</span>
+        </h1>
+        <h4>
+            We’ve got you covered for every champion, synergy, and item in TFT. Stay on top of the meta as Teamfight Tactics continues to grow and develop
+        </h4>
+    </div>
+
+    <div class="champion-list">
+        <ng-container *ngFor="let c of champion | filter:searchText">
+            <a href=" " [routerLink]="[ 'ChampionDetails',c.championId] ">
+                <div class="champion-card ">
+                    <div class="card " [ngStyle]="{ 'background-image': getUrlChampion(c.name)} ">
+
+                        <div class="trails ">
+                            <div>
+                                <ng-container *ngFor="let i of c.traits ">
+                                    <div class="trail-item ">
+
+                                        <div class="trail-image ">
+                                            <img [src]="getUrlTrails(i) " alt=" ">
+                                        </div>
+                                        <p>{{i}}</p>
+                                    </div>
+                                </ng-container>
+                            </div>
+
+
+
+                        </div>
+
+                    </div>
+                    <div class="footer ">
+                        <div class="row right ">
+                            <img src="../../assets/image/gold.svg " alt=" ">
+                            <p class="mr-3 ">{{c.cost}}</p>
+                        </div>
+                        <div class="left ">
+                            <p>{{c.name}}</p>
+
+                        </div>
+
+                    </div>
+                </div>
+            </a>
+        </ng-container>
+    </div>
+
+</div>
+<router-outlet></router-outlet>

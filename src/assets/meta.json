@@ -1,0 +1,2817 @@
+[{
+        "_id": "629ee93d57f3d799095fa162",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Olaf chiến binh đồ long",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>.</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Olaf]</p>\n<p>[champ:Diana]</p>\n<p>[champ:Lillia]</p>\n<p>[champ:Braum]</p>\n<p>[champ:Yasuo]</p>\n<p>[champ:Yone]</p>\n<p>[champ:Shen]</p>\n<p>[champ:Pyke]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>.</p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>.</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>.</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locleod"
+            },
+            "item_content": "<p>[champ:Olaf]</p>\n<ul>\n<li>[item:V&ocirc; Cực Kiếm]</li>\n<li>[item:Huyết Kiếm]</li>\n<li>[item:Quyền Năng Khổng Lồ]</li>\n</ul>\n<p>[champ:Diana]</p>\n<ul>\n<li>[item:Tim Băng]</li>\n</ul>\n<p>[champ:Yasuo]</p>\n<ul>\n<li>[item:B&ugrave;a Xanh]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n]</li>\n<li>[item:V&ocirc; Cực Kiếm]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 1,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Lillia"
+                }
+            },
+            {
+                "pos": {
+                    "x": 2,
+                    "y": 0
+                },
+                "data": {
+                    "item": [{
+                            "item_id": "44"
+                        },
+                        {
+                            "item_id": "69"
+                        },
+                        {
+                            "item_id": "19"
+                        }
+                    ],
+                    "champion_id": "TFT7_Yasuo"
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Shen"
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "item": [{
+                            "item_id": "25"
+                        },
+                        {
+                            "item_id": "16"
+                        },
+                        {
+                            "item_id": "19"
+                        }
+                    ],
+                    "champion_id": "TFT7_Olaf",
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Yone"
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Braum"
+                }
+            },
+            {
+                "pos": {
+                    "x": 1,
+                    "y": 3
+                },
+                "data": {
+                    "item": [{
+                        "item_id": "45"
+                    }],
+                    "champion_id": "TFT7_Diana"
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Pyke"
+                }
+            }
+        ],
+        "name": "Olaf Chiến binh Đồ Long",
+        "slug": "olaf-chien-binh-do-long",
+        "meta_level": 1,
+        "updatedAt": "2022-07-14T11:31:48.072Z"
+    },
+    {
+        "_id": "62a1393557f3d799095fa165",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Corki Pháo thủ Lễ hội Đấu sĩ",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>.</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Corki]</p>\n<p>[champ:Senna]</p>\n<p>[champ:Jinx]</p>\n<p>[champ:Tahm Kench]</p>\n<p>[champ:Sylas]</p>\n<p>[champ:Illaoi]</p>\n<p>[champ:Ornn]</p>\n<p>[champ:Sona]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>.</p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>.</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>.</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Corki]</p>\n<ul>\n<li>[item:B&agrave;n Tay C&ocirc;ng L&yacute;]</li>\n<li>[item:V&ocirc; Cực Kiếm]</li>\n<li>[item:Cuồng Đao Guinsoo]</li>\n</ul>\n<p>[champ:Ornn]</p>\n<ul>\n<li>[item:&Aacute;o Cho&agrave;ng Gai]</li>\n<li>[item:Vuốt Rồng]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 2,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Sylas"
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "item": [{
+                            "item_id": "55"
+                        },
+                        {
+                            "item_id": "66"
+                        }
+                    ],
+                    "champion_id": "TFT7_Ornn"
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_TahmKench"
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Illaoi"
+                }
+            },
+            {
+                "pos": {
+                    "x": 2,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Jinx"
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Sona"
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "item": [{
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "19"
+                        },
+                        {
+                            "item_id": "49"
+                        }
+                    ],
+                    "champion_id": "TFT7_Corki"
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Senna"
+                }
+            }
+        ],
+        "name": "Corki Pháo thủ Lễ hội Đấu sĩ",
+        "slug": "corki-phao-thu-le-hoi-dau-si",
+        "meta_level": 2,
+        "updatedAt": "2022-06-29T12:20:02.619Z"
+    },
+    {
+        "_id": "62a13dbd57f3d799095fa169",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Swain carry",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>.</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Swain]</p>\n<p>[champ:Shyvana]</p>\n<p>[champ:Hecarim]</p>\n<p>[champ:Yasuo]</p>\n<p>[champ:Ornn]</p>\n<p>[champ:Lee Sin]</p>\n<p>[champ:Shen]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>.</p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>.</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>.</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Swain]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:Kiếm S&uacute;ng Hextech]</li>\n<li>[item:Mũ Ph&ugrave; Thủy Rabadon]</li>\n</ul>\n<p>[champ:Shyvana]</p>\n<ul>\n<li>[item:Quyền Năng Khổng Lồ]</li>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Gai]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 1,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Hecarim"
+                }
+            },
+            {
+                "pos": {
+                    "x": 2,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_LeeSin"
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "item": [{
+                            "item_id": "25"
+                        },
+                        {
+                            "item_id": "55"
+                        },
+                        {
+                            "item_id": "66"
+                        }
+                    ],
+                    "champion_id": "TFT7_Shyvana"
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Shen"
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Yasuo"
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "item": [{
+                            "item_id": "13"
+                        },
+                        {
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "33"
+                        }
+                    ],
+                    "champion_id": "TFT7_Swain",
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Ornn"
+                }
+            }
+        ],
+        "name": "Swain carry",
+        "slug": "swain-carry",
+        "meta_level": 1,
+        "updatedAt": "2022-06-17T10:11:53.448Z"
+    },
+    {
+        "_id": "62a13f0a57f3d799095fa16f",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Sy'fen Đấu sĩ Ám long",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Sy'fen Đấu sĩ &Aacute;m long l&agrave; 1 đội h&igrave;nh cực k&igrave; ổn định ở thời điểm hiện tại v&agrave; đang c&oacute; tỉ lệ thắng kh&aacute; cao ở khắp c&aacute;c bậc rank, vậy c&aacute;ch x&acirc;y dựng đội h&igrave;nh n&agrave;y thế n&agrave;o, c&ugrave;ng Dtcl.gg t&igrave;m hiểu nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Sy'fen]</p>\n<p>[champ:Sylas]</p>\n<p>[champ:Ornn]</p>\n<p>[champ:Illaoi]</p>\n<p>[champ:Pyke]</p>\n<p>[champ:Thresh]</p>\n<p>[champ:Soraka]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>[champ:Sy'fen] mang trong m&igrave;nh khả năng chống chịu tốt từ hệ [trait:Đấu Sĩ], th&ecirc;m v&agrave;o đ&oacute; l&agrave; c&aacute;c chỉ số sức mạnh từ [trait:&Aacute;m Long] vậy n&ecirc;n ho&agrave;n to&agrave;n c&oacute; thể sử dụng đội h&igrave;nh n&agrave;y để đối đầu với bất cứ đội h&igrave;nh n&agrave;o trong top meta hiện tại nhờ khả năng c&ocirc;ng thủ to&agrave;n diện n&agrave;y.</p>\n<h3>Trang bị :</h3>\n<p>Về lượng đồ của [champ:Sy'fen] m&igrave;nh khuy&ecirc;n anh em lựa chọn ưu ti&ecirc;n l&agrave; [item:Cuồng Đao Guinsoo] bởi khi đ&aacute;nh nhanh th&igrave; con rồng n&agrave;y c&oacute; thể cộng dồn hiệu ứng của [trait:&Aacute;m Long] nhanh hơn, thậm ch&iacute; khi đ&aacute;nh nhanh cũng đồng nghĩa với việc thi triển kĩ năng nhanh hơn từ đ&oacute; c&oacute; thể lật ngược thế cờ 1 c&aacute;ch ho&agrave;n hảo. Ngo&agrave;i ra 1 đồ hồi phục cụ thể l&agrave; [item:Huyết Kiếm] sẽ l&agrave; lựa chọn tốt nhất để khả năng c&ograve; quay trong giao tranh được l&acirc;u hơn, ngo&agrave;i ra trang bị n&agrave;y cho 1 lượng gi&aacute;p ảo khi k&iacute;ch hoạt theo phần trăm m&aacute;u tối đa n&ecirc;n cực k&igrave; l&agrave; đa dụng trong nhiều t&igrave;nh huống. Ngo&agrave;i ra nếu kh&ocirc;ng vẽ được c&oacute; thể lựa chọn [item:B&agrave;n Tay C&ocirc;ng L&yacute;] hoặc [item:Kiếm S&uacute;ng Hextech] cũng kh&aacute; ổn . M&oacute;n đồ cuối m&igrave;nh thương lựa chọn [item:Quyền Năng Khổng Lồ], với chất tướng đứng h&agrave;ng tr&ecirc;n v&agrave; c&oacute; khả năng chống chịu đ&aacute;nh về l&acirc;u về d&agrave;i th&igrave; đ&acirc;y l&agrave; m&oacute;n trang bị cực k&igrave; tốt để về cuối giao tranh [champ:Sy'fen] c&oacute; được lượng sức mạnh, gi&aacute;p v&agrave; kh&aacute;ng ph&eacute;p lớn. Tuy nhi&ecirc;n nếu như lobby c&oacute; nhiều hiệu ứng khống chế c&oacute; thể c&acirc;n nhắc thay bằng [item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n]</p>\n<p>N&ecirc;n kiếm [item:&Aacute;o Cho&agrave;ng Lửa] để lắp cho [champ:Ornn] hoặc tướng đấu sĩ bất k&igrave; để đốt m&aacute;u, tr&aacute;nh khả năng gặp những đối thủ hồi nhiều m&aacute;u, [champ:Sy'fen] đ&aacute;nh kh&ocirc;ng lại</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn :</h3>\n<p>Những nấp cấp li&ecirc;n quan đến [trait:Đấu Sĩ] hay [trait:&Aacute;m Long] l&agrave; lựa chọn tốt nhất để gia tăng c&aacute;c chỉ số cho kh&ocirc;ng chỉ [champ:Sy'fen] m&agrave; c&ograve;n của cả đội h&igrave;nh. Ngo&agrave;i ra Sức mạnh khổng lồ - Cho tướng [trait:Đấu Sĩ] th&ecirc;m sức mạnh c&ocirc;ng k&iacute;ch khi c&oacute; m&aacute;u tối đa hơn 2000 sẽ l&agrave; lựa chọn c&acirc;n nhắc thứ 2 để d&agrave;n [trait:Đấu Sĩ] của anh em vừa tr&acirc;u b&ograve; m&agrave; c&ograve;n g&acirc;y ra lượng s&aacute;t thương khủng khiếp.</p>\n<p>Ngo&agrave;i ra c&aacute;c L&otilde;i li&ecirc;n quan đến Si&ecirc;u c&ocirc;ng nghệ cũng cực k&igrave; l&agrave; ổn v&igrave; đa dụng v&agrave; cho c&aacute;c chỉ số li&ecirc;n quan đối với đội h&igrave;nh đa dụng như thế n&agrave;y. Huấn luyện chiến đấu cũng l&agrave; 1 &yacute; hay để anh em t&iacute;ch sức mạnh c&ocirc;ng k&iacute;ch mỗi khi [champ:Sy'fen] hạ gục 1 mục ti&ecirc;u.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Đầu game khởi đầu với form li&ecirc;n quan đến [trait:Đấu Sĩ] sẽ l&agrave; ổn nhất, ngo&agrave;i ra khi đi chợ anh em cố gắng bắt&nbsp; được [item:Cung Gỗ] để gh&eacute;p sớm [item:Cuồng Đao Guinsoo] v&agrave; [item:Quyền Năng Khổng Lồ] l&agrave; ổn nhất. 2 m&oacute;n trang bị n&agrave;y cũng kh&aacute; l&agrave; ổn nếu như anh em sử dụng [champ:Sett] để cầm đồ hộ v&agrave; đ&aacute;nh theo form 3 [trait:Cuồng Long] 3 [trait:Chiến Binh Rồng]. Ngo&agrave;i ra khởi đầu m&agrave; may mắn c&oacute; được [champ:Yone] 2 sao m&agrave; def theo hướng [trait:Chiến Binh] [trait:Huyễn Long] l&agrave; tuyệt vời v&igrave; người anh trai n&agrave;y những nh&aacute;t ch&eacute;m theo nội tại cực k&igrave; đau.</p>\n<p>Đ&acirc;y l&agrave; đội h&igrave;nh cũng c&oacute; thể đ&aacute;nh theo hướng b&aacute;n m&aacute;u nhưng phải c&oacute; chuỗi thua d&agrave;i để &iacute;t nhất khi l&ecirc;n level 7 sau round đ&aacute;nh s&oacute;i anh em roll được &iacute;t nhất 1 [champ:Sy'fen] v&agrave; bắt đầu đ&aacute;nh chuỗi thắng ngược lại. Đ&acirc;y l&agrave; đội h&igrave;nh c&oacute; thể đ&aacute;nh để c&acirc;u top v&igrave; đơn giản nếu như kh&ocirc;ng c&oacute; ấn biến hệ n&agrave;o th&igrave; dừng ở level 7 l&agrave; đ&atilde; c&oacute; thể đ&aacute;nh cho m&igrave;nh form 4 [trait:Đấu Sĩ] 4 [trait:&Aacute;m Long]. Khi đ&oacute; nếu l&ecirc;n cấp được anh em th&ecirc;m c&aacute;c tướng 5 v&agrave;ng như [champ:Bard] để lấy hiệu ứng khống chế hoặc [champ:Soraka] để hồi m&aacute;u cho linh th&uacute; v&agrave; tướng đồng minh cũng cực k&igrave; l&agrave; tốt.</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><em><strong>Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website : Dtcl.gg</strong></em></span></p>\n<p>&nbsp;</p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi&nbsp;</p>\n<p>C&ocirc;ng thủ to&agrave;n diện</p>\n<p>Mạnh mẽ ở giữa trận đấu</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Cần c&aacute;c ấn li&ecirc;n quan đến [trait:&Aacute;m Long] hay [trait:Đấu Sĩ] để mạnh hẳn</p>\n<p>Yếu về cuối game</p>\n<p>Sợ [item:Diệt Khổng Lồ] v&agrave; những đội h&igrave;nh c&oacute; nhiều hiệu ứng khống chế</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Sy'fen]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:Quyền Năng Khổng Lồ]</li>\n<li>[item:Huyết Kiếm]</li>\n</ul>\n<p>[champ:Ornn]</p>\n<ul>\n<li>[item:&Aacute;o Cho&agrave;ng Lửa]</li>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:Th&uacute; Tượng Thạch Gi&aacute;p]</li>\n</ul>\n<p>[champ:Pyke]</p>\n<ul>\n<li>[item:Tim Băng]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Illaoi",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Sylas",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Syfen",
+                    "item": [{
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "16"
+                        },
+                        {
+                            "item_id": "25"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Ornn",
+                    "item": [{
+                            "item_id": "56"
+                        },
+                        {
+                            "item_id": "66"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_Thresh",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Soraka",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Pyke",
+                    "item": []
+                }
+            }
+        ],
+        "name": "Syfen Đấu sĩ Ám Long",
+        "slug": "syfen-dau-si-am-long",
+        "meta_level": 1,
+        "updatedAt": "2022-06-14T11:54:20.851Z"
+    },
+    {
+        "_id": "62a1405e57f3d799095fa171",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Xayah Cuồng Long",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Với việc [trait:Cuồng Long] v&agrave; bản th&acirc;n [champ:Shyvana] được tăng sức mạnh ở phi&ecirc;n bản vừa rồi th&igrave; anh em sẽ c&oacute; th&ecirc;m 1 form đội h&igrave;nh cực k&igrave; mạnh để leo rank. C&ugrave;ng Dtcl.gg t&igrave;m hiểu c&aacute;ch x&acirc;y dựng đội h&igrave;nh n&agrave;y nh&eacute; !&nbsp;</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Xayah]</p>\n<p>[champ:Shyvana]</p>\n<p>[champ:Hecarim]</p>\n<p>[champ:Kayn]</p>\n<p>[champ:Talon]</p>\n<p>[champ:Twitch]</p>\n<p>[champ:Sejuani]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Như m&igrave;nh đ&atilde; n&oacute;i ở tr&ecirc;n, [trait:Cuồng Long] v&agrave; bản th&acirc;n [champ:Shyvana] được tăng sức mạnh 1 c&aacute;ch đ&aacute;ng kể, kh&ocirc;ng chỉ vậy đội h&igrave;nh n&agrave;y c&oacute; phần th&iacute;ch hợp với lối đ&aacute;nh hiện tại hơn khi m&agrave; người người nh&agrave; nh&agrave; lựa chọn đ&aacute;nh [trait:Ph&aacute;p Sư] [champ:Varus] v&agrave; [champ:Corki]. Chỉ với 1 c&uacute; nhảy đẹp đến từ [champ:Shyvana] cả đội h&igrave;nh đối phương sẽ bị khống chế cũng như rối loạn, tạo tiền đề cho 1 giao tranh chiến thắng. Kh&ocirc;ng chỉ vậy, [champ:Xayah] khi đi với đội h&igrave;nh n&agrave;y sẽ c&oacute; th&ecirc;m tốc đ&aacute;nh v&agrave; khả năng h&uacute;t m&aacute;u to&agrave;n phần tốt hơn từ đ&oacute; c&ocirc;ng cuộc c&agrave;n qu&eacute;t cũng trở n&ecirc;n to&agrave;n diện v&agrave; nhanh ch&oacute;ng.</p>\n<h3>Trang bị&nbsp;</h3>\n<p>[champ:Xayah] vẫn sẽ l&agrave; nh&acirc;n tố ch&iacute;nh với [item:Cuồng Đao Guinsoo] [item:Diệt Khổng Lồ] v&agrave; [item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n]. C&oacute; thể thay [item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n] bằng [item:&Aacute;o Cho&agrave;ng B&oacute;ng Tối] để tr&aacute;nh đi sự quấy nhiễu của [trait:S&aacute;t Thủ] cũng như n&eacute; được c&aacute;c s&aacute;t thương kh&ocirc;ng mong muốn khi lượng m&aacute;u xuống dưới mức b&aacute;o động.</p>\n<p>[champ:Talon] sẽ l&agrave; đơn vị phụ s&aacute;t thương, ưu ti&ecirc;n [item:V&ocirc; Cực Kiếm] để lấy khả năng kết liễu nhanh mục ti&ecirc;u, tiếp đ&oacute; l&agrave; [item:Cung Xanh] để t&iacute;ch hợp khả năng ph&aacute; gi&aacute;p. M&oacute;n đồ cuối c&ugrave;ng anh em chọn [item:Huyết Kiếm] hoặc [item:B&agrave;n Tay C&ocirc;ng L&yacute;] để lấy lượng hồi phục l&agrave; hợp l&iacute; nhất.</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn</h3>\n<p>Những n&acirc;ng cấp như th&ecirc;m mốc hay ấn [trait:Cuồng Long] v&agrave; [trait:Bang Hội] lấy ngay kh&ocirc;ng cần suy nghĩ để anh em c&oacute; khả năng đẩy mốc của c&aacute;c tộc hệ n&agrave;y l&ecirc;n cao nhất cũng như c&oacute; cơ hội kẹp c&aacute;c đơn vị kh&aacute;c v&agrave;o.</p>\n<p>Những n&acirc;ng cấp li&ecirc;n quan đến tộc hệ th&igrave; n&ecirc;n lựa chọn như l&agrave; Ch&acirc;n Hỏa hay H&oacute;a h&ugrave;ng sẽ l&agrave; lựa chọn tiếp theo v&igrave; cơ bản khung đội h&igrave;nh của anh em l&agrave; c&aacute;c tướng [trait:Cuồng Long].</p>\n<p>Ngo&agrave;i ra anh em cũng h&atilde;y lựa chọn c&aacute;c l&otilde;i li&ecirc;n quan đến cho đồ như Tiếp tế trang bị, nhận Găng đạo tặc hay Nhận c&aacute;c m&oacute;n đồ ngẫu nhi&ecirc;n l&agrave; tốt nhất để đơn vị n&agrave;o của anh em cũng c&oacute; đồ. Ngo&agrave;i ra c&aacute;c l&otilde;i đa dụng như l&agrave; Chiến lợi phẩm, Phước l&agrave;nh vũ trụ, Cấy gh&eacute;p si&ecirc;u c&ocirc;ng nghệ hay L&aacute; chắn si&ecirc;u c&ocirc;ng nghệ cũng cực k&igrave; tốt m&agrave; anh em c&oacute; thể linh hoạt lựa chọn.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh&nbsp;</h3>\n<p>Về cơ bản th&igrave; đ&acirc;y l&agrave; đội h&igrave;nh biến thể từ [champ:Xayah] [trait:Bang Hội] n&ecirc;n c&aacute;ch đi l&ecirc;n cũng kh&ocirc;ng kh&aacute;c g&igrave; nhiều. Anh em h&atilde;y khởi đầu với [champ:Sejuani] l&agrave;m n&ograve;ng cốt cho h&agrave;ng chống chịu, đ&acirc;y cũng l&agrave; đơn vị kh&aacute; tốt khi cho cả đội h&igrave;nh của anh em th&ecirc;m 100 m&aacute;u. Tiếp đ&oacute;, lựa chọn c&aacute;c vị tr&iacute; như [champ:Ezreal] [champ:Varus] hay [champ:Ashe] kẹp với [champ:Twitch] l&agrave; c&oacute; 1 đội h&igrave;nh thừa sức def m&aacute;u rồi.</p>\n<p>Đ&acirc;y l&agrave; đội h&igrave;nh chỉ c&oacute; thể ho&agrave;n chỉnh ở level 8, th&ecirc;m v&agrave;o đ&oacute; l&agrave; chỉ khi ở level 8 anh em mới c&oacute; tỉ lệ ra được [champ:Shyvana] ( Level 7 cũng c&oacute; 1% nhưng rất kh&oacute; v&agrave; kể cả c&oacute; th&igrave; anh em cũng kh&oacute; c&oacute; thể bỏ v&agrave;o do chưa c&oacute; form ). Ch&uacute; &yacute; muốn chơi b&agrave;i n&agrave;y anh em phải c&oacute; chiến lược giữ m&aacute;u cũng như tối ưu kinh tế thật tốt ngay từ đầu để qua c&aacute;c v&ograve;ng đấu, lợi tức cũng từ đ&oacute; m&agrave; được tối ưu.</p>\n<p>Hợp l&iacute; nhất l&agrave; ở round 5. Anh em l&ecirc;n được level 8 với khoảng 40 tiền, xả thật mạnh t&igrave;m kiếm c&aacute;c đơn vị cần thiết trong đội h&igrave;nh v&agrave; ho&agrave;n th&agrave;nh n&oacute;. 1 lưu &yacute; nữa khi chơi đội h&igrave;nh n&agrave;y đ&oacute; l&agrave; xếp b&agrave;i, [champ:Shyvana] sẽ bay l&ecirc;n chỉ sau 2 đ&ograve;n đ&aacute;nh vậy n&ecirc;n đừng xếp ngay tr&ecirc;n [champ:Xayah] v&igrave; bay l&ecirc;n rồi th&igrave; h&agrave;ng chống chịu đối phương sẽ tr&agrave;n v&agrave;o g&acirc;y kh&oacute; dễ. Tốt nhất l&agrave; xếp [champ:Shyvana] ở vị tr&iacute; giữa s&acirc;n rồi [champ:Sejuani] ngay b&ecirc;n cạnh, [champ:Hecarim] v&igrave; mục đ&iacute;ch bo g&oacute;c sẽ đứng ở dưới ngay b&ecirc;n cạnh [champ:Twitch]. [champ:Talon] th&igrave; hơi kh&oacute; xếp nhưng h&atilde;y vứt ở giữa s&acirc;n để tạo hiệu ứng tốt nhất kết liễu chủ lực địch</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong><em>Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website : Dtcl.gg</em></strong></span></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>Th&iacute;ch hợp với lối đ&aacute;nh ở meta hiện tại</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Bắt buộc phải l&ecirc;n được level 8 ho&agrave;n th&agrave;nh khung đội h&igrave;nh v&agrave; t&igrave;m kiếm [champ:Shyvana]</p>\n<p>Cần kh&aacute; nhiều đồ cho c&aacute;c tướng để đội h&igrave;nh khỏe 1 c&aacute;ch to&agrave;n diện</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Xayah]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:Diệt Khổng Lồ]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n]</li>\n</ul>\n<p>[champ:Shyvana]</p>\n<ul>\n<li>[item:Quyền Năng Khổng Lồ]</li>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:B&agrave;n Tay C&ocirc;ng L&yacute;]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Shyvana",
+                    "item": [{
+                            "item_id": "49"
+                        },
+                        {
+                            "item_id": "66"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Sejuani",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 1,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Talon",
+                    "item": [{
+                            "item_id": "19"
+                        },
+                        {
+                            "item_id": "29"
+                        },
+                        {
+                            "item_id": "16"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Kayn",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Hecarim",
+                    "item": [{
+                        "item_id": "99"
+                    }]
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Xayah",
+                    "item": [{
+                            "item_id": "12"
+                        },
+                        {
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "69"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Twitch",
+                    "item": []
+                }
+            }
+        ],
+        "name": "Xayah Cuồng Long",
+        "slug": "xayah-cuong-long",
+        "meta_level": 0,
+        "updatedAt": "2022-07-17T11:37:58.193Z"
+    },
+    {
+        "_id": "62a3460857f3d799095fa1db",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Varus đấu sĩ xạ tiễn",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Phải n&oacute;i d&ugrave; m&ugrave;a 7 chỉ mới ra mắt được 1 ng&agrave;y nhưng ngay lập tức đội ngũ l&agrave;m game cũng như c&aacute;c cờ thủ được 1 phen thở kh&ocirc;ng ra hơi với đội h&igrave;nh n&agrave;y v&igrave; khả năng g&aacute;nh team qu&aacute; mạnh mẽ của t&ecirc;n [trait:Xạ Tiễn] [champ:Varus]. Đội h&igrave;nh n&agrave;y c&oacute; g&igrave; đặc biệt, c&ugrave;ng m&igrave;nh t&igrave;m hiểu c&aacute;ch chơi đội h&igrave;nh n&agrave;y nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Varus]</p>\n<p>[champ:Ashe]</p>\n<p>[champ:Twitch]</p>\n<p>[champ:Xayah]</p>\n<p>[champ:Shen]</p>\n<p>[champ:Illaoi]</p>\n<p>[champ:Sylas]</p>\n<p>[champ:Skarner]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Thực sự khi biết đến đội h&igrave;nh n&agrave;y, bản th&acirc;n m&igrave;nh cũng phải bất ngờ v&igrave; cứ c&oacute; đồ chuẩn với khung đội h&igrave;nh đẹp l&agrave; tự động v&agrave;o top, một ch&uacute;t nh&acirc;n phẩm v&agrave; d&aacute;t v&agrave;ng được l&agrave; c&aacute;i top 1 kh&ocirc;ng thể tho&aacute;t khỏi tay.</p>\n<h3>Trang bị :</h3>\n<p>[champ:Varus] anh em cố vẽ được [item:Cuồng Đao Guinsoo] để t&iacute;ch cộng dồn gia tăng tốc đ&aacute;nh theo thời gian v&agrave; [item:Cuồng Cung Runaan] để g&acirc;y s&aacute;t thương đa mục ti&ecirc;u được hiệu quả hơn, đ&acirc;y l&agrave; 2 m&oacute;n đồ cực k&igrave; quan trọng nếu như kh&ocirc;ng muốn n&oacute;i l&agrave; bắt buộc phải c&oacute; để [champ:Varus] được l&agrave;m chủ cuộc chơi. Trang bị cuối c&ugrave;ng c&oacute; thể lấy [item:Kiếm Tử Thần] hoặc [item:Diệt Khổng Lồ] để g&acirc;y th&ecirc;m s&aacute;t thương, thấy thiếu hồi phục th&igrave; anh em chọn gh&eacute;p [item:Huyết Kiếm] hoặc [item:Kiếm S&uacute;ng Hextech] [item:B&agrave;n Tay C&ocirc;ng L&yacute;].</p>\n<p>Chống chịu ch&iacute;nh sẽ l&agrave; [champ:Illaoi], kể cả khi chỉ mới 2 sao nhưng với khả năng đ&aacute;nh cắp gi&aacute;p v&agrave; kh&aacute;ng ph&eacute;p th&igrave; b&agrave; ta cũng tỏ ra cực k&igrave; tr&acirc;u b&ograve; ở h&agrave;ng tr&ecirc;n v&agrave; cầm ch&acirc;n để ph&iacute;a sau g&acirc;y s&aacute;t thương.</p>\n<p>Ngo&agrave;i ra với đội h&igrave;nh roll 3 sao th&igrave; [item:Th&ocirc;ng Đạo Zz'rot] l&agrave; lựa chọn tốt để th&ecirc;m một ch&uacute;t thu h&uacute;t s&aacute;t thương, [item:Tụ B&atilde;o Zeke] , [item:Vuốt Ma &Aacute;m] cũng l&agrave; những trang bị h&agrave;o quang cực k&igrave; tốt để bổ trợ cho hắn ta.</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn :</h3>\n<p>Những n&acirc;ng cấp th&ecirc;m mốc tộc hệ [trait:Đấu Sĩ] v&agrave; [trait:Xạ Tiễn] l&agrave; kh&ocirc;ng thể bỏ qua, ngo&agrave;i ra&nbsp;<span style=\"background-color: #ffffff; font-family: docs-Roboto; font-size: 19px; white-space: pre-wrap;\"> </span>T&ecirc;n Bạc : đ&ograve;n đ&aacute;nh của tướng Xạ Tiễn đặt một cộng dồn l&ecirc;n mục ti&ecirc;u trong 5 gi&acirc;y. mỗi cộng dồn thứ 3 được &aacute;p dụng sẽ g&acirc;y s&aacute;t thương chuẩn tương đương 5% m&aacute;u tối đa của mục ti&ecirc;u l&agrave; lựa chọn cực k&igrave; tốt nếu như muốn gia tăng s&aacute;t thương cho đội h&igrave;nh</p>\n<p>Ngo&agrave;i ra những n&acirc;ng cấp li&ecirc;n quan đến xoay roll trong cửa h&agrave;ng cũng cực k&igrave; ph&ugrave; hợp để anh em cập nhật c&aacute;c đơn vị l&ecirc;n 3 sao sớm nhất c&oacute; thể như Khu giao dịch, Ti&ecirc;u d&ugrave;ng c&oacute; t&iacute;nh to&aacute;n.</p>\n<p>Tiếp đ&oacute; v&igrave; khả năng mỗi lần thứ 5 xoay cửa h&agrave;ng cho 1 vi&ecirc;n thượng long th&igrave;&nbsp;Qu&agrave; Từ Vũ Trụ: Vi&ecirc;n Thượng Long c&oacute; 50 tỉ lệ sinh ra một vi&ecirc;n thứ 2 chứa vật phẩm thưởng th&ecirc;m cũng sẽ cực k&igrave; hữu dụng để gia tăng lượng kinh tế v&agrave; đ&ocirc;i khi cũng nhận được c&aacute;c mảnh trang bị cần thiết</p>\n<p>Nếu như muốn vẽ đồ: Hộp Pandora l&agrave; lựa chọn cực k&igrave; ổn, tuy nhi&ecirc;n nhược điểm l&agrave; anh em kh&oacute; tối ưu đồ được ngay lập tức, th&ecirc;m v&agrave;o đ&oacute; l&agrave; l&uacute;c cần đ&aacute;nh lại chuỗi thắng cũng sẽ cực k&igrave; kh&oacute;.</p>\n<p>Bởi v&igrave; mới bắt đầu m&ugrave;a mới 1 ng&agrave;y n&ecirc;n nếu c&ograve;n thiếu l&otilde;i n&agrave;o anh em h&atilde;y để lại những &yacute; kiến cho tụi m&igrave;nh tham khảo nha !</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Kh&ocirc;ng biết tại thời điểm b&agrave;i viết n&agrave;y được l&ecirc;n s&oacute;ng th&igrave; đ&atilde; c&oacute; nhiều người biết tới chưa v&igrave; bản chất đ&acirc;y l&agrave; 1 đội h&igrave;nh re- roll n&ecirc;n cực k&igrave; sợ bị tranh b&agrave;i. Nếu như kh&ocirc;ng c&oacute; nh&agrave; tranh hay hướng tới lời khuy&ecirc;n đầu ti&ecirc;n l&agrave; anh em h&atilde;y b&aacute;n m&aacute;u. B&aacute;n m&aacute;u để lấy chuỗi thua v&agrave; c&oacute; lượng kinh tế lớn, th&ecirc;m v&agrave;o đ&oacute; l&agrave; nhặt được những m&oacute;n đồ cần thiết. Đừng sợ khi m&aacute;u xuống qu&aacute; thấp bởi v&igrave; ngay sau khi đ&aacute;nh round qu&aacute;i người đ&aacute; m&agrave; c&oacute; được chuỗi thua 5 đảm bảo anh em sẽ c&oacute; tới hơn 50 v&agrave;ng để l&ecirc;n cấp.&nbsp;</p>\n<p>Anh em d&ugrave;ng lợi tức l&ecirc;n level 6 rồi bắt đầu d&ugrave;ng tiền ho&agrave;n thiện form 2 [trait:Xạ Tiễn] 3 [trait:Thượng Long] k&egrave;m [trait:Đấu Sĩ] . Tiếp theo khi [champ:Varus] c&ugrave;ng form chống chịu h&agrave;ng tr&ecirc;n đ&atilde; ổn th&igrave; t&iacute;nh tới chuyện l&ecirc;n level 7, nếu như kh&ocirc;ng c&oacute; c&aacute;c ấn biến hệ ph&ugrave; hợp anh em h&atilde;y chọn kẹp th&ecirc;m [trait:Bang Hội] hoặc [trait:L&ocirc;i Long] để lấy th&ecirc;m c&aacute;c hiệu ứng cần thiết rồi t&iacute;ch lại tiền l&ecirc;n level 8 rồi kẹp đủ 8 [trait:Xạ Tiễn] l&agrave; ổn.</p>\n<p>Trong trường hợp bị tranh b&agrave;i, anh em cố kiếm bằng được đồ chuẩn rồi gia sức l&ecirc;n cấp để kẹp hệ sao cho ổn nhất rồi đ&aacute;nh bằng m&aacute;u chờ nh&agrave; kia chết trước hoặc &iacute;t nhất l&agrave; k&eacute;o được v&agrave;o trong top 4. Với [champ:Varus] 2 sao ở thời điểm hiện tại chắc chắn nếu ko v&agrave;o được top 4 cũng sẽ kh&ocirc;ng khiến anh em bị c&aacute;i top 7 8 v&agrave; trừ điểm qu&aacute; nặng.</p>\n<h3 style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><em><strong>Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website : Dtcl.gg</strong></em></span></h3>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi&nbsp;</p>\n<p>C&oacute; thể spam giai đoạn đầu m&ugrave;a</p>\n<p>Top 1 nếu như d&aacute;t v&agrave;ng được đội h&igrave;nh</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Cần 1 ch&uacute;t kh&eacute;o l&eacute;o xếp đội h&igrave;nh</p>\n<p>Cần bi&ecirc;t căn chỉnh l&agrave;m kinh tế cũng như đ&aacute;nh gi&aacute; đội h&igrave;nh c&aacute;c nh&agrave;</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Varus]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:Cuồng Cung Runaan]</li>\n<li>[item:Huyết Kiếm]</li>\n</ul>\n<p>[champ:Illaoi]</p>\n<ul>\n<li>[item:&Aacute;o Cho&agrave;ng Gai]</li>\n<li>[item:Vuốt Rồng]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 2,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Skarner",
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "item": [{
+                            "item_id": "55"
+                        },
+                        {
+                            "item_id": "56"
+                        },
+                        {
+                            "item_id": "66"
+                        }
+                    ],
+                    "champion_id": "TFT7_Illaoi",
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Shen",
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Sylas"
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Xayah"
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Ashe"
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "item": [{
+                            "item_id": "26"
+                        },
+                        {
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "16"
+                        }
+                    ],
+                    "champion_id": "TFT7_Varus",
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Twitch"
+                }
+            }
+        ],
+        "name": "Varus đấu sĩ xạ tiễn",
+        "slug": "varus-dau-si-xa-tien",
+        "meta_level": 1,
+        "updatedAt": "2022-06-17T10:12:31.750Z"
+    },
+    {
+        "_id": "62a5c32d60b6ca20e9e4cf23",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Sett đấm bốc",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>B&atilde;i r&aacute;c [champ:Varus] vừa bị ăn gậy th&igrave; mhay lập tức c&aacute;c cờ thủ của ch&uacute;ng ta lại s&aacute;ng tạo ra 1 đội h&igrave;nh để spam kh&aacute;c kh&ocirc;ng k&eacute;m phần mạnh mẽ để leo rank. Đội h&igrave;nh ch&uacute;ng m&igrave;nh muốn n&oacute;i tới ở đ&acirc;y đ&oacute; l&agrave; [champ:Sett] [trait:Cuồng Long] hay c&ograve;n c&oacute; t&ecirc;n kh&aacute;c l&agrave; [champ:Sett] đấm bốc. Vậy c&aacute;ch chơi đội h&igrave;nh n&agrave;y thế n&agrave;o, c&ugrave;ng m&igrave;nh t&igrave;m hiểu nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Sett]</p>\n<p>[champ:Senna]</p>\n<p>[champ:Shen]</p>\n<p>[champ:Swain]</p>\n<p>[champ:Xayah]</p>\n<p>[champ:Lee Sin]</p>\n<p>[champ:Shyvana]</p>\n<p>[champ:Hecarim]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Phải n&oacute;i răng ngay từ l&uacute;c [champ:Varus] c&ograve;n đang được tranh nhau để chơi th&igrave; m&igrave;nh đ&atilde; nhận thấy [champ:Sett] l&agrave; qu&acirc;n b&agrave;i cực k&igrave; lỗi kể cả khi cầm đồ hộ những m&oacute;n li&ecirc;n quan đến hiệu ứng đ&ograve;n đ&aacute;nh. Giờ đ&acirc;y người người nh&agrave; nh&agrave; thi nhau spam [champ:Sett] để leo rank kể cả c&aacute;c cờ thủ rank cao.</p>\n<h3>Trang bị :</h3>\n<p>[champ:Sett] bắt buộc phải c&oacute; 2 m&oacute;n đồ l&agrave; [item:Cuồng Đao Guinsoo] để t&iacute;ch hợp với khả năng đ&aacute;nh tay mạnh mẽ được nhanh v&agrave; nhiều hơn v&agrave; [item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n] th&igrave; bởi [champ:Sett] l&agrave; 1 tướng cận chiến phải đứng h&agrave;ng đầu ti&ecirc;n v&agrave; đ&ocirc;i khi sẽ \" hứng mũi chịu s&agrave;o \" những kĩ năng khống chế từ đ&oacute; kh&ocirc;ng thể g&acirc;y s&aacute;t thương trong giao tranh. M&oacute;n đồ cuối c&ugrave;ng, ch&uacute;ng m&igrave;nh đề nghị [item:Kiếm Tử Thần] hoặc [item:V&ocirc; Cực Kiếm] [item:Diệt Khổng Lồ] để những c&uacute; đấm mạnh mẽ v&agrave; chất lượng hơn. Ngo&agrave;i ra c&oacute; thể thay bằng [item:Quyền Năng Khổng Lồ] nếu như muốn hắn ta sống dai hơn trong giao tranh, cực k&igrave; th&iacute;ch hợp với lối đ&aacute;nh l&acirc;u d&agrave;i</p>\n<h3>L&otilde;i rồng thần n&ecirc;n chọn :&nbsp;</h3>\n<p>Chắc chắn kh&ocirc;ng thể bỏ qua những l&otilde;i li&ecirc;n quan đến tộc hệ li&ecirc;n quan đến [champ:Sett] như [trait:Cuồng Long] hay [trait:Chiến Binh Rồng] để bổ trợ trực tiếp sức mạnh. Tiếp đ&oacute; Khai t&acirc;m - Khi tướng chiến binh rồng tham gia hạ gục, tướng c&oacute; li&ecirc;n kết tộc hệ với chiến binh rồng sẽ nhận được 50% tốc độ đ&aacute;nh trong 3 gi&acirc;y cũng l&agrave; 1 lựa chọn cực k&igrave; ổn để gia tăng sức mạnh cho c&aacute;c đơn vị [trait:Cuồng Long], anh em sẽ hướng tới đ&aacute;nh khung to&agrave;n đội h&igrave;nh mạnh mẽ chứ kh&ocirc;ng chỉ phụ thuộc 1 m&igrave;nh [champ:Sett]</p>\n<p>Ngo&agrave;i ra, l&agrave;m n&oacute;ng c&aacute;c mốc - Cho c&aacute;c tướng tr&ecirc;n h&agrave;ng chờ nhận cộng dồn s&aacute;t thương l&agrave; 1 l&otilde;i cực k&igrave; hay để trong thời gian slow roll, anh em c&oacute; thể t&iacute;ch cho m&igrave;nh c&aacute;c stack của l&otilde;i n&agrave;y. Tiếp đ&oacute; Khai t&acirc;m -&nbsp;Khi tướng chiến binh rồng tham gia hạ gục, tướng c&oacute; li&ecirc;n kết tộc hệ với chiến binh rồng sẽ nhận được 50% tốc độ đ&aacute;nh trong 3 gi&acirc;y cũng l&agrave; 1 lựa chọn cực k&igrave; ổn</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Chắc chắn rồi, với 1 b&agrave;i đấu sử dụng tướng 1 tiền carry như [champ:Sett] bắt buộc phải c&oacute; được 3 sao, chỉ c&oacute; 2 c&aacute;ch để khởi đầu bộ b&agrave;i n&agrave;y 1 c&aacute;ch ho&agrave;n thiện đ&oacute; l&agrave; b&agrave;i tự ra v&agrave; b&aacute;n m&aacute;u d&ugrave;ng kinh tế để roll [champ:Sett] . C&aacute;ch đầu ti&ecirc;n m&igrave;nh sẽ kh&ocirc;ng đề cập đến bởi rất hiếm khi c&oacute; được 1 trận đấu như vậy v&igrave; phải cần nh&acirc;n phẩm cực k&igrave; cao th&ecirc;m v&agrave;o đ&oacute; l&agrave; kh&ocirc;ng c&oacute; nh&agrave; n&agrave;o tranh b&agrave;i. C&aacute;ch thứ 2 chắc chắn ho&agrave;n thiện hơn bởi khi b&aacute;n m&aacute;u đ&aacute;nh chuỗi thua giai đoạn đầu anh em kh&ocirc;ng chỉ c&oacute; cho m&igrave;nh 1 lượng kinh tế lớn m&agrave; c&ograve;n dễ d&agrave;ng xuống ph&iacute;a dưới v&agrave; nhặt được những m&oacute;n đồ m&igrave;nh mong muốn</p>\n<p>Về cơ chế đ&aacute;nh l&agrave; thế, tuy nhi&ecirc;n c&oacute; 1 v&agrave;i điều cần nhắc nhở anh em đ&oacute; l&agrave; :</p>\n<ul>\n<li>Ch&uacute; &yacute; lượng đồ khởi đầu khi đ&aacute;nh qu&aacute;i, thấy ra to&agrave;n [item:Nước Mắt Nữ Thần] với [item:Gậy Qu&aacute; Khổ] hay [item:Găng Đấu Tập] th&igrave; tốt nhất l&agrave; chuyển hướng, đừng cố theo l&agrave;m g&igrave; m&agrave; mất điểm oan. Chưa kể c&ograve;n 1 đống nh&agrave; spam, chỉ cần người ta đồ đẹp hơn l&agrave; anh em ho&agrave;n to&agrave;n kh&ocirc;ng c&oacute; sức kh&aacute;ng cự</li>\n<li>Cố gắng b&aacute;n m&aacute;u để kiếm cho m&igrave;nh chuỗi thua d&agrave;i v&agrave;o, mất chuỗi l&agrave; cực k&igrave; khổ nếu như b&agrave;i đấu của anh em chưa đủ lực comeback, thắng thắng thua thua xen kẽ nhau cực k&igrave; yếu về lượng kinh tế vậy n&ecirc;n check b&agrave;i thật kĩ, th&agrave; thua 1 ch&uacute;t m&aacute;u c&ograve;n hơn l&agrave; kh&ocirc;ng c&oacute; đủ tiền để l&ecirc;n cấp hay roll tướng</li>\n<li>M&igrave;nh c&oacute; thử qua form 5 [trait:Chiến Binh Rồng] nhưng cảm gi&aacute;c kh&aacute; đuối do tộc hệ n&agrave;y chỉ cộng gi&aacute;p v&agrave; kh&aacute;ng ph&eacute;p c&ograve;n [champ:Sett] th&igrave; kh&aacute; cần tốc đ&aacute;nh, khả năng hồi phục cũng như cường h&oacute;a đ&ograve;n đ&aacute;nh vậy n&ecirc;n form 6 hay thậm ch&iacute; 9 [trait:Cuồng Long] sẽ ổn hơn. Anh em cố gắng khi l&ecirc;n được [champ:Sett] 3 rồi m&agrave; c&oacute; [item:Ấn Cuồng Long] hay [item:Ấn Chiến Binh] l&agrave; c&oacute; thể đủ form ngay từ level 8.</li>\n</ul>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><em><strong>Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website : Dtcl.gg</strong></em></span></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>S&aacute;t thương về cuối trận nếu như update được đội h&igrave;nh l&agrave; kh&ocirc;ng hề yếu d&ugrave; chỉ l&agrave; carry 1 tiền</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Dễ bị tranh b&agrave;i</p>\n<p>Mạnh hẳn khi c&oacute; 9 [trait:Cuồng Long] vậy n&ecirc;n rất cần c&oacute; [item:Ấn Cuồng Long] hoặc [champ:Shyvana] từ sớm</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Sett]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n]</li>\n<li>[item:Kiếm Tử Thần]</li>\n</ul>\n<p>[champ:Shyvana]</p>\n<ul>\n<li>[item:Quyền Năng Khổng Lồ]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Gai]</li>\n<li>[item:Vuốt Rồng]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 2,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Hecarim"
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "item": [{
+                        "item_id": "25"
+                    }],
+                    "champion_id": "TFT7_Shyvana"
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Shen"
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "item": [{
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "69"
+                        },
+                        {
+                            "item_id": "11"
+                        }
+                    ],
+                    "champion_id": "TFT7_Sett",
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 0
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_LeeSin"
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Swain"
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Xayah"
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "item": [],
+                    "champion_id": "TFT7_Senna",
+                    "champion_star": 3
+                }
+            }
+        ],
+        "name": "Sett cuồng long - Sett đấm bốc",
+        "slug": "Sett-cuong-long-sett-dam-boc",
+        "meta_level": 2,
+        "updatedAt": "2022-06-28T11:57:37.831Z"
+    },
+    {
+        "_id": "62ab2211100e1a001c2336e7",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Ezreal hộ pháp xạ tiễn",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Đầu m&ugrave;a 7 anh em cờ thủ được chứng kiến sức mạnh của những vị tướng 1 v&agrave;ng với v&ocirc; v&agrave;n c&aacute;c biến thể kh&aacute;c nhau, đội h&igrave;nh Dtcl.gg sắp giới thiệu dưới đ&acirc;y cũng l&agrave; 1 v&iacute; dụ ti&ecirc;u biểu v&igrave; độ hữu dụng v&agrave; được tin d&ugrave;ng kể cả ở những bậc rank cao. H&atilde;y c&ugrave;ng ch&uacute;ng m&igrave;nh t&igrave;m hiểu [champ:Ezreal] [trait:Hộ Ph&aacute;p] [trait:Xạ Tiễn] x&acirc;y dựng thế n&agrave;o nh&eacute;</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Ezreal]</p>\n<p>[champ:Ashe]</p>\n<p>[champ:Taric]</p>\n<p>[champ:Leona]</p>\n<p>[champ:Braum]</p>\n<p>[champ:Thresh]</p>\n<p>[champ:Lee Sin]</p>\n<p>[champ:Karma]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Phải n&oacute;i rằng đội h&igrave;nh n&agrave;y nhiều khi mạnh đến mức \" r&aacute;c \" v&igrave; kể cả 2 nh&agrave; tranh nhau chơi cơ may n&agrave;o đ&oacute; cả 2 nh&agrave; đều sở hữu được cho m&igrave;nh [champ:Ezreal] 3 sao c&ugrave;ng [champ:Leona] 3 sao v&agrave; d&igrave;u dắt nhau v&agrave;o top. Điều n&agrave;y c&oacute; thể thấy rằng, cho d&ugrave; kể cả l&agrave; [champ:Ezreal] 2 sao th&igrave; giai đoạn đầu game cũng def cực k&igrave; tốt để c&oacute; thể giữ m&aacute;u giai đoạn sau, tr&aacute;i với những đội h&igrave;nh slow roll tướng 1 tiền thường thấy.</p>\n<h3>Trang bị :&nbsp;</h3>\n<p>[champ:Ezreal] ưu ti&ecirc;n những trang bị mang thi&ecirc;n hướng sức mạnh ph&eacute;p thuật như l&agrave; [item:Quyền Trượng Thi&ecirc;n Thần ] để đ&aacute;nh về l&acirc;u về d&agrave;i do c&oacute; d&agrave;n [trait:Hộ Ph&aacute;p] c&acirc;u k&eacute;o thời gian, kế đ&oacute; l&agrave; [item:Mũ Ph&ugrave; Thủy Rabadon] hoặc [item:Găng Bảo Thạch] để s&aacute;t thương trở n&ecirc;n vượt trội hơn. M&oacute;n đồ cuối c&ugrave;ng m&igrave;nh ưu ti&ecirc;n chọn [item:B&ugrave;a Xanh] để những ph&aacute;t bắn của anh ch&agrave;ng n&agrave;y được nhanh v&agrave; nhiều hơn. Tuy nhi&ecirc;n anh em cũng c&oacute; thể thay bằng [item:Dao Điện Statikk] t&iacute;ch hợp với khả năng đ&aacute;nh nhanh từ [trait:Xạ Tiễn] th&ecirc;m v&agrave;o đ&oacute; l&agrave; mỗi c&uacute; bắn sẽ giật s&eacute;t v&agrave; giảm kh&aacute;ng ph&eacute;p của kẻ địch.</p>\n<p>Chống chịu ch&iacute;nh trong đội h&igrave;nh n&agrave;y t&ugrave;y anh em lựa chọn [champ:Taric] hoặc [champ:Leona], cả 2 đều ngon như nhau v&agrave; đều c&oacute; thể chống đỡ c&aacute;c s&aacute;t thương cực k&igrave; lớn khi đ&atilde; l&ecirc;n 3 sao. Những m&oacute;n đồ chống chịu phổ biến gần đ&acirc;y đ&oacute; l&agrave; [item:Vuốt Rồng] - Cho khả năng hồi theo % m&aacute;u tối đa, [item:Th&uacute; Tượng Thạch Gi&aacute;p] để đối đầu với nhiều vị tướng c&ugrave;ng 1 l&uacute;c v&agrave; [item:Gi&aacute;p M&aacute;u Warmog] để gia tăng lượng m&aacute;u tối đa, tối ưu nội tại tộc hệ [trait:Hộ Ph&aacute;p]</p>\n<h3>N&acirc;ng cấp hextech n&ecirc;n chọn :</h3>\n<p>Bởi v&igrave; đội h&igrave;nh n&agrave;y c&aacute;c tộc hệ l&agrave; cực k&igrave; tr&ograve;n rồi n&ecirc;n c&aacute;c biến hệ tỏ ra kh&ocirc;ng c&oacute; t&aacute;c dụng nhiều, tuy nhi&ecirc;n nếu như c&oacute; c&aacute;c [item:Ấn Hộ Ph&aacute;p] [item:Ấn Xạ Tiễn] hay [item:Ấn L&ocirc;i Long] th&igrave; anh em cũng c&oacute; thể lấy rồi xoay theo form v&agrave; gia tăng c&aacute;c chỉ số cho chủ lực đội h&igrave;nh&nbsp;</p>\n<p>Ngon nhất ở đội h&igrave;nh n&agrave;y đ&oacute; l&agrave; Nguy&ecirc;n tố lu&acirc;n bởi l&otilde;i n&agrave;y cho c&aacute;c đơn vị của anh em nhận lại mana khi hạ s&aacute;t kẻ địch, nhờ đ&oacute; [champ:Ezreal] sẽ kh&ocirc;ng cần [item:B&ugrave;a Xanh] m&agrave; vẫn ra chi&ecirc;u cực nhanh.</p>\n<p>C&aacute;c ấn li&ecirc;n quan đến tộc hệ như l&agrave; Si&ecirc;u H&ugrave;ng Hiện Diện: Mỗi 2 gi&acirc;y tướng Hộ Vệ khi&ecirc;u k&iacute;ch kẻ địch trong tầm. Kẻ địch tấn c&ocirc;ng v&agrave;o l&aacute; chắn của Hộ vệ nhận s&aacute;t thương ph&eacute;p tương đương 8% M&aacute;u tối đa của đơn vị c&oacute; l&aacute; chắn chắn (tối đa 1 lần mỗi gi&acirc;y) hay T&ecirc;n bạc : đ&ograve;n đ&aacute;nh của tướng Xạ Tiễn đặt một cộng dồn l&ecirc;n mục ti&ecirc;u trong 5 gi&acirc;y. mỗi cộng dồn thứ 3 được &aacute;p dụng sẽ g&acirc;y s&aacute;t thương chuẩn tương đương 5% m&aacute;u tối đa của mục ti&ecirc;u đều l&agrave; những l&otilde;i bổ sung hiệu ứng cho 2 tộc hệ quan trọng nhất trong đội h&igrave;nh n&agrave;y l&agrave; [trait:Xạ Tiễn] v&agrave; [trait:Hộ Ph&aacute;p]</p>\n<p>Ngo&agrave;i ra kh&ocirc;ng thể kh&ocirc;ng n&oacute;i đến những l&otilde;i gi&uacute;p việc xoay roll trở n&ecirc;n dễ d&agrave;ng hơn như Khu đồ hiệu, Thua c&oacute; t&iacute;nh to&aacute;n hay thậm ch&iacute; l&agrave; Nghĩ nhanh - cho khả năng roll v&ocirc; hạn cho tới khi kết th&uacute;c v&ograve;ng đấu để anh em c&oacute; thể dễ d&agrave;ng đưa d&agrave;n đội h&igrave;nh l&ecirc;n 3 sao 1 c&aacute;ch sớm nhất.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Đội h&igrave;nh n&agrave;y cực k&igrave; dễ x&acirc;y dựng v&igrave; cơ bản anh em chỉ cần l&ecirc;n c&aacute;c chủ lực ch&iacute;nh như [champ:Ezreal] [champ:Taric] v&agrave; [champ:Leona] 3 sao l&agrave; được. Ngo&agrave;i yếu tố kh&ocirc;ng bị tranh b&agrave;i ra th&igrave; anh em cần phải c&oacute; lượng kinh tế ổn định ngay từ đầu để qua v&ograve;ng đ&aacute;nh người đ&aacute; c&oacute; hơn 50 tiền v&agrave; bắt đầu slow roll từ từ. V&igrave; c&aacute;ch đ&aacute;nh tối ưu lượng kinh tế như vậy n&ecirc;n anh em đ&aacute;nh bằng chuỗi thua l&agrave; hợp l&iacute; nhất, nhiều khi phải eco trắng b&aacute;n m&aacute;u rồi sau đ&oacute; comeback lại. Nếu như l&ecirc;n [champ:Ezreal] 2 sao sớm v&agrave; [champ:Taric] [champ:Leona] mạnh v&agrave; thắng thậm ch&iacute; l&agrave; thắng thua kh&ocirc;ng liền mạch anh em h&atilde;y c&acirc;n nhắc xem c&oacute; nh&agrave; n&agrave;o tranh b&agrave;i kh&ocirc;ng, c&oacute; nh&agrave; tranh b&agrave;i th&igrave; tốt nhất n&ecirc;n nhường cho họ, d&ugrave;ng [champ:Ezreal] def m&aacute;u sau xoay c&aacute;c đội h&igrave;nh kh&aacute;c, c&ograve;n nếu kh&ocirc;ng th&igrave; ho&agrave;n to&agrave;n c&oacute; thể t&iacute;ch tiền lại nhưng lưu &yacute; l&agrave; kh&ocirc;ng up cấp để giảm tỉ lệ của tướng 1 v&agrave;ng.</p>\n<p>Thời điểm cần phải xả tiền mạnh nhất đ&oacute; l&agrave; từ sau round 4.5 trở đi, l&uacute;c n&agrave;y c&aacute;c nh&agrave; bắt đầu update đội h&igrave;nh mạnh n&ecirc;n anh em cũng phải l&agrave;m vậy để bắt kịp chứ đừng cố slow roll. L&uacute;c l&ecirc;n được 3 vị tr&iacute; chủ lực như tr&ecirc;n th&igrave; tiền h&agrave;nh up cấp v&agrave; th&ecirc;m c&aacute;c hệ cần thiết l&agrave; ho&agrave;n th&agrave;nh đội h&igrave;nh. N&ecirc;n xếp bo đội h&igrave;nh lại để tranh đi sự d&ograve;m ng&oacute; của [trait:S&aacute;t Thủ] th&ecirc;m v&agrave;o đ&oacute; l&agrave; tối ư được [champ:Tượng Ngọc] của tộc [trait:Ngọc Long]</p>\n<p style=\"text-align: center;\"><strong><em><span style=\"text-decoration: underline;\">Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website : Dtcl.gg</span></em></strong></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>B&agrave;i cực k&igrave; mạnh khi đ&atilde; l&ecirc;n được c&aacute;c chủ lực 3 sao</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Dễ bị tranh b&agrave;i</p>\n<p>Sợ c&aacute;c đội h&igrave;nh nhiều tiền c&oacute; sự g&oacute;p mặt của [champ:Aurelion Sol] hay [champ:Ao Shin] [champ:Bard] v&igrave; kĩ năng của ch&uacute;ng l&agrave; diện rộng</p>\n<p>B&agrave;i slow roll n&ecirc;n nhiều khi nh&acirc;n phẩm k&eacute;m chơi cũng sẽ kh&oacute; khăn</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Ezreal]</p>\n<ul>\n<li>[item:B&ugrave;a Xanh]</li>\n<li>[item:Quyền Trượng Thi&ecirc;n Thần ]</li>\n<li>[item:Mũ Ph&ugrave; Thủy Rabadon]</li>\n</ul>\n<p>[champ:Leona]</p>\n<ul>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:Th&uacute; Tượng Thạch Gi&aacute;p]</li>\n<li>[item:Gi&aacute;p M&aacute;u Warmog]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 3,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_Leona",
+                    "item": [{
+                            "item_id": "66"
+                        },
+                        {
+                            "item_id": "77"
+                        },
+                        {
+                            "item_id": "56"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_Braum",
+                    "item": [],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_LeeSin",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_Taric",
+                    "item": [],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 2
+                },
+                "data": {
+                    "champion_id": "TFT7_Karma",
+                    "item": [],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Thresh",
+                    "item": [],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Ashe",
+                    "item": [],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Ezreal",
+                    "item": [{
+                            "item_id": "44"
+                        },
+                        {
+                            "item_id": "34"
+                        },
+                        {
+                            "item_id": "33"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            }
+        ],
+        "name": "Ezreal hộ pháp xạ tiễn",
+        "slug": "ezrereal-ho-phap-xa-tien",
+        "meta_level": 2,
+        "updatedAt": "2022-06-28T11:57:51.837Z"
+    },
+    {
+        "_id": "62ac6196100e1a001c238736",
+        "meta_content": {
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "title": "Hướng dẫn chơi đội hình Nidalee Đấu sĩ Hóa hình",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Những vị tướng 1 v&agrave;ng đầu m&ugrave;a 7 đang tỏ ra cực k&igrave; bất trị do chưa được c&acirc;n bằng đ&uacute;ng c&aacute;ch, nh&acirc;n đ&acirc;y xin ph&eacute;p giới thiệu với anh em 1 đội h&igrave;nh cực k&igrave; mạnh m&agrave; &iacute;t người biết đến đ&oacute; l&agrave; Nidalee Đấu sĩ H&oacute;a h&igrave;nh. C&ugrave;ng Dtcl.gg t&igrave;m hiểu sức mạnh của đội h&igrave;nh n&agrave;y nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Nidalee]</p>\n<p>[champ:Gnar]</p>\n<p>[champ:Elise]</p>\n<p>[champ:Swain]</p>\n<p>[champ:Neeko]</p>\n<p>[champ:Shyvana]</p>\n<p>[champ:Skarner]</p>\n<p>[champ:Illaoi]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Phải n&oacute;i bản th&acirc;n m&igrave;nh cũng thực sự bất ngờ trước đội h&igrave;nh n&agrave;y v&igrave; khả năng g&aacute;nh team cực mạnh từ vị tr&iacute; m&egrave;o m&eacute;o meo [champ:Nidalee], thậm ch&iacute; ngay cả những k&egrave;o đấu tay đ&ocirc;i với c&aacute;c tướng 4 5 v&agrave;ng c&ocirc; n&agrave;ng n&agrave;y cũng ho&agrave;n to&agrave;n c&oacute; thể d&agrave;nh chiến thắng nhờ những c&uacute; cắn cực đau.</p>\n<h3>Trang bị :</h3>\n<p>[champ:Nidalee] l&agrave; tướng 1 tiền n&ecirc;n anh em bắt buộc phải c&oacute; cho m&igrave;nh 3 m&oacute;n trang bị trấn ph&aacute;i, đầu ti&ecirc;n sẽ l&agrave; [item:Cuồng Đao Guinsoo], cho khả năng đ&aacute;nh tay nhanh từ đ&oacute; k&iacute;ch hoạt đ&ograve;n đ&aacute;nh thứ 3 g&acirc;y s&aacute;t thương lớn l&ecirc;n kẻ địch. Trang bị tiếp theo m&igrave;nh tin d&ugrave;ng [item:Huyết Kiếm], trang bị n&agrave;y vừa cho khả năng hồi phục th&ecirc;m v&agrave;o đ&oacute; l&agrave; 1 lớp gi&aacute;p ảo mỗi khi c&ocirc; n&agrave;ng n&agrave;y xuống mức m&aacute;u b&aacute;o động, ngo&agrave;i ra giờ đ&acirc;y hiệu ứng h&uacute;t m&aacute;u đều quy về h&uacute;t m&aacute;u to&agrave;n phần - H&uacute;t m&aacute;u từ mọi loại s&aacute;t thương vậy n&ecirc;n nếu như chỉ muốn hồi phục th&igrave; [item:Kiếm S&uacute;ng Hextech] hay [item:B&agrave;n Tay C&ocirc;ng L&yacute;] cũng l&agrave; 1 lựa chọn kh&ocirc;ng tồi. Trang bị cuối c&ugrave;ng sẽ l&agrave; m&oacute;n g&acirc;y s&aacute;t thương với ưu ti&ecirc;n l&agrave; [item:Kiếm Tử Thần] để lượng sức mạnh c&ocirc;ng k&iacute;ch l&agrave; lớn nhất, ngay sau đ&oacute; l&agrave; [item:V&ocirc; Cực Kiếm] hoặc [item:Diệt Khổng Lồ] t&ugrave;y v&agrave;o t&igrave;nh trạng lobby</p>\n<p>Chống chịu ch&iacute;nh trong đội h&igrave;nh n&agrave;y đ&oacute; l&agrave; [champ:Illaoi], với khả năng cướp gi&aacute;p v&agrave; kh&aacute;ng ph&eacute;p của kẻ địch th&igrave; [champ:Illaoi] l&agrave; 1 qu&acirc;n b&agrave;i cầm ch&acirc;n cực k&igrave; l&acirc;u ở h&agrave;ng tr&ecirc;n</p>\n<h3>N&acirc;ng cấp rồng thần :</h3>\n<p>V&igrave; kh&ocirc;ng c&oacute; biến hệ li&ecirc;n quan đến h&oacute;a h&igrave;nh v&agrave; th&ecirc;m mốc hay ấn [trait:Thượng Long] cũng kh&ocirc;ng c&oacute; t&aacute;c dụng nhiều n&ecirc;n anh em sẽ ưu ti&ecirc;n c&aacute;c l&otilde;i đa dụng như l&agrave; Đấu trường hạng ruồi - Tướng 1 2 v&agrave;ng tăng tốc độ di chuyển v&agrave; tốc đ&aacute;nh, Cấy gh&eacute;p si&ecirc;u c&ocirc;ng nghệ - gia tăng m&aacute;u v&agrave; sức mạnh c&ocirc;ng k&iacute;ch cho những đơn vị mang trang bị tr&ecirc;n người. Ngo&agrave;i ra n&acirc;ng cấp li&ecirc;n quan đến tộc hệ th&igrave; Ổ qu&aacute;i th&uacute; c&oacute; lẽ l&agrave; ngon nhất cụ thể th&igrave;&nbsp; đơn vị bắt đầu trận chiến cạnh 2+ tướng h&oacute;a h&igrave;nh trở l&ecirc;n nhận 35% tốc độ đ&aacute;nh v&agrave; tốc độ di chuyển. Tướng h&oacute;a h&igrave;nh lu&ocirc;n nhận hiệu ứng n&agrave;y . N&acirc;ng cấp n&agrave;y sẽ gi&uacute;p gia tăng sức mạnh cho kh&ocirc;ng chỉ tướng h&oacute;a h&igrave;nh m&agrave; c&ograve;n cả những đơn vị kh&aacute;c.&nbsp;</p>\n<p>Những n&acirc;ng cấp như l&agrave; L&agrave;m n&oacute;ng, Huấn luyện chiến đấu, Bạn th&acirc;n cũng cực k&igrave; tốt trong trường hợp kh&ocirc;ng c&oacute; g&igrave; để lấy. Ngo&agrave;i ra c&aacute;c l&otilde;i đa dụng như l&agrave; Nghĩ nhanh - Cho roll kh&ocirc;ng giới hạn cho đến khi v&ograve;ng đấu kết th&uacute;c hay Khu giao dịch, Thua c&oacute; t&iacute;nh to&aacute;n, tất cả đều ngon v&agrave; gi&uacute;p cho anh em l&ecirc;n được Nidalee 3 sao sớm nhất c&oacute; thể.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Đầu ti&ecirc;n với việc kể cả bị tranh 1 hay 2 đơn vị giai đoạn đầu anh em cũng đừng hoảng, bởi v&igrave; nội tại của tộc [trait:Thượng Long] sẽ cho tỉ lệ tướng [trait:Thượng Long] nhiều hơn mỗi lần đổi lại cửa h&agrave;ng lần thứ 5 vậy n&ecirc;n h&atilde;y cứ cố gắng t&iacute;ch thật nhiều tiền. Qua round đ&aacute;nh người đ&aacute; anh em sẽ c&oacute; cho m&igrave;nh khoảng hơn 50 v&agrave;ng nếu như l&agrave;m tốt v&agrave; sẽ bắt đầu slow roll thật chậm với form 2 [trait:H&oacute;a H&igrave;nh] v&agrave; 3 [trait:Thượng Long]. Tuy nhi&ecirc;n, nếu như cảm gi&aacute;c ng&agrave;y h&ocirc;m đ&oacute; nh&acirc;n phẩm cao v&agrave; c&oacute; nhiều [champ:Nidalee] từ trước đ&oacute; rồi th&igrave; cũng c&oacute; thể hyper roll - cạn tiền ngay sau khi đ&aacute;nh người đ&aacute; bởi l&uacute;c n&agrave;y cửa h&agrave;ng vẫn đang level 4 v&agrave; tỉ lệ tướng 1 v&agrave;ng sẽ cực k&igrave; cao.</p>\n<p>Ho&agrave;n th&agrave;nh được [champ:Nidalee] 3 sao với 3 m&oacute;n đồ chuẩn rồi th&igrave; anh em dồn lực v&agrave;o để up cấp nh&eacute;, trước đ&oacute; cố roll lấy [champ:Illaoi] 2 sao, n&oacute;i chung l&agrave; sao cho h&agrave;ng tank v&agrave; c&aacute;c tướng kh&aacute;c ổn ổn 1 ch&uacute;t l&agrave; c&oacute; thể bắt đầu l&ecirc;n cấp được rồi, cam đoan với anh em c&agrave;ng l&ecirc;n sớm [champ:Nidalee] bao nhi&ecirc;u th&igrave; việc đ&aacute;nh lại chuỗi thắng c&agrave;ng dễ bấy nhi&ecirc;u.&nbsp;</p>\n<p>Nếu như kh&ocirc;ng c&oacute; gi&aacute;p chess hay th&ecirc;m 1 k&iacute;ch cỡ đội h&igrave;nh th&igrave; hướng tới l&ecirc;n thẳng 9 v&agrave; th&ecirc;m [champ:Shyvana] l&agrave; đủ đội h&igrave;nh, c&ograve;n nếu kh&ocirc;ng anh em c&oacute; thể lựa chọn kẹp th&ecirc;m [champ:Shi Oh Yu] lấy 6 [trait:Ngọc Long] v&agrave; đ&aacute;nh hết b&agrave;i ở level 8 l&agrave; ổn nh&eacute;</p>\n<p style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\"><em>Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website Dtcl.gg</em></span></strong></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>Kể cả bị tranh b&agrave;i cũng đ&aacute;nh kh&aacute; thoải m&aacute;i do nội tại [trait:Thượng Long] kh&aacute; dễ để l&ecirc;n 3 sao</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Muốn lấy top 1 phải l&ecirc;n tận level 9 v&agrave; kẹp th&ecirc;m [champ:Shyvana] lấy [trait:H&oacute;a H&igrave;nh]</p>\n<p>Cần phải c&oacute; 3 m&oacute;n đồ chuẩn cho [champ:Nidalee]</p>"
+                }
+            ],
+            "item_content": "<p>[champ:Nidalee]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:Huyết Kiếm]</li>\n<li>[item:Kiếm Tử Thần]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Neeko",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Shyvana",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Illaoi",
+                    "item": [{
+                            "item_id": "47"
+                        },
+                        {
+                            "item_id": "66"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Skarner",
+                    "item": [],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 2
+                },
+                "data": {
+                    "champion_id": "TFT7_Elise",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 2
+                },
+                "data": {
+                    "champion_id": "TFT7_Nidalee",
+                    "item": [{
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "16"
+                        },
+                        {
+                            "item_id": "11"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Gnar",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Swain",
+                    "item": []
+                }
+            }
+        ],
+        "name": "Nidalee Đấu sĩ Hóa hình",
+        "slug": "nidalee-dau-si-hoa-hinh",
+        "meta_level": 1,
+        "updatedAt": "2022-06-17T11:12:22.366Z"
+    },
+    {
+        "_id": "62af1013100e1a001c2432b9",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Diana Sát thủ Đồ long",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>L&agrave; một đội h&igrave;nh l&ecirc;n ng&ocirc;i thời gian gần đ&acirc;y do c&aacute;c vị tướng [trait:Ph&aacute;p Sư] bị giảm sức mạnh, [champ:Diana] [trait:S&aacute;t Thủ] [trait:Đồ Long] hứa hẹn sẽ l&agrave; 1 đội h&igrave;nh gi&uacute;p anh em cải thiện rank của m&igrave;nh cực k&igrave; nhanh&nbsp;</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Diana]</p>\n<p>[champ:Qiyana]</p>\n<p>[champ:Talon]</p>\n<p>[champ:Pyke]</p>\n<p>[champ:Braum]</p>\n<p>[champ:Olaf]</p>\n<p>[champ:Lillia]</p>\n<p>[champ:Ornn]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Thực chất ngay từ phi&ecirc;n bản PBE m&igrave;nh đ&atilde; nhận thấy sức mạnh của c&ocirc; n&agrave;ng n&agrave;y c&ugrave;ng đội h&igrave;nh [trait:S&aacute;t Thủ] sẽ quay trở lại l&agrave;m mưa l&agrave;m gi&oacute; m&ugrave;a n&agrave;y v&igrave; c&oacute; những t&iacute;nh chất ri&ecirc;ng biệt c&ugrave;ng bộ kĩ năng ganh team cực k&igrave; đỉnh, kh&ocirc;ng loại trừ khả năng đ&oacute;, [champ:Diana] nổi l&ecirc;n v&agrave; trở th&agrave;nh đội h&igrave;nh khắc chế tất cả những carry đứng một m&igrave;nh h&agrave;ng sau.</p>\n<h3>Trang bị :</h3>\n<p>[champ:Diana] muốn carry được anh em cố gắng kiếm bằng được [item:V&ocirc; Cực Kiếm] - để khuếch đại s&aacute;t thương ch&iacute; mạng cũng như tỉ lệ ch&iacute; mạng, [item:Quyền Năng Khổng Lồ] - m&oacute;n trang bị vẫn ngon khi t&iacute;ch stack theo số lần tấn c&ocirc;ng hoặc bị tấn c&ocirc;ng, gi&uacute;p cho về cuối giao tranh [champ:Diana] nhận 1 lượng chỉ số s&aacute;t thương , gi&aacute;p, kh&aacute;ng ph&eacute;p khổng lồ,... M&oacute;n đồ cuối c&ugrave;ng th&igrave; ưu ti&ecirc;n chọn [item:Kiếm S&uacute;ng Hextech] hoặc [item:Huyết Kiếm] hay [item:B&agrave;n Tay C&ocirc;ng L&yacute;] để lấy lượng hồi phục. Nếu như c&oacute; c&aacute;c l&otilde;i Chiến lợi phẩm hay Phước l&agrave;nh vũ trụ m&agrave; thấy đủ rồi th&igrave; c&oacute; thể d&ugrave;ng [item:Nỏ S&eacute;t] để lượng s&aacute;t thương dồn v&agrave;o lớn hơn khi mục ti&ecirc;u bị giảm kh&aacute;ng ph&eacute;p</p>\n<p>N&ecirc;n c&oacute; [item:Tim Băng] trong đội h&igrave;nh, đ&acirc;y thậm ch&iacute; l&agrave; trang bị m&igrave;nh ưu ti&ecirc;n hơn những m&oacute;n đồ chuẩn của [champ:Diana] do khả năng l&agrave;m chậm tốc đ&aacute;nh diện rộng cực k&igrave; kh&oacute; chịu của m&igrave;nh, cho d&ugrave; kẻ địch bị d&iacute;nh l&agrave; tướng g&acirc;y s&aacute;t thương kĩ năng hay đ&ograve;n đ&aacute;nh th&igrave; đều tỏ ra cực k&igrave; kh&oacute; chịu nếu như bị [trait:S&aacute;t Thủ] d&iacute; trang bị n&agrave;y v&agrave;o đầu, anh em ưu ti&ecirc;n lắp sớm nh&eacute;&nbsp;</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn :</h3>\n<p>Đ&aacute;nh đội h&igrave;nh n&agrave;y th&igrave; kh&ocirc;ng g&igrave; ngon bằng th&ecirc;m ấn hoặc mốc [trait:S&aacute;t Thủ] để c&oacute; cơ hội đ&aacute;nh 6 [trait:S&aacute;t Thủ] v&agrave; gia tăng to&agrave;n diện s&aacute;t thương cho đội h&igrave;nh. [item:Ấn Đồ Long] cũng l&agrave; 1 lựa chọn ổn để thay đi [champ:Lillia] nếu như c&oacute; 1, c&oacute; 2 ấn anh em đ&aacute;nh hẳn 6 [trait:Đồ Long] sức mạnh cũng cực k&igrave; l&agrave; to&agrave;n diện nhưng cần phải c&oacute; nh&acirc;n phẩm cực cao mới l&agrave;m được.&nbsp;</p>\n<p>Ngo&agrave;i ra th&igrave; n&acirc;ng cấp bom kh&oacute;i hay Bịt miệng &aacute;m s&aacute;t d&agrave;nh ri&ecirc;ng cho những kẻ \"m&oacute;c trộm \" n&agrave;y&nbsp; cũng kh&ocirc;ng thể n&agrave;o bỏ qua để gi&uacute;p cho c&aacute;c đơn vị n&agrave;y trở n&ecirc;n lộng h&agrave;nh hơn trong giao tranh.</p>\n<p>Những l&otilde;i đa dụng phụ gi&uacute;p việc gia tăng s&aacute;t thương c&oacute; thể kể đến đ&oacute; l&agrave; Tam hợp, L&agrave;m n&oacute;ng, ... t&ugrave;y v&agrave;o t&igrave;nh h&igrave;nh trận đấu cũng như c&acirc;n nhắc l&otilde;i n&agrave;o ngon hơn của anh em.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Nhiều anh em cờ thủ l&acirc;u đời đ&atilde; qu&aacute; quen với việc sử dụng carry [trait:S&aacute;t Thủ] lại c&ograve;n l&agrave; tướng 3 v&agrave;ng th&igrave; eco trắng l&agrave; c&aacute;ch tốt nhất, cụ thể anh em h&atilde;y cứ b&aacute;n m&aacute;u v&agrave; t&iacute;ch thật nhiều tiền đ&aacute;nh chuỗi thua v&agrave; comeback lại sau khi đ&aacute;nh b&atilde;i người s&oacute;i ở v&ograve;ng 4. Ngay khi đ&aacute;nh qu&aacute;i xong, anh em dồn to&agrave;n lực roll c&aacute;c tướng trong khung đội h&igrave;nh cần thiết gồm c&oacute; 4 [trait:Đồ Long] v&agrave; 4 [trait:S&aacute;t Thủ] đặc biệt l&agrave; [champ:Diana] 2 sao để đ&egrave; c&aacute;c nh&agrave; v&agrave; t&iacute;ch tiền đ&aacute;nh lại chuỗi thắng roll [champ:Diana] 3 sao. C&aacute;ch đ&aacute;nh n&agrave;y đặc biệt th&iacute;ch hợp v&igrave; t&iacute;nh chất l&agrave; 1 tướng 3 tiền n&ecirc;n cực k&igrave; mạnh ở giai đoạn giữa trận, th&ecirc;m v&agrave;o đ&oacute; anh em cũng c&oacute; được lượng kinh tế khủng v&agrave; dồi d&agrave;o hơn c&aacute;c nh&agrave; kh&aacute;c</p>\n<p>Bởi v&igrave; đ&acirc;y l&agrave; đội h&igrave;nh anti meta n&ecirc;n c&oacute; khả năng anh em cũng sẽ kh&ocirc;ng bị tranh b&agrave;i n&ecirc;n nếu muốn an to&agrave;n hơn th&igrave; cũng c&oacute; thể gh&eacute;p đồ rồi đ&aacute;nh giữ m&aacute;u, up cấp như b&igrave;nh thương rồi sau đ&oacute; xoay sang, tuy nhi&ecirc;n c&aacute;ch đ&aacute;nh n&agrave;y kh&ocirc;ng tối ưu được lợi tức cũng như t&iacute;nh chất của s&aacute;t thủ khiến cho c&aacute;c nh&agrave; c&oacute; thời gian update đội h&igrave;nh n&ecirc;n nhiều khả năng anh em kh&ocirc;ng đẩy m&aacute;u được s&acirc;u.</p>\n<p>Level 8 anh em c&oacute; thể th&ecirc;m [champ:Ornn] lấy ch&uacute;t khống chế từ cả chi&ecirc;u thức v&agrave; tộc hệ [trait:L&ocirc;i Long] cũng như mang trọng tr&aacute;ch 1 tướng cầm ch&acirc;n ở ph&iacute;a tr&ecirc;n.</p>\n<p>Việc đ&aacute;nh [champ:Diana] cực k&igrave; đơn giản, anh em chỉ cần mỗi round canh thời gian xếp sao cho [item:Tim Băng] v&agrave;o thẳng vị tr&iacute; chủ lực đối phương khiến cho ch&uacute;ng bất ngờ l&agrave; đ&atilde; c&oacute; cơ hội d&agrave;nh chiến thắng cực k&igrave; cao d&ugrave; cho đội h&igrave;nh c&oacute; đang lỡ cỡ v&agrave; chưa mạnh. [champ:Diana] th&igrave;&nbsp; t&ugrave;y c&oacute; thể xếp giữa s&acirc;n nếu như c&aacute;c nh&agrave; bo g&oacute;c để t&iacute;ch stack [item:Quyền Năng Khổng Lồ] hoặc nhảy thẳng kết liễu nếu như đối thủ hớ h&ecirc;nh kh&ocirc;ng xếp b&agrave;i</p>\n<p style=\"text-align: center;\"><strong><em><span style=\"text-decoration: underline;\">Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website : Dtcl.gg</span></em></strong></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>&Iacute;t bị tranh b&agrave;i</p>\n<p>Mạnh về giữa trận</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Cần biết c&aacute;ch đ&aacute;nh eco trắng nếu như muốn đội h&igrave;nh hiệu quả nhất</p>\n<p>Yếu về cuối trận khi chưa c&oacute; [champ:Diana] 3 sao</p>\n<p>&nbsp;</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Diana]</p>\n<ul>\n<li>[item:Kiếm S&uacute;ng Hextech]</li>\n<li>[item:Quyền Năng Khổng Lồ]</li>\n<li>[item:V&ocirc; Cực Kiếm]</li>\n</ul>\n<p>[champ:Qiyana]</p>\n<ul>\n<li>[item:Tim Băng]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 1,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_Ornn",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 2,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_Braum",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_Lillia",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_Olaf",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 1,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Talon",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 2,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Pyke",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Diana",
+                    "item": [{
+                            "item_id": "13"
+                        },
+                        {
+                            "item_id": "19"
+                        },
+                        {
+                            "item_id": "25"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Qiyana",
+                    "item": [{
+                        "item_id": "45"
+                    }]
+                }
+            }
+        ],
+        "name": "Diana Sát thủ Đồ long",
+        "slug": "diana-sat-thu-do-long",
+        "meta_level": 1,
+        "updatedAt": "2022-06-19T12:06:13.482Z"
+    },
+    {
+        "_id": "62b191e1100e1a001c24b61b",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Ao Shin Exodia 5 tiền",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Vua của mọi b&agrave;i - Exodia 5 tiền lu&ocirc;n l&agrave; đội h&igrave;nh mạnh nhất qua c&aacute;c m&ugrave;a đấu trường ch&acirc;n l&yacute;. Đ&acirc;y l&agrave; đội h&igrave;nh tập hợp sử dụng c&aacute;c tướng đắt tiền m&agrave; kh&ocirc;ng qu&aacute; quan trọng việc k&iacute;ch hệ. Ngay sau đ&acirc;y l&agrave; đội h&igrave;nh Exodia Ao Shin, c&ugrave;ng Dtcl.gg t&igrave;m hiểu nh&eacute;&nbsp;</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Ao Shin]</p>\n<p>[champ:Ornn]</p>\n<p>[champ:Sylas]</p>\n<p>[champ:Zoe]</p>\n<p>[champ:Lillia]</p>\n<p>[champ:Hecarim]</p>\n<p>[champ:Soraka]</p>\n<p>[champ:Bard]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Tr&aacute;i ngược với c&aacute;c vị tướng bậc v&agrave;ng kh&aacute;c như [champ:Aurelion Sol] hay [champ:Shyvana] , [champ:Ao Shin] c&oacute; kĩ năng cũng khả năng g&acirc;y s&aacute;t thương cực k&igrave; ổn định v&agrave; đ&ocirc;i khi l&agrave; chỉ cần c&aacute;c tướng c&acirc;u thời gian th&ocirc;i l&agrave; hắn ta c&oacute; thể một m&igrave;nh đưa anh em đến với chiến thắng</p>\n<h3>Trang bị :</h3>\n<p>[champ:Ao Shin] cực k&igrave; cần 1 đồ như [item:Ngọn Thương Shojin] hay [item:Cuồng Đao Guinsoo] để c&oacute; thể ra kĩ năng sớm nhất c&oacute; thể v&agrave; phục vụ cho khả năng hạ s&aacute;t tướng địch. 1 đồ g&acirc;y s&aacute;t thương c&oacute; thể l&agrave; [item:Mũ Ph&ugrave; Thủy Rabadon] [item:Găng Bảo Thạch] hoặc [item:Quyền Trượng Thi&ecirc;n Thần ] l&agrave; hợp l&iacute; nhất. Ngo&agrave;i ra nếu như c&oacute; [item:Ấn Ph&aacute;p Sư] th&igrave; cực k&igrave; tốt v&igrave; t&ecirc;n rồng n&agrave;y c&oacute; thể ra chi&ecirc;u tới 2 lần , đồ cuối t&ugrave;y anh em chọn sử dụng đồ hồi phục như [item:Huyết Kiếm] [item:Kiếm S&uacute;ng Hextech] [item:B&agrave;n Tay C&ocirc;ng L&yacute;] hay&nbsp; full dame v&agrave; th&ecirc;m 1 trang bị tăng mana nữa t&ugrave;y v&agrave;o mảnh đồ cũng như t&igrave;nh trạng của lobbby</p>\n<h3>N&acirc;ng cấp rồng thần :</h3>\n<p>Cực k&igrave; quan trọng bởi v&igrave; c&aacute;c l&otilde;i m&ugrave;a n&agrave;y hỗ trợ việc l&ecirc;n cấp cực k&igrave; tốt gi&uacute;p anh em c&oacute; được [champ:Ao Shin] từ sớm. V&agrave;i l&otilde;i c&oacute; thể kể đến đ&oacute; l&agrave; : Hướng tới hồi kết - nhận ngay 40 v&agrave;ng khi l&ecirc;n level 9, Nh&agrave; t&agrave;i phiệt,&nbsp; Khu đồ hiệu. Đ&ocirc;i khi Nhỏ nhưng c&oacute; v&otilde; v&agrave; H&oacute;a khổng lồ cũng cực k&igrave; l&agrave; tốt để linh th&uacute; của anh em c&oacute; nhiều m&aacute;u hơn gi&uacute;p cho c&ocirc;ng cuộc l&ecirc;n 9 được su&ocirc;n sẻ v&agrave; dễ d&agrave;ng hơn.</p>\n<p>C&aacute;c l&otilde;i cho Xẻng v&agrave;ng như l&agrave; T&uacute;i của Urf l&agrave; cực k&igrave; ngon v&igrave; như m&igrave;nh đ&atilde; n&oacute;i ở tr&ecirc;n, [champ:Ao Shin] cực k&igrave; lỗi khi kết hợp với [item:Ấn Ph&aacute;p Sư] n&ecirc;n anh em thoải m&aacute;i lấy ngay kh&ocirc;ng cần phải suy nghĩ nh&eacute;</p>\n<p>Ngo&agrave;i ra những l&otilde;i bổ trợ cho sức mạnh th&igrave; : Phước l&agrave;nh vũ trụ hay&nbsp; Chiến lợi phẩm l&agrave; ngon nhất để anh em c&acirc;n nhắc bỏ 1 m&oacute;n đồ hồi phục.&nbsp;</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Như m&igrave;nh đ&atilde; n&oacute;i ở tr&ecirc;n, kh&oacute; nhất cho đội h&igrave;nh n&agrave;y l&agrave; phải def m&aacute;u sao cho l&ecirc;n được level 9 với khoảng 30 40 tiền, ngo&agrave;i việc đ&aacute;nh bằng l&otilde;i ra anh em cũng phải kết hợp với chơi bằng winstreak.&nbsp;</p>\n<p>Anh em c&oacute; thể bắt đầu bằng [trait:Ph&aacute;p Sư] cầm đồ hộ hoặc [trait:Luyện Rồng] kết hợp với [trait:Đấu Sĩ] để sau n&agrave;y [champ:Măm Măm] của anh em lớn hơn v&agrave; trở th&agrave;nh 1 đơn vị chống chịu cực k&igrave; tốt. Với việc đ&aacute;nh khởi đầu bằng [trait:Luyện Rồng] m&igrave;nh khuy&ecirc;n anh em n&ecirc;n t&iacute;ch ch&uacute;t tiền rồi roll mạnh ở level 6 n&acirc;ng cấp c&aacute;c tướng l&ecirc;n 3 sao v&igrave; bản chất tộc hệ n&agrave;y cấp sao của tướng gi&uacute;p cho [champ:Măm Măm] lớn nhanh hơn.</p>\n<p>Một c&aacute;ch kh&aacute;c m&igrave;nh cũng hay sử dụng đ&oacute; l&agrave; [champ:Ezreal] kết hợp với [trait:Ngọc Long] [champ:Ashe] [champ:Taric] [champ:Lee Sin]. Đ&acirc;y l&agrave; 1 đội h&igrave;nh cực k&igrave; to&agrave;n diện giai đoạn đầu trận khi k&iacute;ch được đầy đủ c&aacute;c hệ, th&ecirc;m v&agrave;o đ&oacute; l&agrave; c&aacute;c tướng trở n&ecirc;n cực k&igrave; l&igrave; đ&ograve;n nhờ hiệu ứng đến từ [champ:Tượng Ngọc] .</p>\n<p>Nếu th&agrave;nh c&ocirc;ng trong việc def m&aacute;u th&igrave; anh em sẽ l&ecirc;n được level 8 cực k&igrave; su&ocirc;n sẻ với số m&aacute;u trong khoảng từ 80 đến 90. L&uacute;c n&agrave;y t&ugrave;y v&agrave;o nếu như cảm thấy c&oacute; thể \" lết được \" l&ecirc;n level 9 nhưng phải &iacute;t nhất l&agrave; 30 v&agrave;ng th&igrave; cố l&igrave; đ&ograve;n, c&ograve;n nếu kh&ocirc;ng th&igrave; n&ecirc;n hướng tới chuyện xoay b&agrave;i v&igrave; nếu như thọt m&aacute;u hay thọt tiền m&agrave; lỡ roll kh&ocirc;ng ra th&igrave; cực k&igrave; l&agrave; đ&aacute;ng tiếc.&nbsp;</p>\n<p>T&ugrave;y v&agrave;o việc c&oacute; c&aacute;c [item:Ấn Ph&aacute;p Sư] hay kh&ocirc;ng m&agrave; anh em lựa chọn đ&aacute;nh theo form n&agrave;o, tuy nhi&ecirc;n cơ bản nhất l&agrave; cứ c&oacute; g&igrave; nhiều tiền như [champ:Hecarim] [champ:Sona] [champ:Bard] [champ:Soraka] bỏ hết v&agrave;o, h&agrave;ng tr&ecirc;n đ&atilde; c&oacute; [champ:Ornn] v&agrave; [champ:Sylas] lo việc giữ ch&acirc;n.</p>\n<p style=\"text-align: center;\"><strong><em><span style=\"text-decoration: underline;\">Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website : Dtcl.gg</span></em></strong></p>\n<p>&nbsp;</p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Mạnh nhất meta khi đ&atilde; ho&agrave;n thiện đội h&igrave;nh</p>\n<p>Khả năng g&acirc;y s&aacute;t thương ổn định k&egrave;m hiệu ứng h&uacute;t mana n&ecirc;n [champ:Ao Shin] mạnh hơn [champ:Aurelion Sol] nếu như chọn 1 trong 2</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Cần khả năng def m&aacute;u cực k&igrave; tốt</p>\n<p>Biết nắm bắt r&otilde; đội h&igrave;nh để giai đoạn xoay b&agrave;i được mượt m&agrave; , tr&aacute;nh việc mất m&aacute;u kh&ocirc;ng đ&aacute;ng c&oacute;</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Ao Shin]</p>\n<ul>\n<li>[item:Ngọn Thương Shojin] hoặc [item:Cuồng Đao Guinsoo]</li>\n<li>[item:Kiếm S&uacute;ng Hextech]</li>\n<li>[item:Mũ Ph&ugrave; Thủy Rabadon]</li>\n</ul>\n<p>[champ:Ornn]</p>\n<ul>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:Th&uacute; Tượng Thạch Gi&aacute;p]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Sylas",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Ornn",
+                    "item": [{
+                            "item_id": "66"
+                        },
+                        {
+                            "item_id": "56"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 2
+                },
+                "data": {
+                    "champion_id": "TFT7_Hecarim",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 2,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Lillia",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Bard",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Soraka",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_AoShin",
+                    "item": [{
+                            "item_id": "13"
+                        },
+                        {
+                            "item_id": "14"
+                        },
+                        {
+                            "item_id": "33"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Zoe",
+                    "item": []
+                }
+            }
+        ],
+        "name": "AoShin Exodia 5 Tiền",
+        "slug": "aoshin-exodia-5-tien",
+        "meta_level": 0,
+        "updatedAt": "2022-06-21T12:22:22.580Z"
+    },
+    {
+        "_id": "62b450e1100e1a001c254c78",
+        "meta_content": {
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "title": "Hướng dẫn chơi đội hình Xayah Bang Hội Cô Long Dương Quá",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>L&agrave; một đội h&igrave;nh cực k&igrave; linh hoạt v&agrave; dễ chơi thế nhưng sức mạnh của [champ:Xayah] [trait:Bang Hội] l&agrave; kh&ocirc;ng thể xem thường bởi c&oacute; tới 2 nh&acirc;n tố carry trong đội h&igrave;nh. C&ugrave;ng Dtcl.gg t&igrave;m hiểu c&aacute;ch x&acirc;y dựng đội h&igrave;nh n&agrave;y nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Xayah]</p>\n<p>[champ:Twitch]</p>\n<p>[champ:Talon]</p>\n<p>[champ:Qiyana]</p>\n<p>[champ:Shen]</p>\n<p>[champ:Hecarim]</p>\n<p>[champ:Ornn]</p>\n<p>[champ:Sejuani]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Kh&ocirc;ng phải tự nhi&ecirc;n m&agrave; [champ:Xayah] trở th&agrave;nh vị tướng nằm trong top c&aacute;c vị tướng 4 tiền được sử dụng nhiều nhất bởi c&aacute;c th&aacute;ch đấu tr&ecirc;n khắp mọi m&aacute;y chủ, ngo&agrave;i đội h&igrave;nh 9 [trait:Cuồng Long] cơ bản th&igrave; [champ:Xayah] [trait:Bang Hội] cũng tỏ ra cực k&igrave; lỗi v&igrave; khả năng linh hoạt trong c&aacute;ch chơi cũng như đa dạng trong nguồn s&aacute;t thương.</p>\n<h3>Trang bị :</h3>\n<p>[champ:Xayah] chắc chắn cần [item:Cuồng Đao Guinsoo] để những ph&aacute;t bắn tay triệu hồi được nhiều l&ocirc;ng nhất tr&ecirc;n mặt đất từ đ&oacute; cũng g&acirc;y s&aacute;t thương tốt hơn. Đi k&egrave;m đ&oacute; l&agrave; [item:&Aacute;o Cho&agrave;ng B&oacute;ng Tối] bởi những nh&agrave; [trait:S&aacute;t Thủ] đang tỏ ra cực k&igrave; lộng h&agrave;nh, kh&ocirc;ng chỉ vậy, trang bị n&agrave;y c&ograve;n gi&uacute;p c&ocirc; n&agrave;ng tr&aacute;nh khỏi c&aacute;c nguồn s&aacute;t thương kh&ocirc;ng đang c&oacute; khi đạt mức m&aacute;u b&aacute;o động, m&oacute;n đồ cuối c&ugrave;ng h&atilde;y ưu ti&ecirc;n chọn [item:Diệt Khổng Lồ] để đối đầu với c&aacute;c nh&agrave; [trait:Rồng Thần] hay [trait:Đấu Sĩ], tuy nhi&ecirc;n nếu như kh&ocirc;ng vẽ được đồ mong muốn anh em ho&agrave;n to&agrave;n c&oacute; thể thay bằng [item:V&ocirc; Cực Kiếm] hoặc [item:Kiếm Tử Thần] [item:Cung Xanh] t&ugrave;y v&agrave;o việc ứng biến</p>\n<p>Ngo&agrave;i [champ:Xayah] th&igrave; [champ:Talon] cũng l&agrave; 1 carry phụ nhưng nếu như c&oacute; được [item:V&ocirc; Cực Kiếm] kết hợp với [item:Cung Xanh] hay những m&oacute;n đồ g&acirc;y s&aacute;t thương kh&aacute;c th&igrave; s&aacute;t thương của hắn ta cũng l&agrave; kh&ocirc;ng nhỏ.</p>\n<p>Chống chịu đội h&igrave;nh n&agrave;y anh em c&oacute; thể t&ugrave;y biến cho [champ:Ornn] hoặc [champ:Hecarim] t&ugrave;y v&agrave;o tướng n&agrave;o l&ecirc;n 2 sao trước những trang bị như l&agrave; [item:Vuốt Rồng] [item:&Aacute;o Cho&agrave;ng Gai] [item:Th&uacute; Tượng Thạch Gi&aacute;p] [item:Gi&aacute;p M&aacute;u Warmog], ....&nbsp;</p>\n<h3>N&acirc;ng cấp rồng thần :</h3>\n<p>Nếu như được chọn th&igrave; ấn th&ecirc;m tộc hệ [trait:Bang Hội] sẽ được ưu ti&ecirc;n bởi khả năng cộng c&aacute;c chỉ số cực k&igrave; lớn cho đội h&igrave;nh, ngo&agrave;i ra th&igrave; ấn [item:Ấn Kỵ Sĩ] cũng l&agrave; 1 lựa chọn đ&aacute;ng để lưu t&acirc;m khi cho [champ:Ornn] sẽ gia cố h&agrave;ng tank chắc chắn hơn.&nbsp;</p>\n<p>Nếu như bắt đầu với 3 [trait:Bang Hội] từ đầu th&igrave; đừng qu&ecirc;n lựa chọn : L&ograve; r&egrave;n bang hội, l&otilde;i n&agrave;y sẽ gi&uacute;p anh em hack được khối trang bị khi k&iacute;ch hoạt được, ngo&agrave;i ra để bổ sung sức mạnh cho [champ:Xayah] hay [trait:Cuồng Long] trong đội h&igrave;nh th&igrave; Ch&acirc;n Hỏa - Mỗi đ&ograve;n đ&aacute;nh thứ 5 tướng cuồng long g&acirc;y th&ecirc;m s&aacute;t thương hay Nổi Kh&ugrave;ng -&nbsp; Sau khi sử dụng kĩ năng lần đầu tướng cuồng long nhận 100% nộ l&agrave; kh&ocirc;ng thể bỏ qua</p>\n<p>Ngo&agrave;i ra c&aacute;c ấn đa dụng theo kiểu&nbsp; Nhất thống, Cấy gh&eacute;p si&ecirc;u c&ocirc;ng nghệ, ... cũng c&oacute; thể t&ugrave;y biến theo t&igrave;nh huống.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Với đội h&igrave;nh n&agrave;y, anh em ưu ti&ecirc;n khởi đầu bằng 2 [trait:Xạ Tiễn] kẹp 1 ch&uacute;t chống chịu như [trait:Đấu Sĩ] hoặc [trait:Kỵ Sĩ], đ&ocirc;i khi l&agrave; [trait:Hộ Ph&aacute;p] l&agrave; ổn nhất, những tướng như [champ:Ezreal] hay [champ:Ashe] cầm đồ hộ l&agrave; cực k&igrave; tốt. 1 Đội h&igrave;nh kh&aacute;c def giai đoạn đầu game cũng kh&aacute; ổn đ&oacute; l&agrave; sử dụng [champ:Swain] kết hợp với [trait:Chiến Binh Rồng] v&agrave; [trait:Ngọc Long], kể cả với gi&aacute; 3 tiền 1 sao th&igrave; hắn ta vẫn l&agrave; 1 carry cực k&igrave; tốt.</p>\n<p>Thực chất ở khoảng từ rank bạch kim đổ l&ecirc;n m&igrave;nh test thấy rất nhiều nh&agrave; spam vậy n&ecirc;n anh em n&ecirc;n c&oacute; 1 thao t&aacute;c l&agrave; roll ở level 7 ở ngay sau b&atilde;i s&oacute;i để khung đội h&igrave;nh cũng như roll để cướp 1 v&agrave;i đơn vị từ tay những người chơi kh&aacute;c rồi mới t&iacute;nh đến chuyện t&iacute;ch tiền lại rồi roll ở level 8. Lưu &yacute; trước đ&oacute; anh em h&atilde;y &ocirc;m lại [champ:Sejuani] v&igrave; đ&acirc;y l&agrave; l&agrave; đơn vị mang t&iacute;nh chất k&iacute;ch hệ cực k&igrave; quan trọng, th&ecirc;m v&agrave;o đ&oacute; l&agrave; khả năng c&acirc;u giờ cũng được coi l&agrave; ổn khi l&ecirc;n 2 sao nhờ [trait:Kỵ Sĩ] .</p>\n<p>Nếu như bị tranh b&agrave;i qu&aacute; nhiều hay ra c&aacute;c tướng như [champ:Daeja] hay [champ:Sy'fen] 2 sao th&igrave; anh em cũng c&oacute; thể tham khảo v&agrave; xoay b&agrave;i qua cực k&igrave; dễ d&agrave;ng n&ecirc;n đừng lo nếu như gh&eacute;p đồ sớm m&agrave; kh&ocirc;ng được chơi nh&eacute;.</p>\n<p>Ở c&aacute;c v&ograve;ng lấy đồ cũng ưu ti&ecirc;n chonh [item:Cung Gỗ] v&agrave; [item:Kiếm B.F.] cho m&igrave;nh để cả 2 carry đều c&oacute; đồ, kể cả c&aacute;c l&otilde;i chọn ấn cũng n&ecirc;n lấy c&aacute;c ấn th&ecirc;m trang bị để to&agrave;n đội h&igrave;nh trở n&ecirc;n to&agrave;n diện hơn.</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong><em>Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về</em></strong></span></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>Đội h&igrave;nh xoay chuyển linh hoạt</p>\n<p>Đa dạng c&aacute;c nguồn s&aacute;t thương</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Dễ bị tranh b&agrave;i</p>\n<p>Cần l&ecirc;n 8 để ho&agrave;n thiện đủ đội h&igrave;nh</p>"
+                }
+            ],
+            "item_content": "<p>[champ:Xayah]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:&Aacute;o Cho&agrave;ng B&oacute;ng Tối]</li>\n<li>[item:Diệt Khổng Lồ]</li>\n</ul>\n<p>[champ:Talon]</p>\n<ul>\n<li>[item:Cung Xanh]</li>\n<li>[item:V&ocirc; Cực Kiếm]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 1,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Sejuani",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Hecarim",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Shen",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Ornn",
+                    "item": [{
+                            "item_id": "66"
+                        },
+                        {
+                            "item_id": "56"
+                        },
+                        {
+                            "item_id": "55"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 1,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Talon",
+                    "item": [{
+                            "item_id": "29"
+                        },
+                        {
+                            "item_id": "19"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Qiyana",
+                    "item": [{
+                        "item_id": "45"
+                    }]
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Xayah",
+                    "item": [{
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "12"
+                        },
+                        {
+                            "item_id": "94"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Twitch",
+                    "item": []
+                }
+            }
+        ],
+        "name": "Xayah Bang Hội - Cô Long Dương Quá",
+        "slug": "xayah-bang-hoi-co-long-duong-qua",
+        "meta_level": 0,
+        "updatedAt": "2022-06-23T11:39:13.210Z"
+    },
+    {
+        "_id": "62baeb48e14d87001c8bb736",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Swain chiến binh rồng",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Ngay khi phi&ecirc;n bản 12.12 cập bến m&aacute;y chủ Việt Nam, đ&acirc;y l&agrave; đội h&igrave;nh được đ&ocirc;ng đảo c&aacute;c anh em game thủ tr&ecirc;n khắp mọi mặt trận rank spam cực k&igrave; nhiều. Vậy [champ:Swain] [trait:Chiến Binh Rồng] c&oacute; g&igrave; mạnh, c&ugrave;ng Dtcl.gg t&igrave;m hiểu nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Swain]</p>\n<p>[champ:Lee Sin]</p>\n<p>[champ:Yasuo]</p>\n<p>[champ:Volibear]</p>\n<p>[champ:Karma]</p>\n<p>[champ:Ashe]</p>\n<p>[champ:Neeko]</p>\n<p>[champ:Ornn]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Mặc d&ugrave; cả sức mạnh v&agrave; bộ kĩ năng thuộc loại \" kh&ocirc;ng phải dạng vừa \" nhưng từ m&aacute;y chủ PBE qua phi&ecirc;n bản ch&iacute;nh thức hắn ta bị lu mờ bởi c&aacute;c đội h&igrave;nh slow roll 1 tiền, chỉ qua 1 phi&ecirc;n bản cập nhật, ngay lập tức [champ:Swain] đ&atilde; lấy lại được vị thế của m&igrave;nh v&agrave; vươn l&ecirc;n trở th&agrave;nh đội h&igrave;nh c&oacute; tỉ lệ thắng top đầu trong meta.</p>\n<h3>Trang bị</h3>\n<p>[champ:Swain] cực k&igrave; cần [item:Cuồng Đao Guinsoo] bởi kĩ năng l&agrave; ph&oacute;ng ra những quả cầu lửa theo đ&ograve;n đ&aacute;nh, đ&aacute;nh c&agrave;ng nhanh c&agrave;ng nhiều th&igrave; độ hiệu quả kĩ năng lại c&agrave;ng cao, đi k&egrave;m với đ&oacute; l&agrave; [item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n] để chống đỡ trong meta hiện tại c&oacute; rất nhiều khống chế cứng. [champ:Swain] mang trang bị n&agrave;y sẽ thoải m&aacute;i hơn ở giai đoạn đầu trong giao tranh v&agrave; t&iacute;ch được c&aacute;c stack của m&igrave;nh. Trang bị cuối c&ugrave;ng h&atilde;y ưu ti&ecirc;n lựa chọn [item:Quyền Trượng Thi&ecirc;n Thần ] đ&acirc;y l&agrave; m&oacute;n đồ thi&ecirc;n về khả năng đ&aacute;nh mạnh về cuối giao tranh v&agrave; cho [champ:Swain] 1 lượng sức mạnh ph&eacute;p thuật cực k&igrave; lớn. Tuy nhi&ecirc;n nếu như kh&ocirc;ng vẽ được anh em ho&agrave;n to&agrave;n c&oacute; thể thay bằng [item:Diệt Khổng Lồ] [item:Dao Điện Statikk] hay thậm ch&iacute; l&agrave; [item:Mũ Ph&ugrave; Thủy Rabadon] [item:Găng Bảo Thạch] t&ugrave;y v&agrave;o t&igrave;nh h&igrave;nh nh&eacute; !</p>\n<p>Trang bị chống chịu đội h&igrave;nh n&agrave;y sẽ ưu ti&ecirc;n cho [champ:Neeko] bởi đ&acirc;y l&agrave; 1 vị tướng 4 v&agrave;ng v&agrave; c&oacute; khả năng sao ch&eacute;p chỉ số c&aacute;c tướng đứng cạnh n&ecirc;n độ tr&acirc;u b&ograve; l&agrave; kh&ocirc;ng thể b&agrave;n c&atilde;i. [item:&Aacute;o Cho&agrave;ng Gai] [item:Vuốt Rồng] [item:Th&uacute; Tượng Thạch Gi&aacute;p] [item:Gi&aacute;p M&aacute;u Warmog] [item:D&acirc;y Chuyền Chuộc Tội] l&agrave; những trang bị chống chịu cực k&igrave; th&iacute;ch hợp ở meta hiện tại c&oacute; thể cho c&ocirc; n&agrave;ng n&agrave;y</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn</h3>\n<p>Những n&acirc;ng cấp như th&ecirc;m [item:Ấn Chiến Binh Rồng] hay [item:Ấn Cuồng Long] đều l&agrave; cực k&igrave; tốt để anh em đẩy c&aacute;c mốc tộc hệ n&agrave;y l&ecirc;n cao nhất, ngo&agrave;i ra Ch&acirc;n hỏa hay Nổi kh&ugrave;ng đều l&agrave; những l&otilde;i cực ngon để khả năng g&acirc;y s&aacute;t thương của [champ:Swain] trong giao tranh trở n&ecirc;n đi&ecirc;n loạn hơn.</p>\n<p>Những l&otilde;i đa dụng c&oacute; thể t&ugrave;y t&igrave;nh huống lựa chọn đ&oacute; l&agrave; : Tam hợp, Chiến lợi phẩm, Phước l&agrave;nh vũ trụ, Thăng hoa, L&agrave;m n&oacute;ng,... đ&acirc;y l&agrave; những l&otilde;i cực k&igrave; tốt cho kh&ocirc;ng chỉ [champ:Swain] m&agrave; c&ograve;n của to&agrave;n bộ cả đội h&igrave;nh nếu như anh em biết tận dụng</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh</h3>\n<p>Phải n&oacute;i trước với anh em, thời điểm n&agrave;y đ&acirc;y l&agrave; bộ b&agrave;i được tranh nhau cực k&igrave; nhiều nhờ sức mạnh vượt khỏi gi&aacute; tiền của [champ:Swain] nếu như c&oacute; được đ&uacute;ng những m&oacute;n đồ chuẩn vậy n&ecirc;n điều đầu ti&ecirc;n cần l&agrave;m l&agrave; check xem c&oacute; nhiều nh&agrave; hướng tới gh&eacute;p sớm đ&aacute;nh chung kh&ocirc;ng m&agrave; xoay khung hoặc đưa ra c&aacute;c chiến lược ph&ugrave; hợp nh&eacute;.</p>\n<p>Khởi đầu anh em cũng kh&ocirc;ng nhất thiết phải theo [champ:Swain] ngay, c&oacute; thể def tạm bằng khung [trait:Xạ Tiễn] [trait:Ngọc Long] của [champ:Ezreal] v&agrave; [champ:Ashe], [champ:Ezreal] sẽ l&agrave; tướng cầm đồ hộ sau m&agrave;n bị thanh trừng v&agrave; kh&ocirc;ng thể cắm đầu v&agrave;o slow roll được nữa. Lưu &yacute; l&agrave; cố gắng c&oacute; được 1 chuỗi thua hoặc thắng để tối ưu lượng kinh tế.</p>\n<p>Nếu như đ&atilde; c&oacute; 1 được chuỗi thắng hoặc thua cực đẹp th&igrave; c&ocirc;ng việc tiếp theo l&agrave; up thẳng l&ecirc;n level 7 ở round 4. ( ngay sau khi đ&aacute;nh b&atilde;i s&oacute;i ) v&agrave; ho&agrave;n thiện đội h&igrave;nh với khung 2 sao cũng như lượng đồ chuẩn anh em set up từ trước để đ&aacute;nh chuỗi thắng v&agrave; t&iacute;ch lại tiền.&nbsp;</p>\n<p>C&oacute; thể roll ngay ở level 6 nếu như anh em đ&atilde; c&oacute; 1 đ&ocirc;i c&aacute;c tướng cũng như muốn đủ 6 [trait:Chiến Binh Rồng] từ sớm v&agrave; comeback lu&ocirc;n tại thời điểm n&agrave;y tuy nhi&ecirc;n tỉ lệ cũng như lượng tiền l&uacute;c n&agrave;y của anh em l&agrave; kh&aacute; thấp thế n&ecirc;n chỉ khi m&agrave; thấp m&aacute;u qu&aacute; cũng như phải xoay sở c&ograve;n kh&ocirc;ng th&igrave; cứ t&iacute;ch tiền roll ở 7 cho chắc ăn.</p>\n<p>Khoảng từ round 5. trở đi c&aacute;c nh&agrave; sẽ bắt đầu update mạnh, l&uacute;c n&agrave;y anh em xem x&eacute;t t&igrave;nh h&igrave;nh cũng như lượng m&aacute;u để t&iacute;nh đến chuyện roll chết ở đ&acirc;y hay l&ecirc;n level 8 kẹp th&ecirc;m 1 [trait:L&ocirc;i Long] . Tuy nhi&ecirc;n thường khi đ&aacute;nh đội h&igrave;nh n&agrave;y m&igrave;nh sẽ cạn tiền ngay ở level 7 để kh&ocirc;ng chỉ roll được [champ:Swain], c&aacute;c tướng [trait:Chiến Binh Rồng] kh&aacute;c l&ecirc;n 3 sao th&igrave; tướng được buff hiệu ứng tộc hệ n&agrave;y cũng sẽ c&oacute; th&ecirc;m c&aacute;c chỉ số, anh em lưu &yacute; điều n&agrave;y để ph&ugrave; hợp với c&aacute;ch chơi của đội h&igrave;nh n&agrave;y hơn nh&eacute;.</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><em><strong>Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website Dtcl.gg</strong></em></span></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Mạnh, dễ v&agrave;o top kể cả chỉ c&oacute; [champ:Swain] 2 sao</p>\n<p>Dễ chơi, dễ khung đội h&igrave;nh&nbsp;</p>\n<p>Kh&ocirc;ng bị khắc chế bởi bất k&igrave; đội h&igrave;nh n&agrave;o ở meta hiện tại</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Dễ bị tranh b&agrave;i, kh&oacute; l&ecirc;n được [champ:Swain] 3 sao</p>\n<p>Cần 1 lượng trang bị chuẩn để [champ:Swain] ph&aacute;t huy hết sức mạnh của m&igrave;nh</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Swain]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n]</li>\n<li>[item:Quyền Trượng Thi&ecirc;n Thần ]</li>\n</ul>\n<p>[champ:Neeko]</p>\n<ul>\n<li>[item:Th&uacute; Tượng Thạch Gi&aacute;p]</li>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:D&acirc;y Chuyền Chuộc Tội]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 2,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Neeko",
+                    "item": [{
+                            "item_id": "56"
+                        },
+                        {
+                            "item_id": "66"
+                        },
+                        {
+                            "item_id": "36"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Volibear",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Yasuo",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_LeeSin",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Ornn",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Karma",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Ashe",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Swain",
+                    "item": [{
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "69"
+                        },
+                        {
+                            "item_id": "34"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            }
+        ],
+        "name": "Swain Chiến binh rồng",
+        "slug": "swain-chien-binh-rong",
+        "meta_level": 2,
+        "updatedAt": "2022-07-14T11:31:35.268Z"
+    },
+    {
+        "_id": "62bc421fe14d87001c8bfb3d",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Corki Pháo thủ Lễ hội",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Tết chưa về m&agrave; v&agrave;o rank to&agrave;n thấy [trait:Ph&aacute;o Thủ] [trait:Lễ Hội], c&oacute; thể thấy chỉ sau 1 c&uacute; buff hơi lố ở bản 12.12B h&ocirc;m nay [champ:Corki] c&ugrave;ng b&egrave; lũ của m&igrave;nh đ&atilde; 1 bước trở th&agrave;nh đội h&igrave;nh top đầu meta. C&ugrave;ng Dtcl.gg xem c&aacute;ch x&acirc;y dựng đội h&igrave;nh n&agrave;y thế n&agrave;o nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Corki]</p>\n<p>[champ:Jinx]</p>\n<p>[champ:Tristana]</p>\n<p>[champ:Tahm Kench]</p>\n<p>[champ:Idas]</p>\n<p>[champ:Sona]</p>\n<p>[champ:Ornn]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Ngay từ h&ocirc;m qua [champ:Corki] [trait:Ph&aacute;o Thủ] [trait:Lễ Hội] đ&atilde; l&agrave; 1 đội h&igrave;nh sinh ra để khắc chế [champ:Swain] [trait:Chiến Binh Rồng] nhờ khả năng cho đầu ra s&aacute;t thương cực k&igrave; ổn định v&agrave; mạnh mẽ, v&agrave; khi [champ:Swain] kh&ocirc;ng c&ograve;n sức chống trả th&igrave; đội h&igrave;nh n&agrave;y 1 bước l&ecirc;n m&acirc;y v&agrave; trở th&agrave;nh top meta được người người nh&agrave; nh&agrave; spam</p>\n<h3>Trang bị :</h3>\n<p>[item:Cuồng Đao Guinsoo] l&agrave; trang bị n&ecirc;n c&oacute; d&agrave;nh cho [champ:Corki] bởi vừa cho tốc đ&aacute;nh nhanh, k&iacute;ch hoạt nội tại của [trait:Ph&aacute;o Thủ] th&ecirc;m v&agrave;o đ&oacute; l&agrave; khả năng ra chi&ecirc;u cũng tốt hơn v&agrave; g&acirc;y s&aacute;t thương bằng [trait:Lễ Hội]. M&oacute;n trang bị thứ 2 h&atilde;y ưu ti&ecirc;n [item:Diệt Khổng Lồ] để đối đầu với những [trait:Rồng Thần] hay [trait:Đấu Sĩ] cũng như đơn vị c&oacute; m&aacute;u cơ bản cao. Trang bị cuối c&ugrave;ng anh em t&ugrave;y lựa chọn, nếu như đ&atilde; c&oacute; c&aacute;c l&otilde;i hồi phục th&igrave; lấy [item:V&ocirc; Cực Kiếm] [item:Kiếm Tử Thần] để gia tăng lượng s&aacute;t thương hoặc d&ugrave;ng [item:Huyết Kiếm] [item:B&agrave;n Tay C&ocirc;ng L&yacute;] để giai tăng sức tr&igrave; trong giao tranh</p>\n<p>Chống chịu ch&iacute;nh cho đội h&igrave;nh n&agrave;y l&agrave; [champ:Idas] với những trang bị ph&ugrave; hợp với meta hiện nay l&agrave; [item:Th&uacute; Tượng Thạch Gi&aacute;p] , [item:&Aacute;o Cho&agrave;ng Gai] [item:Vuốt Rồng] [item:Gi&aacute;p M&aacute;u Warmog].</p>\n<p>Anh em cũng c&oacute; thể th&ecirc;m [item:Ngọn Thương Shojin] cho [champ:Sona] v&igrave; c&ocirc; ta l&agrave; nguồn khống chế ch&iacute;nh của team với những pha l&agrave;m cho&aacute;ng diện rộng để tạo sự kh&oacute; chịu cho đối phương.</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn :</h3>\n<p>Những l&otilde;i như th&ecirc;m [item:Ấn Lễ Hội] hay [item:Ấn Ph&aacute;o Thủ] qu&aacute; l&agrave; ngon n&ecirc;n nếu c&oacute; h&atilde;y lấy ngay lập tức để đẩy 2 mốc của tộc hệ n&agrave;y l&ecirc;n cao nhất. Ngo&agrave;i ra th&igrave; Qu&agrave; nhập tiệc, Đạn nảy,... đều l&agrave; những l&otilde;i li&ecirc;n quan cực k&igrave; tốt để anh em c&oacute; thể gia tăng s&aacute;t thương cho [champ:Corki].</p>\n<p>Thiếu sức hồi phục hay muốn sử dụng cả 3 m&oacute;n đồ g&acirc;y s&aacute;t thương anh em cũng c&oacute; thể lựa chọn l&otilde;i&nbsp; Chiến lợi phẩm hay Phước l&agrave;nh vũ trụ để b&ugrave; đắp chỉ số thiếu hụt n&agrave;y.</p>\n<p>Với việc c&oacute; th&ecirc;m 1 m&oacute;n đồ từ [trait:Kim Long] [champ:Idas] th&igrave; anh em cũng c&oacute; thể lựa chọn c&aacute;c l&otilde;i như Tr&iacute; tuệ si&ecirc;u c&ocirc;ng nghệ, L&aacute; chắn si&ecirc;u c&ocirc;ng nghệ, Cấy gh&eacute;p si&ecirc;u c&ocirc;ng nghệ cũng cực k&igrave; tốt để gia tăng lượng sức mạnh cho c&aacute;c đơn vị trong đội h&igrave;nh.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Thực sự chỉ qua 1 bản cập nhật v&agrave; 1 bản hot fix 12.12B [champ:Corki] tỏ ra qu&aacute; mạnh mẽ so với d&agrave;n 4 tiền c&ograve;n lại, th&ecirc;m v&agrave;o đ&oacute; đội h&igrave;nh n&agrave;y kh&ocirc;ng hề kh&oacute; chơi v&agrave; cũng qu&aacute; k&eacute;n đồ.</p>\n<p>Đầu game, anh em h&atilde;y ưu ti&ecirc;n lấy c&aacute;c đồ cho [champ:Idas] trước, chọn c&aacute;c m&oacute;n như [item:&Aacute;o Cho&agrave;ng Lửa] hay [item:Vuốt Rồng] [item:Th&uacute; Tượng Thạch Gi&aacute;p] để gh&eacute;p sớm v&agrave; đ&aacute;nh bằng h&agrave;ng tank. Khung carry ph&iacute;a dưới anh em cũng đa dạng c&oacute; thể l&agrave; [trait:Xạ Tiễn] hay bắt đầu lu&ocirc;n bằng [trait:Ph&aacute;o Thủ] cho [champ:Senna] cầm đồ hộ. Quan trọng l&agrave; anh em h&atilde;y cứ bắt c&agrave;ng nhiều đ&ocirc;i v&agrave;o c&agrave;ng tốt để ch&uacute;ng cơ hội l&ecirc;n 2 sao, anh em d&ugrave;ng def lu&ocirc;n rồi th&ecirc;m hệ đ&aacute;nh xoay quanh l&agrave; ổn.</p>\n<p>Bởi v&igrave; đ&acirc;y l&agrave; 1 b&agrave;i đấu đang cực k&igrave; hot thời điểm hiện tại n&ecirc;n khả năng bị tranh b&agrave;i cũng kh&aacute; l&agrave; cao vậy n&ecirc;n việc anh em cần l&agrave;m l&agrave; tối ưu thật nhiều lợi tức, đ&aacute;nh chuỗi thua cũng được miễn l&agrave; đừng để mất nhiều m&aacute;u. Đ&acirc;y l&agrave; 1 b&agrave;i đấu c&oacute; thể come back&nbsp; thậm ch&iacute; l&agrave; mạnh mẽ n&ecirc;n đừng lo nếu như bị thua thiệt giai đoạn đầu. Để tr&aacute;nh việc bị tranh b&agrave;i th&igrave; anh em c&oacute; thể l&agrave;m thao t&aacute;c l&agrave; ngay sau khi đ&aacute;nh b&atilde;i s&oacute;i ở v&ograve;ng 4. h&atilde;y l&ecirc;n ngay level v&agrave; d&ugrave;ng 1 ch&uacute;t tiền để khung đội h&igrave;nh cũng như l&agrave; kiếm được [champ:Corki] hay [champ:Idas] dằn mặt c&aacute;c nh&agrave; kh&aacute;c trong lobby rồi t&iacute;ch tiền lại v&agrave; l&ecirc;n level 8 ho&agrave;n thiện nốt.</p>\n<p>Khi khung ở level 8 với d&agrave;n 2 sao rồi th&igrave; h&atilde;y tận dụng m&oacute;n đồ của [champ:Idas] l&agrave; g&igrave; v&agrave; hack tiền từ đ&oacute; hướng tới việc l&ecirc;n 8 kẹp th&ecirc;m [champ:Bard] hay [champ:Soraka] th&igrave; c&aacute;i top 1 chắc chắn kh&ocirc;ng thể vuột khỏi tay anh em.</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><em><strong>Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website : Dtcl.gg</strong></em></span></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>S&aacute;t thương đầu ra v&agrave; l&acirc;u d&agrave;i ổn định</p>\n<p>C&oacute; thể t&ugrave;y biến xoay c&aacute;c khung đội h&igrave;nh kh&aacute;c nhau</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Dễ bị tranh b&agrave;i</p>\n<p>Cần tối ưu lượng m&aacute;u cũng như lợi tức tốt giai đoạn đầu game</p>\n<p>&nbsp;</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Corki]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:Diệt Khổng Lồ]</li>\n<li>[item:V&ocirc; Cực Kiếm]</li>\n</ul>\n<p>[champ:Idas]</p>\n<ul>\n<li>[item:Th&uacute; Tượng Thạch Gi&aacute;p]</li>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Gai]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 1,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_TahmKench",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Idas",
+                    "item": [{
+                            "item_id": "56"
+                        },
+                        {
+                            "item_id": "66"
+                        },
+                        {
+                            "item_id": "55"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Ornn",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Tristana",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Sona",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Corki",
+                    "item": [{
+                            "item_id": "12"
+                        },
+                        {
+                            "item_id": "19"
+                        },
+                        {
+                            "item_id": "23"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Jinx",
+                    "item": []
+                }
+            }
+        ],
+        "name": "Corki Pháo thủ Lễ hội",
+        "slug": "corki-phao-thu-le-hoi",
+        "meta_level": 0,
+        "updatedAt": "2022-06-29T12:18:51.143Z"
+    },
+    {
+        "_id": "62bd96dffc31d3001c113c37",
+        "meta_content": {
+            "title": "Hướng dẫn chơi đội hình Volibear Thần thoại Chiến binh rồng",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Ch&uacute; gấu [champ:Volibear] giờ đ&acirc;y đ&atilde; kh&ocirc;ng c&ograve;n đần nữa sau khi bản cập nhật 12.12 B cập bến, thậm ch&iacute; đ&acirc;y c&ograve;n l&agrave; 1 đội h&igrave;nh mạnh mẽ v&agrave; được c&aacute;c cờ thủ ở khắp mọi rank y&ecirc;u th&iacute;ch. C&ugrave;ng Dtcl.gg t&igrave;m hiểu đội h&igrave;nh n&agrave;y c&oacute; g&igrave; mạnh nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Volibear]</p>\n<p>[champ:Ornn]</p>\n<p>[champ:Anivia]</p>\n<p>[champ:Karma]</p>\n<p>[champ:Ashe]</p>\n<p>[champ:Swain]</p>\n<p>[champ:Lee Sin]</p>\n<p>[champ:Yasuo]</p>\n<p>&nbsp;</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>[champ:Volibear] [trait:Thần Thoại] [trait:Chiến Binh Rồng] thậm ch&iacute; c&ograve;n khắc chế được phần lớn những đội h&igrave;nh top đầu meta như [champ:Corki] hay [champ:Xayah] nhờ khả năng x&acirc;y dựng b&agrave;i đa dụng c&ugrave;ng kĩ năng đ&aacute;nh lan cực k&igrave; kh&oacute; chịu của m&igrave;nh v&igrave; vậy n&ecirc;n như những đội h&igrave;nh kia kh&ocirc;ng đủ khỏe chắc chắn sẽ kh&ocirc;ng nằm ngo&agrave;i khả năng phải nằm xuống trước m&oacute;ng vuốt của [champ:Volibear].</p>\n<h3>Trang bị :</h3>\n<p>Như hầu hết những bộ b&agrave;i sử dụng tướng 3 tiền kh&aacute;c th&igrave; [champ:Volibear] cũng cần những m&oacute;n đồ chuẩn cho ri&ecirc;ng m&igrave;nh để tự tin g&aacute;nh team. Đ&oacute; l&agrave; [item:Cuồng Đao Guinsoo] - Khả năng đ&aacute;nh nhanh sẽ gi&uacute;p hắn ta k&iacute;ch hoạt được nội tại giật s&eacute;t mỗi đ&ograve;n đ&aacute;nh thứ 3 được nhiều nhất v&igrave; vậy đ&acirc;y l&agrave; trang bị kh&ocirc;ng thể n&agrave;o thiếu. Tiếp đ&oacute; l&agrave; [item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n], gi&uacute;p [champ:Volibear] được dễ thở hơn giai đoạn đầu giao tranh v&agrave; chuyển đổi kĩ năng của m&igrave;nh cũng như t&iacute;ch c&aacute;c stack của [item:Cuồng Đao Guinsoo], hơn thế giờ [item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n] c&ograve;n cho 1 ch&uacute;t tốc đ&aacute;nh khởi đầu n&ecirc;n đ&acirc;y cũng l&agrave; 1 trnag bị kh&ocirc;ng k&eacute;m phần thiết yếu cho hắn ta. Trang bị cuối c&ugrave;ng anh em h&atilde;y hướng tới [item:Huyết Kiếm] để c&oacute; khả năng hồi phục cũng như l&agrave; 1 lớp l&aacute; chắn khi lượng m&aacute;u tụt xuống mức b&aacute;o động. Tuy nhi&ecirc;n nếu như cảm thấy đủ mạnh mẽ để chống chịu th&ecirc;m v&agrave;o đ&oacute; l&agrave; c&oacute; c&aacute;c l&otilde;i hồi phục rồi th&igrave; đừng ngại ngần m&agrave; lắp [item:Mũ Ph&ugrave; Thủy Rabadon] hay những trang bị g&acirc;y s&aacute;t thương t&ugrave;y t&igrave;nh huống để tối ưu&nbsp;</p>\n<p>Chống chịu đội h&igrave;nh n&agrave;y kh&ocirc;ng ai kh&aacute;c l&agrave; [champ:Ornn] với những trang bị ph&ugrave; hợp với meta hiện tại như l&agrave; [item:Th&uacute; Tượng Thạch Gi&aacute;p] [item:Vuốt Rồng] hay [item:&Aacute;o Cho&agrave;ng Gai] [item:Gi&aacute;p M&aacute;u Warmog]. Ngo&agrave;i ra anh em cũng n&ecirc;n kiếm 1 trang bị giảm hồi m&aacute;u như [item:&Aacute;o Cho&agrave;ng Lửa] cho d&agrave;n tank hay [item:Quỷ Thư Morello] cho [champ:Anivia] nh&eacute; !</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn :</h3>\n<p>Những n&acirc;ng cấp gi&uacute;p c&oacute; th&ecirc;m [item:Ấn Chiến Binh Rồng] sẽ n&ecirc;n được ưu ti&ecirc;n đầu ti&ecirc;n để anh em k&iacute;ch hoạt tr&ograve;n đội h&igrave;nh được sớm nhất. Ngo&agrave;i ra những l&otilde;i đa dụng như Tam hợp, L&agrave;m n&oacute;ng, Bạn th&acirc;n, hay thậm ch&iacute; l&agrave; Phước l&agrave;nh vũ trụ, Chiến lợi phẩm,.... đều l&agrave; những l&otilde;i cực k&igrave; ngon m&agrave; t&ugrave;y từng t&igrave;nh huống anh em c&oacute; thể lựa chọn sử dụng</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Như m&igrave;nh đ&atilde; n&oacute;i ở tr&ecirc;n, mặc d&ugrave; [trait:Chiến Binh Rồng] đ&atilde; bị giảm sức mạnh nhưng kh&ocirc;ng ảnh hưởng nhiều tới [champ:Volibear] do khả năng s&aacute;t thương của hắn ta đến k&iacute;ch hoạt đ&ograve;n đ&aacute;nh, th&ecirc;m v&agrave;o đ&oacute; l&agrave; khả năng hấp thu c&aacute;c chỉ số của tướng đồng minh khiến cho hắn ta trở th&agrave;nh 1 con qu&aacute;i th&uacute; ch&iacute;nh hiệu tr&ecirc;n b&agrave;n cờ khi s&aacute;t thương vừa lớn m&agrave; độ chống chịu cũng kh&ocirc;ng hề nhỏ. Th&ecirc;m v&agrave;o đ&oacute; những c&uacute; vả s&eacute;t g&acirc;y s&aacute;t thương lan v&igrave; vậy kể cả khi đang vật lộn với h&agrave;ng tank anh em vẫn c&oacute; thể kết liễu được carry tuyến sau bởi s&aacute;t thương từ kĩ năng n&agrave;y l&agrave; cực k&igrave; lớn.</p>\n<p>Về c&aacute;ch chơi, mặc d&ugrave; đ&acirc;y l&agrave; đội h&igrave;nh kh&aacute; mạnh nhưng từ Kim Cương trở l&ecirc;n m&igrave;nh vẫn thấy &iacute;t người sử dụng do c&oacute; thể l&agrave; chưa tin tưởng tuy nhi&ecirc;n anh em vẫn n&ecirc;n check kĩ lại bởi đ&ocirc;i khi bị tranh b&agrave;i th&igrave; cũng rất l&agrave; kh&oacute; chơi. Đầu game h&atilde;y cố gắng kiếm được khung 3 [trait:Chiến Binh Rồng] v&agrave; [trait:Kim Long] để hack tiền, th&ecirc;m v&agrave;o đ&oacute; l&agrave; cố vẽ được [item:Cuồng Đao Guinsoo] v&agrave; [item:Huyết Kiếm], chỉ cần 2 m&oacute;n đồ n&agrave;y th&ocirc;i đảm bảo nếu [champ:Volibear] c&oacute; được sẽ gi&uacute;p anh em c&oacute; 1 lượng kinh tế cực k&igrave; ổn định với chuỗi thắng của m&igrave;nh.</p>\n<p>Giữa trận l&agrave; khoảng thời gian nhạy cảm, anh em c&oacute; thể l&ecirc;n level 7 ngay sau khi đ&aacute;nh b&atilde;i người s&oacute;i v&agrave; roll 1 ch&uacute;t lợi tức khung cho đội h&igrave;nh 2 sao với 6 [trait:Chiến Binh Rồng]. Lưu &yacute; h&atilde;y bắt tất cả những &nbsp;[trait:Chiến Binh Rồng] c&oacute; thể l&ecirc;n 3 sao v&igrave; th&ecirc;m 1 cấp sao l&agrave; [champ:Volibear] của anh em c&oacute; 1 lượng cộng th&ecirc;m chỉ số kh&aacute; lớn.&nbsp;</p>\n<p>Khung đội h&igrave;nh ở đ&acirc;y rồi th&igrave; t&iacute;ch tiền lại rồi l&ecirc;n level 8 th&ecirc;m [champ:Neeko] v&agrave;o l&agrave; tr&ograve;n đội h&igrave;nh rồi bắt đầu roll chậm hay nhanh t&ugrave;y v&agrave;o lượng m&aacute;u của anh em để update cả [champ:Volibear] v&agrave; d&agrave;n chiến binh rồng l&ecirc;n 3 sao.</p>\n<p>Khi xếp b&agrave;i n&ecirc;n ch&uacute; &yacute; 1 điểm như sau, h&atilde;y hiến tế [champ:Lee Sin] cho [champ:Volibear] [champ:Swain] cho [champ:Ornn] v&agrave; [champ:Ashe] cho [champ:Anivia] bởi đ&acirc;y l&agrave; 3 tướng &iacute;t c&oacute; gi&aacute; trị về khống chế nhất trong team, th&ecirc;m v&agrave;o đ&oacute; đ&acirc;y l&agrave; c&aacute;c tướng c&oacute; chỉ số kh&aacute; cao n&ecirc;n buff 1 lượng sức mạnh cực lớn cho bộ 3 [trait:Thần Thoại] n&agrave;y.</p>\n<p style=\"text-align: center;\"><strong><em><span style=\"text-decoration: underline;\">Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website Dtcl.gg</span></em></strong></p>\n<p>&nbsp;</p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>C&oacute; thể khắc chế hầu hết c&aacute;c b&agrave;i sử dụng carry với d&agrave;n chống chịu ở giai đoạn hiện tại</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Bắt buộc phải khung b&agrave;i ở level 8</p>\n<p>[champ:Volibear] cực k&igrave; cần những m&oacute;n đồ chuẩn để ph&aacute;t huy hết sức mạnh của m&igrave;nh</p>\n<p>Yếu về cuối trận nếu như chưa l&ecirc;n được [champ:Volibear] 3 sao</p>"
+                }
+            ],
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "item_content": "<p>[champ:Volibear]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:Huyết Kiếm]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n]</li>\n</ul>\n<p>[champ:Ornn]</p>\n<ul>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:Th&uacute; Tượng Thạch Gi&aacute;p]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Gai]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 2,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Neeko",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_LeeSin",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Volibear",
+                    "item": [{
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "16"
+                        },
+                        {
+                            "item_id": "69"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Ornn",
+                    "item": [{
+                            "item_id": "56"
+                        },
+                        {
+                            "item_id": "66"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_Swain",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 2
+                },
+                "data": {
+                    "champion_id": "TFT7_Yasuo",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 0,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Karma",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Anivia",
+                    "item": [{
+                        "item_id": "37"
+                    }],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Ashe",
+                    "item": []
+                }
+            }
+        ],
+        "name": "Volibear Thần thoại Chiến binh rồng",
+        "slug": "volibear-than-thoai-chien-binh-rong",
+        "meta_level": 1,
+        "updatedAt": "2022-07-14T11:31:19.190Z"
+    },
+    {
+        "_id": "62c2def5a0822f001c73fda1",
+        "meta_content": {
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "title": "Hướng dẫn chơi đội hình Talon Ngọc Long",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>[champ:Talon]&nbsp; kể từ sau bản cập nhật 12.12 đ&atilde; c&oacute; 1 chỗ đứng của ri&ecirc;ng m&igrave;nh với khả năng kết liễu đơn mục ti&ecirc;u cực k&igrave; tốt, vậy sẽ&nbsp; thế n&agrave;o nếu như được kết hợp với đội h&igrave;nh [trait:Ngọc Long] , c&ugrave;ng Dtcl.gg t&igrave;m hiểu nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Talon]</p>\n<p>[champ:Pyke]</p>\n<p>[champ:Shi Oh Yu]</p>\n<p>[champ:Neeko]</p>\n<p>[champ:Gnar]</p>\n<p>[champ:Anivia]</p>\n<p>[champ:Lulu]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<h3>Trang bị :</h3>\n<p>[champ:Talon] anh em lựa chọn đầu ti&ecirc;n l&agrave; [item:V&ocirc; Cực Kiếm] để tối ưu tộc hệ [trait:S&aacute;t Thủ] v&agrave; kết liễu mục ti&ecirc;u 1 c&aacute;ch nhanh nhất c&oacute; thể, m&oacute;n đồ tiếp theo n&ecirc;n lựa chọn l&agrave; [item:Huyết Kiếm] để lấy khả năng hồi phục v&agrave; lớp l&aacute; chắn trong trường hợp bị nhắm đến khiến cho số m&aacute;u tụt xuống mức b&aacute;o động. Tuy nhi&ecirc;n cũng c&oacute; thể thay trang bị n&agrave;y bằng [item:B&agrave;n Tay C&ocirc;ng L&yacute;] hoặc [item:Kiếm S&uacute;ng Hextech] tuy nhi&ecirc;n sẽ kh&ocirc;ng hiệu quả bằng v&agrave; chỉ n&ecirc;n d&ugrave;ng trong những trường hợp bất đắc dĩ. M&oacute;n cuối c&ugrave;ng h&atilde;y lựa 1 trang bị g&acirc;y s&aacute;t thương nữa, c&oacute; thể l&agrave; [item:Cung Xanh] để kết hợp với [item:V&ocirc; Cực Kiếm] , [item:Kiếm Tử Thần] gia tăng lượng sức mạnh c&ocirc;ng k&iacute;ch cơ bản hoặc [item:Diệt Khổng Lồ] để đối đầu với những nh&agrave; [trait:Đấu Sĩ] hay c&oacute; [trait:Rồng Thần] mạnh.</p>\n<p>Chống chịu ch&iacute;nh cho đội h&igrave;nh n&agrave;y l&agrave; [champ:Shi Oh Yu] v&agrave; [champ:Neeko], t&ugrave;y theo tướng n&agrave;o l&ecirc;n 2 sao trước m&agrave; anh em gh&eacute;p c&aacute;c m&oacute;n đồ th&iacute;ch hợp với meta hiện tại như l&agrave; [item:Th&uacute; Tượng Thạch Gi&aacute;p] [item:&Aacute;o Cho&agrave;ng Gai] hoặc [item:Vuốt Rồng] [item:Gi&aacute;p M&aacute;u Warmog].</p>\n<p>Nếu như c&oacute; điều kiện nu&ocirc;i được [champ:Anivia] 3 sao th&igrave; những trang bị g&acirc;y s&aacute;t thương ph&eacute;p thừa c&oacute; thể cho đơn vị n&agrave;y cụ thể l&agrave; [item:Quỷ Thư Morello] [item:Quyền Trượng Thi&ecirc;n Thần ] ,...</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn :</h3>\n<p>C&aacute;c n&acirc;ng cấp như th&ecirc;m ấn hay mốc [item:Ấn S&aacute;t Thủ] hay [trait:Ngọc Long] l&agrave; cực k&igrave; tốt để anh em c&oacute; cơ hội đẩy c&aacute;c mốc của tộc hệ n&agrave;y l&ecirc;n mức cao nhất, ngo&agrave;i ra th&igrave; Bịt miệng &aacute;m s&aacute;t, Nghiệp quật hay Bảo hộ hằng cửu đều l&agrave; những ấn bổ trợ trực tiếp cho 2 tộc hệ ch&iacute;nh của đội h&igrave;nh n&agrave;y m&agrave; anh em h&atilde;y lấy lu&ocirc;n nếu như c&oacute; cơ hội</p>\n<p>Những n&acirc;ng cấp đa dụng như Chiến lợi phẩm, Phước l&agrave;nh vũ trụ, Cấy gh&eacute;p si&ecirc;u c&ocirc;ng nghệ, Thăng Hoa,... đều l&agrave; những l&otilde;i kh&aacute; ổn để t&ugrave;y từng trường hợp anh em lựa chọn v&agrave; đ&aacute;nh 1 c&aacute;ch linh hoạt.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Thực chất đ&acirc;y kh&ocirc;ng phải l&agrave; một đội h&igrave;nh c&oacute; thể chốt ngay từ đầu do cần kh&aacute; nhiều yếu tố để ho&agrave;n thiện, anh em chỉ c&oacute; thể def m&aacute;u thật tốt giai đoạn đầu trận rồi xoay sang khi roll ra c&aacute;c đơn vị c&oacute; trong đội h&igrave;nh n&agrave;y cụ thể l&agrave; [champ:Talon] hay [champ:Shi Oh Yu]. Tuy nhi&ecirc;n n&oacute;i như vậy kh&ocirc;ng c&oacute; nghĩa đ&acirc;y l&agrave; đội h&igrave;nh yếu, qua nhiều lần test thử v&agrave; bị &eacute;p đ&aacute;nh đội h&igrave;nh n&agrave;y 1 c&aacute;ch ngẫu nhi&ecirc;n th&igrave; thực sự m&igrave;nh cũng bất ngờ trước sức mạnh của đội h&igrave;nh n&agrave;y. [champ:Talon] giờ nếu như c&oacute; đủ 3 m&oacute;n đồ chuẩn cho hắn đảm bảo chỉ với 1 c&uacute; nhảy v&agrave; t&igrave;m đến đ&uacute;ng mục ti&ecirc;u chắc chắn đối phương sẽ bị kết liễu ngay chủ lực s&aacute;t thương trong chốc l&aacute;t. Th&ecirc;m v&agrave;o đ&oacute; v&igrave; kĩ năng sẽ t&igrave;m đến kẻ địch xa nhất n&ecirc;n nếu như xếp đ&uacute;ng th&igrave; kể cả bo g&oacute;c đối phương cũng kh&ocirc;ng thể n&agrave;o chạy khỏi lưỡi dao của hắn ta.</p>\n<p>Đầu game đến giữa game anh em h&atilde;y cứ def m&aacute;u thật tốt cũng như tối ưu lượng kinh tế của m&igrave;nh để ngay sau round đ&aacute;nh b&atilde;i người s&oacute;i thực hiện thao t&aacute;c l&ecirc;n level 7 roll 1 v&agrave;i lợi tức t&ugrave;y theo lượng m&aacute;u của bản th&acirc;n, c&agrave;ng thấp m&aacute;u c&agrave;ng phải roll mạnh tay để củng cố khung đội h&igrave;nh cũng như [champ:Talon] với c&aacute;c m&oacute;n đồ đ&atilde; chuẩn bị sẵn từ trước. Ngay sau đ&oacute; nếu như đ&atilde; cảm thấy ổn v&agrave; c&oacute; thể def được rồi th&igrave; bắt đầu t&iacute;ch tiền lại để l&ecirc;n level 8 ho&agrave;n thiện đội h&igrave;nh.</p>\n<p>Ở c&aacute;c v&ograve;ng đi chợ anh em h&atilde;y ưu ti&ecirc;n lấy [item:Găng Đấu Tập], đ&acirc;y l&agrave; mảnh trang bị cực k&igrave; cần thiết đối với những đội h&igrave;nh sử dụng chủ lực l&agrave; [trait:S&aacute;t Thủ] vậy n&ecirc;n đừng sợ thừa v&igrave; anh em c&ograve;n c&oacute; thể gh&eacute;p đa dụng c&aacute;c m&oacute;n đồ như [item:&Aacute;o Cho&agrave;ng Tĩnh Lặng] hay [item:Vuốt Ma &Aacute;m] [item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n] [item:B&agrave;n Tay C&ocirc;ng L&yacute;] , .... V&agrave; nếu như c&oacute; cơ hội h&atilde;y biến [champ:Shi Oh Yu] trở th&agrave;nh [trait:S&aacute;t Thủ] để hắn ta thực hiện những c&uacute; đấm của m&igrave;nh lực hơn nh&eacute; anh em&nbsp; !</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><em><strong>Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website Dtcl.gg</strong></em></span></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>C&oacute; thể xoay b&agrave;i t&ugrave;y biến&nbsp;</p>\n<p>Chống chịu mạnh, khả năng kết liễu mục ti&ecirc;u cực k&igrave; tốt đến từ [champ:Talon]</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Giai đoạn đầu trận cố gắng def m&aacute;u cũng như tối ưu lượng kinh tế thật tốt</p>\n<p>[champ:Talon] cần phải c&oacute; 3 m&oacute;n đồ chuẩn từ sớm để c&oacute; thể l&ecirc;n được 8 ho&agrave;n thiện đội h&igrave;nh</p>"
+                }
+            ],
+            "item_content": "<p>[champ:Talon]</p>\n<ul>\n<li>[item:Cung Xanh]</li>\n<li>[item:V&ocirc; Cực Kiếm]</li>\n<li>[item:Huyết Kiếm]</li>\n</ul>\n<p>[champ:Shi Oh Yu]</p>\n<ul>\n<li>[item:Th&uacute; Tượng Thạch Gi&aacute;p]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Gai]</li>\n<li>[item:Vuốt Rồng]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 2,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Gnar",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Shiohyu",
+                    "item": [{
+                            "item_id": "56"
+                        },
+                        {
+                            "item_id": "66"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Neeko",
+                    "item": [{
+                        "item_id": "57"
+                    }]
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 1
+                },
+                "data": {
+                    "champion_id": "TFT7_Pyke",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 2,
+                    "y": 2
+                },
+                "data": {
+                    "champion_id": "TFT7_Anivia",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 2
+                },
+                "data": {
+                    "champion_id": "TFT7_Talon",
+                    "item": [{
+                            "item_id": "16"
+                        },
+                        {
+                            "item_id": "29"
+                        },
+                        {
+                            "item_id": "19"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 2
+                },
+                "data": {
+                    "champion_id": "TFT7_Lulu",
+                    "item": []
+                }
+            }
+        ],
+        "name": "Talon Ngọc Long",
+        "slug": "talon-ngoc-long",
+        "meta_level": 1,
+        "updatedAt": "2022-07-04T12:37:09.787Z"
+    },
+    {
+        "_id": "62c42bf1a0822f001c74387a",
+        "meta_content": {
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "title": "Hướng dẫn chơi đội hình Daeja Bang hội",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>L&agrave; một đội h&igrave;nh được s&aacute;ng tạo bởi c&aacute;c ph&aacute;p sư Trung Hoa nhờ sự kết hợp cực k&igrave; s&aacute;ng tạo giữa [champ:Daeja] v&agrave; [trait:Bang Hội], vậy hiệu quả của đội h&igrave;nh n&agrave;y đến đ&acirc;u c&ugrave;ng Dtcl.gg t&igrave;m hiểu nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Daeja]</p>\n<p>[champ:Nunu &amp; Willump]</p>\n<p>[champ:Hecarim]</p>\n<p>[champ:Sejuani]</p>\n<p>[champ:Bard]</p>\n<p>[champ:Twitch]</p>\n<p>[champ:Ryze]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Thực chất đ&acirc;y l&agrave; đội h&igrave;nh kh&ocirc;ng được những người chơi rank thấp ch&uacute; &yacute; đến nhiều do cần khả năng r&agrave;nh mạch v&agrave; tư duy tốt, th&ecirc;m v&agrave;o đ&oacute; đội h&igrave;nh n&agrave;y cần anh em phải lực ngay từ đầu v&agrave; sống s&oacute;t qua được qu&atilde;ng thời gian giữa trận kh&oacute; khăn mới c&oacute; thể d&agrave;nh được top cao.</p>\n<h3>Trang bị :</h3>\n<p>Với [champ:Daeja] giờ đ&acirc;y kh&ocirc;ng c&ograve;n l&ecirc;n theo hướng tốc đ&aacute;nh nữa m&agrave; anh em lựa chọn l&ecirc;n full s&aacute;t thương ph&eacute;p như [item:Găng Bảo Thạch] [item:V&ocirc; Cực Kiếm] [item:Quyền Trượng Thi&ecirc;n Thần ] [item:Mũ Ph&ugrave; Thủy Rabadon] ,... để c&oacute; thể 1 đến 2 lần ra chi&ecirc;u l&agrave; qu&eacute;t sạch đội h&igrave;nh đối phương. Nếu như kh&ocirc;ng thể vẽ được hết cả 3 m&oacute;n đồ g&acirc;y s&aacute;t thương th&igrave; [item:Dao Điện Statikk] hay [item:Ngọn Thương Shojin] cũng c&oacute; thể l&agrave; lựa chọn thay thế trong nhiều trường hợp.</p>\n<p>Chống chịu ch&iacute;nh trong đội h&igrave;nh n&agrave;y đ&oacute; l&agrave; [champ:Nunu &amp; Willump] bởi hắn ta l&agrave; 1 tướng 3 v&agrave;ng n&ecirc;n gi&uacute;p anh em def sớm được từ giai đoạn giữa trận, th&ecirc;m v&agrave;o đ&oacute; nếu như c&oacute; những hiệu ứng [trait:Huyễn Long] tốt th&igrave; [champ:Nunu &amp; Willump] ho&agrave;n to&agrave;n c&oacute; thể tr&acirc;u b&ograve; v&agrave; cứng c&aacute;p hơn cả 4 tiền [champ:Hecarim].</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn :</h3>\n<p>Những l&otilde;i li&ecirc;n quan đến th&ecirc;m [item:Ấn Kỵ Sĩ] hay [item:Ấn Bang Hội] anh em lấy lu&ocirc;n khi c&oacute; v&igrave; cực k&igrave; quan trọng trong việc gia tăng sức mạnh của đội h&igrave;nh. Ngo&agrave;i ra th&igrave; [item:Ấn Huyễn Long] cũng l&agrave; lựa chọn kh&ocirc;ng tồi tuy nhi&ecirc;n nếu như vậy th&igrave; anh em phải c&acirc;n nhắc bỏ bớt 1 [trait:Bang Hội] vậy n&ecirc;n h&atilde;y ch&uacute; &yacute; nếu như hiệu ứng [trait:Huyễn Long] trận đ&oacute; đ&aacute;ng để thay thế th&igrave; h&atilde;y lấy nh&eacute; ! Theo đ&oacute; th&igrave; T&uacute;i của URF cũng l&agrave; 1 l&otilde;i cực k&igrave; ngon để anh em c&oacute; thể gh&eacute;p được c&aacute;c ấn tr&ecirc;n.</p>\n<p>L&otilde;i li&ecirc;n quan đến tộc hệ như G&acirc;y ảo gi&aacute;c - Tướng Huyễn Long nhận giảm 90% s&aacute;t thương trong 5 gi&acirc;y đầu giao tranh cũng cực k&igrave; tốt để kh&ocirc;ng chỉ [champ:Nunu &amp; Willump] m&agrave; [champ:Daeja] nếu như v&ocirc; t&igrave;nh bị s&aacute;t thủ nhắm v&agrave;o cũng c&oacute; thời gian để phản kh&aacute;ng lại.</p>\n<p>Những l&otilde;i đa dụng như Thăng Hoa, Chiến lợi phẩm, Phước l&agrave;nh vũ trụ, Bạn th&acirc;n,... cũng cực k&igrave; tốt để t&ugrave;y từng trường hợp gi&uacute;p anh em ứng biến lựa chọn.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>[champ:Daeja] [trait:Bang Hội] kh&ocirc;ng được nhiều người chơi rank dưới biết đến do đ&acirc;y kh&ocirc;ng phải l&agrave; 1 đội h&igrave;nh c&oacute; thể hướng tới từ đầu được, l&iacute; do rất dễ hiểu ở đ&acirc;y đ&oacute; l&agrave; mỗi trận đấu hiệu ứng [trait:Huyễn Long] l&agrave; kh&aacute;c nhau th&ecirc;m v&agrave;o đ&oacute; đội h&igrave;nh n&agrave;y cần 1 h&agrave;ng chống chịu cực mạnh để [champ:Daeja] c&oacute; đủ thời gian thực hiện những c&uacute; quạt của m&igrave;nh n&ecirc;n thường đội h&igrave;nh n&agrave;y phải bắt đầu x&acirc;y dựng từ level 8 v&agrave; &iacute;t c&oacute; cơ hội cho những người chơi đ&aacute;nh comeback ở level 7. Mặc d&ugrave; vậy đ&acirc;y vẫn l&agrave; đội h&igrave;nh m&igrave;nh đ&aacute;nh gi&aacute; cực k&igrave; cao do nếu như c&oacute; đủ khung th&igrave; kh&ocirc;ng sợ bất k&igrave; nh&agrave; n&agrave;o trong meta hiện tại.</p>\n<p>Anh em h&atilde;y lựa chọn lối đ&aacute;nh def m&aacute;u thậm ch&iacute; l&agrave; tiết kiệm từng ch&uacute;t m&aacute;u linh th&uacute; khi chơi đội h&igrave;nh n&agrave;y, c&oacute; thể lựa chọn đ&aacute;nh chuỗi thắng hoặc lấy c&aacute;c l&otilde;i như Sống vội, Nh&agrave; t&agrave;i phiệt, N&acirc;ng cấp kinh nghiệm,... để c&oacute; cơ hội l&ecirc;n 8 trước c&aacute;c đối thủ kh&aacute;c v&agrave; ho&agrave;n th&agrave;nh sớm đội h&igrave;nh.</p>\n<p>Th&ecirc;m 1 lưu &yacute; nữa l&agrave; nhiều anh em thắc mắc tại sao kh&ocirc;ng gh&eacute;p bất cứ m&oacute;n đồ n&agrave;o gi&uacute;p cho việc ra kĩ năng của [champ:Daeja] nhanh hơn như [item:Cuồng Đao Guinsoo] hay [item:Ngọn Thương Shojin] th&igrave; xin ph&eacute;p trả lời đ&oacute; l&agrave; [trait:Bang Hội] đ&atilde; cho to&agrave;n đội h&igrave;nh th&ecirc;m tốc đ&aacute;nh, hồi năng lượng theo đ&ograve;n đ&aacute;nh,... n&ecirc;n gh&eacute;p full s&aacute;t thương th&igrave; chỉ với nhiều nhất l&agrave; 3 c&uacute; quạt l&agrave; anh em đ&atilde; c&oacute; thể tiễn to&agrave;n bộ đội h&igrave;nh đối phương l&ecirc;n bảng đếm số. Ch&iacute;nh v&igrave; vậy h&atilde;y ch&uacute; trọng x&acirc;y dựng h&agrave;ng tank với [trait:Kỵ Sĩ] gi&uacute;p c&acirc;u giờ cho [champ:Daeja] thực hiện kĩ năng của m&igrave;nh bằng việc gh&eacute;p [item:&Aacute;o Cho&agrave;ng Lửa] hay [item:Th&uacute; Tượng Thạch Gi&aacute;p] [item:Vuốt Rồng] từ sớm.</p>\n<p style=\"text-align: center;\"><strong><em><span style=\"text-decoration: underline;\">Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website Dtcl.gg</span></em></strong></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Kh&ocirc;ng sợ bất k&igrave; đội h&igrave;nh n&agrave;o trong meta nếu như đủ khung v&agrave; to&agrave;n bộ đ&atilde; l&ecirc;n 2 sao</p>\n<p>C&oacute; thể đ&aacute;nh với gần như mọi loại hiệu ứng Huyễn Long</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Bắt buộc phải đ&aacute;nh ở level 8 để khung to&agrave;n bộ đội h&igrave;nh</p>\n<p>Kh&oacute; x&acirc;y dựng do c&aacute;c nh&agrave; tận dụng [trait:Kỵ Sĩ] kh&aacute; nhiều</p>"
+                }
+            ],
+            "item_content": "<p>[champ:Daeja]</p>\n<ul>\n<li>[item:Quyền Trượng Thi&ecirc;n Thần ]</li>\n<li>[item:Găng Bảo Thạch]</li>\n<li>[item:V&ocirc; Cực Kiếm]</li>\n</ul>\n<p>[champ:Nunu &amp; Willump]</p>\n<ul>\n<li>[item:&Aacute;o Cho&agrave;ng Gai]</li>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:Th&uacute; Tượng Thạch Gi&aacute;p]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 2,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Sejuani",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Hecarim",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Nunu",
+                    "item": [{
+                            "item_id": "56"
+                        },
+                        {
+                            "item_id": "66"
+                        },
+                        {
+                            "item_id": "55"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Twitch",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Bard",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Daeja",
+                    "item": [{
+                            "item_id": "39"
+                        },
+                        {
+                            "item_id": "34"
+                        },
+                        {
+                            "item_id": "19"
+                        }
+                    ]
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Ryze",
+                    "item": []
+                }
+            }
+        ],
+        "name": "Daeja Bang hội",
+        "slug": "daeja-bang-hoi",
+        "meta_level": 1,
+        "updatedAt": "2022-07-05T12:17:53.853Z"
+    },
+    {
+        "_id": "62cffd2bc43a07001ca28008",
+        "meta_content": {
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "title": "Hướng dẫn chơi đội hình Nami Pháp sư ",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Vừa mới bước sang phi&ecirc;n bản 12.13 ngay lập tức c&aacute;c anh em cờ thủ đ&atilde; phải đối mặt với 1 b&atilde;i r&aacute;c mới đ&oacute; l&agrave; [champ:Nami] [trait:Ph&aacute;p Sư], trung b&igrave;nh trong 1 trận rank th&igrave; cứ 8 nh&agrave; c&oacute; 5 đến 6 nh&agrave; chơi. Vậy đội h&igrave;nh n&agrave;y c&oacute; g&igrave; đặc biệt, c&ugrave;ng Dtcl.gg t&igrave;m hiểu nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Nami]</p>\n<p>[champ:Sylas]</p>\n<p>[champ:Vladimir]</p>\n<p>[champ:Zoe]</p>\n<p>[champ:Heimerdinger]</p>\n<p>[champ:Lulu]</p>\n<p>[champ:Ryze]</p>\n<p>[champ:Lillia]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>C&oacute; thể thấy [champ:Nami] c&ugrave;ng b&egrave; lũ ph&aacute;p sư 1 bước thống trị meta ch&iacute;nh v&igrave; c&uacute; buff mana tổng của c&ocirc; ta giảm từ 50/90 xuống c&ograve;n 25/75, với sự thay đổi n&agrave;y [champ:Nami] như một b&igrave;nh m&aacute;u di động để cả đội h&igrave;nh li&ecirc;n tục g&acirc;y s&aacute;t thương trong giao tranh. Kh&ocirc;ng những vậy [champ:Zoe] - nh&acirc;n tố 5 v&agrave;ng cũng thuộc tộc hệ [trait:Ph&aacute;p Sư] cũng nhận được khả năng tăng sức mạnh tương tự cụ thể l&agrave; mana tổng giảm từ 60/120 xuống c&ograve;n 50/100 để c&ocirc; n&agrave;ng n&agrave;y c&oacute; thể cướp ph&eacute;p v&agrave; thi triển kĩ năng nhiều hơn trong giao tranh.</p>\n<h3>Trang bị&nbsp;</h3>\n<p>Anh em lưu &yacute; đầu ti&ecirc;n l&agrave; đồ cho [champ:Nami] với [item:Ngọn Thương Shojin] để thực hiện kĩ năng nhiều nhất trong giao tranh, tiếp đ&oacute; l&agrave; [item:Quyền Trượng Thi&ecirc;n Thần ] cho sức mạnh ph&eacute;p thuật theo thời gian giao tranh, cực k&igrave; th&iacute;ch hợp với lối đ&aacute;nh l&igrave; đ&ograve;n l&acirc;u d&agrave;i. Trang bị cuối c&ugrave;ng h&atilde;y ưu ti&ecirc;n [item:Dao Điện Statikk] để giảm kh&aacute;ng ph&eacute;p của mục ti&ecirc;u, th&ecirc;m v&agrave;o đ&oacute; lấy 1 ch&uacute;t tốc đ&aacute;nh cũng như mana khởi đầu.</p>\n<p>Kế đến l&agrave; trang bị cho chống chịu [champ:Sylas], với meta nh&agrave; nh&agrave; người người [trait:Ph&aacute;p Sư] th&igrave; h&atilde;y ưu ti&ecirc;n [item:Vuốt Rồng] kế đến l&agrave; [item:Th&uacute; Tượng Thạch Gi&aacute;p]. M&oacute;n cuối c&oacute; thể l&agrave; [item:Gi&aacute;p M&aacute;u Warmog] hoặc 2 [item:Vuốt Rồng] lu&ocirc;n t&ugrave;y t&igrave;nh h&igrave;nh cũng như mảnh trang bị hiện c&oacute;.</p>\n<p>Ngo&agrave;i ra h&atilde;y kiếm th&ecirc;m [item:&Aacute;o Cho&agrave;ng Lửa] để tạo hiệu ứng giảm hồi m&aacute;u mục ti&ecirc;u th&ecirc;m v&agrave;o đ&oacute; l&agrave; những trnag bị gia tăng sức mạnh ph&eacute;p thuật như [item:Cốc Sức Mạnh] hay [item:Mũ Ph&ugrave; Thủy Rabadon] cho [champ:Zoe] cũng cực k&igrave; tốt nha anh em</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn&nbsp;</h3>\n<p>N&acirc;ng cấp th&ecirc;m mốc hay [item:Ấn Ph&aacute;p Sư] chắc chắn l&agrave; phải chọn đầu ti&ecirc;n ngay khi xuất hiện ở v&ograve;ng chọn l&otilde;i, Ngay sau đ&oacute; l&agrave; Hiệu triệu ph&aacute;p sư để anh em c&oacute; cơ hội d&aacute;t v&agrave;ng kh&ocirc;ng chỉ [champ:Nami] m&agrave; những đơn vị kh&aacute;c trong đội h&igrave;nh 1 c&aacute;ch nhanh ch&oacute;ng v&agrave; tiết kiệm nhất c&oacute; thể.</p>\n<p>Những l&otilde;i đa dụng n&ecirc;n chọn nữa đ&oacute; l&agrave; T&uacute;i của Urf - cho khả năng ra xẻng v&agrave; gh&eacute;p [item:Ấn Ph&aacute;p Sư], ngo&agrave;i ra th&igrave; Nguy&ecirc;n tố lu&acirc;n, Năng lượng xanh, Thăng hoa,... cũng l&agrave; những l&otilde;i cực k&igrave; tốt c&oacute; thể chọn t&ugrave;y từng trường hợp.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh</h3>\n<p>Ở những v&ograve;ng đi chợ h&atilde;y chọn lấy [item:Nước Mắt Nữ Thần], c&agrave;ng nhiều c&agrave;ng tốt v&igrave; đ&acirc;y l&agrave; mảnh trang bị cực k&igrave; cần thiết cho c&aacute;c [trait:Ph&aacute;p Sư]&nbsp; m&ugrave;a n&agrave;y. Tiếp đ&oacute; h&atilde;y bắt đầu cho m&igrave;nh với 3 [trait:Thượng Long] để lấy tỉ lệ ra [champ:Nami] cũng như d&ugrave;ng để roll vị tướng n&agrave;y l&ecirc;n 3 sao sớm nhất c&oacute; thể.</p>\n<p>Cũng bởi nhờ c&oacute; [trait:Thượng Long] n&ecirc;n roll được [champ:Nami] 3 sao kh&aacute; dễ d&agrave;ng kể cả bị tranh b&agrave;i thế n&ecirc;n việc của anh em l&agrave; t&iacute;ch thật nhiều tiền v&agrave; roll chết ở level 6 kiếm đơn vị n&agrave;y 3 sao rồi mới t&iacute;nh đến chuyện l&ecirc;n cấp. Tiếp đ&oacute; trong khoảng thời gian roll cũng cố bắt [champ:Lillia] hay [champ:Sylas] v&agrave; nu&ocirc;i 3 sao nếu như c&oacute; khả năng nh&eacute; !</p>\n<p>Khung cơ bản của đội h&igrave;nh l&agrave; 7 [trait:Ph&aacute;p Sư] tuy nhi&ecirc;n t&ugrave;y từng trường hợp anh em c&oacute; thể bỏ bớt 2 [trait:Ph&aacute;p Sư] v&agrave; thay v&agrave;o [champ:Bard] cũng như l&agrave; [champ:Sona] , &nbsp;[champ:Illaoi] để k&iacute;ch [trait:B&iacute; Ẩn] [trait:Ph&aacute;p Sư] ph&ugrave; hợp với t&igrave;nh h&igrave;nh hiện tại</p>\n<p style=\"text-align: center;\"><strong><em><span style=\"text-decoration: underline;\">Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website Dtcl.gg</span></em></strong></p>\n<p>&nbsp;</p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ l&ecirc;n 3 sao</p>\n<p>Cực k&igrave; mạnh ở meta hiện tại</p>\n<p>Đẩy m&aacute;u đối thủ cực k&igrave; nhanh do nếu để thua trước đội h&igrave;nh n&agrave;y th&igrave; thường l&agrave; nguy&ecirc;n nh&agrave;</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Dễ bị tranh b&agrave;i&nbsp;</p>\n<p>Cần lượng kinh tế lớn để n&acirc;ng cấp tướng l&ecirc;n 3 sao v&agrave; l&ecirc;n cấp kẹp c&aacute;c hệ cần thiết</p>"
+                }
+            ],
+            "item_content": "<p>[champ:Nami]</p>\n<ul>\n<li>[item:Quyền Trượng Thi&ecirc;n Thần ]&nbsp;</li>\n<li>[item:Dao Điện Statikk]</li>\n<li>[item:Ngọn Thương Shojin]</li>\n</ul>\n<p>[champ:Sylas]</p>\n<ul>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:Th&uacute; Tượng Thạch Gi&aacute;p]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Sylas",
+                    "item": [{
+                            "item_id": "66"
+                        },
+                        {
+                            "item_id": "56"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Vladimir",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 2
+                },
+                "data": {
+                    "champion_id": "TFT7_Lillia",
+                    "item": [],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 2
+                },
+                "data": {
+                    "champion_id": "TFT7_Lulu",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Heimerdinger",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Zoe",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Nami",
+                    "item": [{
+                            "item_id": "24"
+                        },
+                        {
+                            "item_id": "14"
+                        },
+                        {
+                            "item_id": "34"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Ryze",
+                    "item": []
+                }
+            }
+        ],
+        "name": "Nami Pháp sư ",
+        "slug": "nami-phap-su",
+        "meta_level": 0,
+        "updatedAt": "2022-07-14T11:25:31.485Z"
+    },
+    {
+        "_id": "62d7dfac7023a2001c1cbb38",
+        "meta_content": {
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "title": "Hướng dẫn chơi đội hình Tristana Pháo thủ Hộ Pháp",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Một đội h&igrave;nh mới nổi nhưng đ&atilde; trở n&ecirc;n cực k&igrave; mạnh mẽ v&agrave; cực k&igrave; hiệu quả ở tất cả mức rank m&aacute;y chủ Việt Nam. Vậy [champ:Tristana] [trait:Ph&aacute;o Thủ] [trait:Hộ Ph&aacute;p] c&oacute; g&igrave;, c&ugrave;ng Dtcl.gg t&igrave;m hiểu nh&eacute; !</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Tristana]</p>\n<p>[champ:Jinx]</p>\n<p>[champ:Braum]</p>\n<p>[champ:Thresh]</p>\n<p>[champ:Lulu]</p>\n<p>[champ:Corki]</p>\n<p>[champ:Sona]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Thực sự giữa meta người người nh&agrave; nh&agrave; [trait:Ph&aacute;p Sư] [trait:Thượng Long] như hiện nay th&igrave; [champ:Tristana] thực sự l&agrave; 1 điểm s&aacute;ng để anh em c&oacute; th&ecirc;m 1 lựa chọn cho những đội h&igrave;nh re-roll ở thời điểm hiện tại !</p>\n<h3>Trang bị :</h3>\n<p>[champ:Tristana] bắt buộc phải c&oacute; [item:Cuồng Đao Guinsoo] v&agrave; [item:Diệt Khổng Lồ] để c&oacute; thể tương t&aacute;c với chi&ecirc;u thức cũng như g&acirc;y tối đa được s&aacute;t thương trong meta hiện tại. M&oacute;n trang bị thứ 3 anh em c&oacute; thể lựa chọn [item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n] để thoải m&aacute;i hơn trong giao tranh hoặc [item:B&agrave;n Tay C&ocirc;ng L&yacute;] [item:Huyết Kiếm] [item:Kiếm S&uacute;ng Hextech] để lấy lượng hồi phục</p>\n<p>Chống chịu ch&iacute;nh trong đội h&igrave;nh n&agrave;y l&agrave; [champ:Braum] với c&aacute;c m&oacute;n đồ như [item:Vuốt Rồng] [item:&Aacute;o Cho&agrave;ng Gai] [item:Th&uacute; Tượng Thạch Gi&aacute;p] [item:D&acirc;y Chuyền Chuộc Tội] hoặc [item:Gi&aacute;p M&aacute;u Warmog].</p>\n<p>Ngo&agrave;i ra việc c&oacute; th&ecirc;m [item:&Aacute;o Cho&agrave;ng Lửa] d&agrave;nh cho [champ:Thresh] để giảm hồi m&aacute;u đội h&igrave;nh đối phương cũng l&agrave; 1 lựa chọn kh&ocirc;ng hề tồi gi&uacute;p khả năng c&agrave;n qu&eacute;t trong giao tranh của [champ:Tristana] được hiệu quả hơn.</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn :</h3>\n<p>Những n&acirc;ng cấp như th&ecirc;m mốc [trait:Ph&aacute;o Thủ] hay [trait:Hộ Ph&aacute;p] sẽ l&agrave; sự lựa chọn h&agrave;ng đầu để anh em lựa chọn gi&uacute;p gia tăng cốt l&otilde;i s&aacute;t thương cũng như chống chịu cho đội h&igrave;nh n&agrave;y. Ngo&agrave;i ra những n&acirc;ng cấp li&ecirc;n quan đến tộc hệ như Đạn lửa, Si&ecirc;u h&ugrave;ng hiện diện,... sẽ l&agrave; lựa chọn tốt thứ 2 m&agrave; lấy kh&ocirc;ng cần phải suy nghĩ.</p>\n<p>Những n&acirc;ng cấp đa dụng như Chiến lợi phẩm, Phước l&agrave;nh vũ trụ, Thăng Hoa,... cũng cực k&igrave; tốt để lựa chọn t&ugrave;y từng trường hợp.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Như nhiều anh em cờ thủ l&acirc;u năm th&igrave; c&aacute;ch đ&aacute;nh hiệu quả nhất cho những đội h&igrave;nh re roll tướng 2 v&agrave;ng đ&oacute; l&agrave; b&aacute;n m&aacute;u giai đoạn đầu trận để c&oacute; được lượng đồ cũng như chuỗi thua tối ưu lượng kinh tế. điều n&agrave;y c&ograve;n hiệu quả để nếu như c&oacute; nh&agrave; n&agrave;o định tranh anh em ho&agrave;n to&agrave;n c&oacute; thể đuổi đi v&igrave; c&oacute; ưu thế như tr&ecirc;n.</p>\n<p>Tuy nhi&ecirc;n nếu như kiểm tra kh&ocirc;ng c&oacute; nh&agrave; n&agrave;o tranh anh em ho&agrave;n to&agrave;n c&oacute; thể đ&aacute;nh an to&agrave;n bằng c&aacute;ch def m&aacute;u l&ecirc;n level như b&igrave;nh thường v&agrave; tiếp tục t&iacute;ch 50 tiền ở level 5 rồi d&ugrave;ng lợi tức l&ecirc;n level 6 re-roll dần dần. Đ&acirc;y l&agrave; 1 đội h&igrave;nh c&oacute; thể comeback với điều kiện anh em phải d&aacute;t v&agrave;ng to&agrave;n bộ đội h&igrave;nh chủ yếu l&agrave; [champ:Braum] v&agrave; [champ:Tristana]. Nếu như muốn top cao hơn th&igrave; n&ecirc;n c&oacute; th&ecirc;m [champ:Jinx] v&agrave; l&ecirc;n được cấp kẹp th&ecirc;m [champ:Sona] cũng như [champ:Corki].&nbsp;</p>\n<p>Việc lựa chọn trang bị cũng kh&aacute; l&agrave; quan trọng, bắt buộc phải c&oacute; [item:Cuồng Đao Guinsoo] cũng như [item:Diệt Khổng Lồ] nhưng trang bị thứ 3 nếu như check c&oacute; nhiều nh&agrave; đ&aacute;nh c&aacute;c s&aacute;t thương lan như [champ:Corki] [champ:Xayah] th&igrave; lựa chọn trang bị hồi phục [item:Huyết Kiếm] [item:B&agrave;n Tay C&ocirc;ng L&yacute;] [item:Kiếm S&uacute;ng Hextech], c&ograve;n nếu sợ c&aacute;c khống chế cứng từ xa tới từ [champ:Hecarim] [champ:Ornn] th&igrave; chọn [item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n] t&ugrave;y v&agrave;o mục đ&iacute;ch sử dụng.</p>\n<p style=\"text-align: center;\"><strong><em><span style=\"text-decoration: underline;\">Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website : Dtcl.gg</span></em></strong></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>C&oacute; thể comeback nếu như d&aacute;t v&agrave;ng được đội h&igrave;nh</p>\n<p>C&oacute; thể ngang cơ với bất k&igrave; đội h&igrave;nh 4 5 v&agrave;ng n&agrave;o nếu như đ&atilde; d&aacute;t v&agrave;ng v&agrave; l&ecirc;n cấp kẹp được th&ecirc;m tướng</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Dễ bị tranh b&agrave;i</p>\n<p>Cần m&aacute;t tay roll l&ecirc;n 3 sao sớm để bắt kịp sức mạnh với c&aacute;c nh&agrave;</p>"
+                }
+            ],
+            "item_content": "<p>[champ:Tristana]</p>\n<ul>\n<li>[item:Cuồng Đao Guinsoo]</li>\n<li>[item:Diệt Khổng Lồ]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Thủy Ng&acirc;n]</li>\n</ul>\n<p>[champ:Braum]</p>\n<ul>\n<li>[item:&Aacute;o Cho&agrave;ng Gai]</li>\n<li>[item:Vuốt Rồng]</li>\n<li>[item:Th&uacute; Tượng Thạch Gi&aacute;p]</li>\n</ul>\n<p style=\"text-align: justify;\">&nbsp;</p>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Braum",
+                    "item": [{
+                            "item_id": "55"
+                        },
+                        {
+                            "item_id": "56"
+                        },
+                        {
+                            "item_id": "66"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Thresh",
+                    "item": [],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 0,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Sona",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Corki",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Jinx",
+                    "item": [],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Lulu",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Tristana",
+                    "item": [{
+                            "item_id": "23"
+                        },
+                        {
+                            "item_id": "12"
+                        },
+                        {
+                            "item_id": "69"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            }
+        ],
+        "name": "Tristana Phảo thủ Hộ pháp ",
+        "slug": "tristana-phao-thu-ho-phap",
+        "meta_level": 0,
+        "updatedAt": "2022-07-20T10:57:48.346Z"
+    },
+    {
+        "_id": "62dbe4db7023a2001c1d6475",
+        "meta_content": {
+            "author": {
+                "name": "Lộc Lê",
+                "link": "facebook.com/locledo"
+            },
+            "title": "Hướng dẫn chơi đội hình Lillia kỵ sĩ đồ long - Lillia chống gậy",
+            "content": [{
+                    "order": 0,
+                    "header": "Giới thiệu",
+                    "content": "<p>Ph&ugrave; hợp với meta 2 người người nh&agrave; nh&agrave; cạn tiền ở level 6, level 7 hiện nay [champ:Lillia] [trait:Kỵ Sĩ] [trait:Đồ Long] l&agrave; 1 sự lựa chọn cực k&igrave; tuyệt vời d&agrave;nh cho anh em n&agrave;o muốn cải thiện điểm số của m&igrave;nh ở thời điểm hiện tại.</p>\n<p>&nbsp;</p>"
+                },
+                {
+                    "order": 1,
+                    "header": "Đội hình",
+                    "content": "<p>[champ:Lillia]</p>\n<p>[champ:Olaf]</p>\n<p>[champ:Diana]</p>\n<p>[champ:Braum]</p>\n<p>[champ:Nunu &amp; Willump]</p>\n<p>[champ:Sejuani]</p>\n<p>[champ:Sylas]</p>\n<p>[champ:Ryze]</p>"
+                },
+                {
+                    "order": 2,
+                    "header": "Lối Chơi",
+                    "content": "<p>Vừa sở hữu sự tr&acirc;u b&ograve; tới từ hệ [trait:Kỵ Sĩ] th&ecirc;m v&agrave;o đ&oacute; l&agrave; khả năng g&acirc;y s&aacute;t thương kh&ocirc;ng hề nhỏ tới từ [trait:Đồ Long] [champ:Lillia] thực sự đang cực k&igrave; mạnh mẽ v&agrave; c&oacute; thể so găng với bất k&igrave; đội h&igrave;nh n&agrave;o ở meta hiện tại nếu như được sự hẫu thuẫn từ sớm</p>\n<h3>Trang bị :</h3>\n<p>[champ:Lillia] h&atilde;y ưu ti&ecirc;n [item:Huyết Kiếm] đầu ti&ecirc;n v&igrave; để th&iacute;ch hợp với đặc t&iacute;nh l&agrave; tướng tay ngắn v&agrave; lu&ocirc;n đứng đầu trong đội h&igrave;nh hứng chịu c&aacute;c s&aacute;t thương. Trang bị n&agrave;y sẽ gi&uacute;p c&ocirc; ta c&oacute; 1 lượng hồi phục cũng như lượng gi&aacute;p ảo khi số m&aacute;u xuống mức b&aacute;o động. Ngo&agrave;i ra c&oacute; thể thay băng [item:B&agrave;n Tay C&ocirc;ng L&yacute;] hoặc [item:Kiếm S&uacute;ng Hextech] t&ugrave;y từng trường hợp. 2 Trang bị c&ograve;n lại sẽ l&agrave; trang bị g&acirc;y s&aacute;t thương, cụ thể l&agrave; [item:Diệt Khổng Lồ] để ti&ecirc;u diệt nhanh h&agrave;ng chống chịu của tướng địch, tiếp đ&oacute; c&oacute; thể t&ugrave;y lựa chọn [item:Quyền Trượng Thi&ecirc;n Thần ] hoặc [item:Mũ Ph&ugrave; Thủy Rabadon] [item:Găng Bảo Thạch]</p>\n<p>Đối tượng ưu ti&ecirc;n cho đồ thứ 2 sẽ l&agrave; [champ:Diana] với chủ đạo l&agrave; [item:Tim Băng] để g&acirc;y sự kh&oacute; chịu cho h&agrave;ng sau đội h&igrave;nh địch. C&oacute; thể k&egrave;m th&ecirc;m [item:&Aacute;o Cho&agrave;ng Lửa] [item:&Aacute;o Cho&agrave;ng Tĩnh Lặng],... t&ugrave;y từng t&igrave;nh huống. Những mảnh đồ thừa t&ugrave;y anh em gh&eacute;p theo cảm nhận cũng trang bị n&agrave;o anh em thấy hiệu quả nh&eacute;!</p>\n<h3>N&acirc;ng cấp rồng thần n&ecirc;n chọn :</h3>\n<p>Những l&otilde;i li&ecirc;n quan như th&ecirc;m mốc hay th&ecirc;m [item:Ấn Đồ Long] [item:Ấn Kỵ Sĩ] sẽ l&agrave; ưu ti&ecirc;n h&agrave;ng đầu để c&oacute; thể thay thế cũng như đẩy c&aacute;c mốc n&agrave;y l&ecirc;n cao nhất c&oacute; thể. Ngo&agrave;i ra c&aacute;c l&otilde;i li&ecirc;n quan đến tộc hệ như : V&oacute; ngựa hủy diệt, Du mục, ... l&agrave; những l&otilde;i ưu ti&ecirc;n tiếp theo để gi&uacute;p đỡ sức mạnh đội h&igrave;nh n&agrave;y trở n&ecirc;n mạnh mẽ hơn.&nbsp;</p>\n<p>Những l&otilde;i đa dụng như Phước l&agrave;nh vũ trụ, Chiến lợi phẩm, L&agrave;m n&oacute;ng, ... cũng cực k&igrave; tốt để chơi đội h&igrave;nh n&agrave;y. C&aacute;c l&otilde;i li&ecirc;n quan đến xoay roll như Khu giao dịch, Thua c&oacute; t&iacute;nh to&aacute;n, Nhanh tay lẹ mắt,... cũng cực k&igrave; tốt nếu như c&oacute; sớm để anh em c&oacute; thể n&acirc;ng cấp [champ:Lillia] l&ecirc;n 3 sao sớm nhất c&oacute; thể.</p>\n<p>Ngo&agrave;i ra 1 lựa chọn kh&aacute;c đ&oacute; l&agrave; th&ecirc;m [item:Ấn S&aacute;t Thủ] hay T&uacute;i của URF,... cũng cực k&igrave; tốt để biến [champ:Lillia] trở th&agrave;nh 1 [trait:S&aacute;t Thủ] v&agrave; tối ưu lượng s&aacute;t thương.</p>\n<h3>C&aacute;ch x&acirc;y dựng đội h&igrave;nh :</h3>\n<p>Đầu ti&ecirc;n h&atilde;y x&aacute;c định cho m&igrave;nh rằng kh&ocirc;ng c&oacute; nh&agrave; n&agrave;o trong đội h&igrave;nh đ&aacute;nh chung b&agrave;i hay hướng tới c&aacute;c đội h&igrave;nh như [champ:Olaf], [champ:Diana] carry bởi khả năng anh em bị bắt tướng l&agrave; rất cao. Nếu như đ&atilde; chắc chắn kh&ocirc;ng c&oacute; nh&agrave; n&agrave;o tranh gi&agrave;nh th&igrave; h&atilde;y thực hiện đ&aacute;nh như những vị tướng 2 tiền kh&aacute;c. Cụ thể như sau :</p>\n<p>B&aacute;n m&aacute;u ở 5 round đ&aacute;nh người đầu ti&ecirc;n để lấy về chuỗi thua cũng như lấy được những lượng đồ cần thiết, ngay sau khi đ&aacute;nh b&atilde;i người đ&aacute; xong, với 1 lượng tiền kha kh&aacute; đ&atilde; t&iacute;ch được từ trước đ&oacute; th&igrave; thực hiện l&ecirc;n cấp 6 ngay v&agrave; roll lấy cho m&igrave;nh khung đội h&igrave;nh cần thiết cũng như vị tr&iacute; [champ:Lillia] 2 sao sớm ( c&oacute; thể l&ecirc;n ngay 3.1 hoặc để sang 3.2 cho thoải m&aacute;i ). Ngay khi c&oacute; được [champ:Lillia] 2 sao rồi th&igrave; dừng v&agrave; t&iacute;ch tiền lại đ&aacute;nh bằng khung [trait:Kỵ Sĩ] [trait:Đồ Long], t&iacute;ch lại 50 tiền rồi sau đ&oacute; re- roll dần dần đến khi n&acirc;ng cấp được vị tướng n&agrave;y l&ecirc;n 3 sao. Ch&uacute; &yacute; c&oacute; thể l&ecirc;n level 7 nếu như cảm gi&aacute;c def được m&aacute;u để th&ecirc;m hệ cũng như tối ưu lượng lợi tức hơn nhờ v&agrave;o việc tự ra tướng trong cửa h&agrave;ng. Khi đ&atilde; ho&agrave;n th&agrave;nh dc [champ:Lillia] 3 sao rồi th&igrave; d&agrave;nh to&agrave;n bộ tiền để l&ecirc;n cấp v&agrave; ho&agrave;n th&agrave;nh khung như tr&ecirc;n.&nbsp;</p>\n<p>Khung đội h&igrave;nh c&oacute; thể t&ugrave;y biến, v&iacute; dụ đ&aacute;nh ở level 7 anh em c&oacute; thể bỏ [trait:Ph&aacute;p Sư] v&agrave; th&ecirc;m [champ:Hecarim] cũng được.&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><em><strong>Mọi th&ocirc;ng tin tham khảo vui l&ograve;ng dẫn nguồn về website : Dtcl.gg</strong></em></span></p>"
+                },
+                {
+                    "order": 3,
+                    "header": "Ưu Điểm",
+                    "content": "<p>Dễ chơi</p>\n<p>Ph&ugrave; hợp với meta hiện tại</p>\n<p>Mạnh khi đủ đội h&igrave;nh v&agrave; được chơi 1 m&igrave;nh kh&ocirc;ng bị tranh b&agrave;i</p>"
+                },
+                {
+                    "order": 4,
+                    "header": "Nhược điểm",
+                    "content": "<p>Dễ bị tranh b&agrave;i</p>\n<p>Nh&acirc;n phẩm kh&ocirc;ng tốt n&acirc;ng cấp [champ:Lillia] 3 sao muộn cũng rất kh&oacute; để bắt kịp sức mạnh với c&aacute;c nh&agrave; kh&aacute;c</p>"
+                }
+            ],
+            "item_content": "<p>[champ:Lillia]</p>\n<ul>\n<li>[item:Huyết Kiếm]</li>\n<li>[item:Diệt Khổng Lồ]</li>\n<li>[item:Quyền Trượng Thi&ecirc;n Thần ]</li>\n</ul>\n<p>[champ:Diana]</p>\n<ul>\n<li>[item:Tim Băng]</li>\n<li>[item:&Aacute;o Cho&agrave;ng Lửa]</li>\n</ul>",
+            "path": "now"
+        },
+        "isMeta": true,
+        "chosen": "",
+        "map": [{
+                "pos": {
+                    "x": 1,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Sejuani",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 2,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Olaf",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Lillia",
+                    "item": [{
+                            "item_id": "16"
+                        },
+                        {
+                            "item_id": "12"
+                        },
+                        {
+                            "item_id": "34"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 4,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Sylas",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 5,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Nunu",
+                    "item": []
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 0
+                },
+                "data": {
+                    "champion_id": "TFT7_Braum",
+                    "item": [],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 3,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Diana",
+                    "item": [{
+                            "item_id": "45"
+                        },
+                        {
+                            "item_id": "57"
+                        }
+                    ],
+                    "champion_star": 3
+                }
+            },
+            {
+                "pos": {
+                    "x": 6,
+                    "y": 3
+                },
+                "data": {
+                    "champion_id": "TFT7_Ryze",
+                    "item": []
+                }
+            }
+        ],
+        "name": "Lillia kỵ sĩ đồ long - Lillia chống gậy",
+        "slug": "lillia-ky-si-do-long-lillia-chong-gay",
+        "meta_level": 1,
+        "updatedAt": "2022-07-23T12:08:59.499Z"
+    }
+]

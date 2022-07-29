@@ -1,0 +1,1533 @@
+[{
+        "name": "Vladimir",
+        "championId": "TFT7_Vladimir",
+        "cost": 1,
+        "traits": [
+            "Astral",
+            "Mage"
+        ],
+        "ability": {
+            "skillName": "Transfusion",
+            "skillDescription": "Vladimir deals magic damage to the target and heals himself.",
+            "abilityType": ["damage", "heal"],
+            "abilityStat": ["250/300/350", "270/300/330"]
+        },
+
+        "championStat": {
+            "heal": "700 / 1260 / 2268",
+            "damage": "40 / 72 / 130",
+            "dps": "24 / 43 / 78",
+            "amor": "45",
+            "speed": "0.6",
+            "mana": "20/70",
+            "mr": "45",
+            "range": "2/5"
+        }
+    },
+    {
+        "name": "Nidalee",
+        "championId": "TFT7_Nidalee",
+        "cost": 1,
+        "traits": [
+            "Astral",
+            "Shapeshifter"
+        ],
+        "ability": {
+            "skillName": "Primal Surge",
+            "skillDescription": "Nidalee transforms into Cougar Form for the rest of combat, reducing her Attack Range to 1 and gaining bonus movement speed and Attack Speed. While in cougar form, every 3rd attack swipes her target for 225% physical damage.",
+            "abilityType": ["Attack Speed"],
+            "abilityStat": ["40%"]
+        },
+
+        "championStat": {
+            "heal": "550 / 990 / 1782",
+            "damage": "50 / 90 / 162",
+            "dps": "35 / 63 / 113",
+            "amor": "30",
+            "speed": "0.7",
+            "mana": "0 / 50",
+            "mr": "30",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Senna",
+        "championId": "TFT7_Senna",
+        "cost": 1,
+        "traits": [
+            "Ragewing",
+            "Cannoneer"
+        ],
+        "ability": {
+            "skillName": "Last Embrace",
+            "skillDescription": "Senna launches black mist toward the farthest enemy, striking the first enemy hit and dealing physical damage on a small area. The first enemy hit is dealt an additional bonus magic damage.",
+            "abilityType": ["Damage", "Magic Damage"],
+            "abilityStat": ["100/175/250%", "300/400/500"]
+        },
+
+        "championStat": {
+            "heal": "500 / 900 / 1620",
+            "damage": "45 / 81 / 146",
+            "dps": "32 / 57 / 102",
+            "amor": "15",
+            "speed": "0.7",
+            "mana": "30 / 90",
+            "mr": "15",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Sett",
+        "championId": "TFT7_Sett",
+        "cost": 1,
+        "traits": [
+            "Ragewing",
+            "Dragonmancer"
+        ],
+        "ability": {
+            "skillName": "Knuckle Down",
+            "skillDescription": "Sett gains Armor and Magic Resist, and every other punch deals 150% physical damage.",
+            "abilityType": ["Duration", "Armor & MR"],
+            "abilityStat": ["30/50/80", "70/80/90"]
+        },
+
+        "championStat": {
+            "heal": "650 / 1170 / 2106",
+            "damage": "50 / 90 / 162",
+            "dps": "35 / 63 / 1138",
+            "amor": "40",
+            "speed": "0.7",
+            "mana": "30 / 60",
+            "mr": "40",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Gnar",
+        "championId": "TFT7_Gnar",
+        "cost": 2,
+        "traits": [
+            "Jade",
+            "Shapeshifter"
+        ],
+        "ability": {
+            "skillName": "Mega Gnar",
+            "skillDescription": "Gnar transforms into Mega Form, jumping to his target and knocking up nearby enemies for 1 second. Gnar also gains Attack Damage and Armor.",
+            "abilityType": ["Attack Damage", "Armor"],
+            "abilityStat": ["40/70/130", "40/50/75"]
+        },
+
+        "championStat": {
+            "heal": "700 / 1260 / 2268",
+            "damage": "40 / 72 / 130",
+            "dps": "26 / 47 / 84",
+            "amor": "40",
+            "speed": "0.65",
+            "mana": "0 / 70",
+            "mr": "40",
+            "range": "2/5"
+        }
+    },
+    {
+        "name": "Aatrox",
+        "championId": "TFT7_Aatrox",
+        "cost": 1,
+        "traits": [
+            "Shimmerscale",
+            "Warrior"
+        ],
+        "ability": {
+            "skillName": "Deathbringer Strike",
+            "skillDescription": "Aatrox strikes his target for physical damage and heals himself.",
+            "abilityType": ["Attack Damage", "Heal"],
+            "abilityStat": ["300/305/310%", "300/350/400"]
+        },
+
+        "championStat": {
+            "heal": "650 / 1170 / 2106",
+            "damage": "55 / 99 / 178",
+            "dps": "36 / 64 / 116",
+            "amor": "45",
+            "speed": "0.65",
+            "mana": "50 / 100",
+            "mr": "45",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Diana",
+        "championId": "TFT7_Diana",
+        "cost": 3,
+        "traits": [
+            "Scalescorn",
+            "Assassin"
+        ],
+        "ability": {
+            "skillName": "Pale Cascade",
+            "skillDescription": "Diana shields herself and summons orbs around her. These orbs burst dealing magic damage when they hit an enemy. When the final orb bursts, her shield refreshes.",
+            "abilityType": ["Shield", "Orbs", "Damage"],
+            "abilityStat": ["300/350/400", "5/6/7", "80/90/100"]
+        },
+
+        "championStat": {
+            "heal": "700 / 1260 / 2268",
+            "damage": "45 / 81 / 146",
+            "dps": "34 / 61 / 109",
+            "amor": "35",
+            "speed": "0.75",
+            "mana": "50 / 100",
+            "mr": "5",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Sejuani",
+        "championId": "TFT7_Sejuani",
+        "cost": 1,
+        "traits": [
+            "Guild",
+            "Cavalier"
+        ],
+        "ability": {
+            "skillName": "Warrior's Wrath",
+            "skillDescription": "Sejuani swings her mace wide, hitting all enemies in a cone for magic damage (6% maximum Health). She quickly strikes again, repeating the damage on her target and the enemy directly behind it and stunning them.",
+            "abilityType": ["Stun"],
+            "abilityStat": ["1.5/2/3"]
+        },
+
+        "championStat": {
+            "heal": "650 / 1170 / 2106",
+            "damage": "50 / 90 / 162",
+            "dps": "28 / 50 / 89",
+            "amor": "40",
+            "speed": "0.55",
+            "mana": "50 / 90",
+            "mr": "40",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Ezreal",
+        "championId": "TFT7_Ezreal",
+        "cost": 1,
+        "traits": [
+            "Tempest",
+            "Swiftshot"
+        ],
+        "ability": {
+            "skillName": "Mystic Shot",
+            "skillDescription": "Ezreal fires an energy bolt towards his target. The first enemy hit takes 70 magic damage and grants Ezreal 10% bonus Attack Speed, stacking up to 5 times.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["155/215/285"]
+        },
+
+        "championStat": {
+            "heal": "500 / 900 / 1620",
+            "damage": "40 / 72 / 130",
+            "dps": "24 / 43 / 78",
+            "amor": "15",
+            "speed": "0.6",
+            "mana": "0 / 40",
+            "mr": "15",
+            "range": "3/5"
+        }
+    },
+    {
+        "name": "Nami",
+        "championId": "TFT7_Nami",
+        "cost": 2,
+        "traits": [
+            "Astral",
+            "Mage",
+            "Mystic"
+        ],
+        "ability": {
+            "skillName": "Ebb and Flow",
+            "skillDescription": "Nami launches a wave at her target that bounces to additional targets, prioritizing low Health targets. Enemies hit take magic damage and allies hit heal.",
+            "abilityType": ["Bounces", "Damage", "Heal"],
+            "abilityStat": ["2/3/4", "125/150/175", "125/150/175"]
+        },
+
+        "championStat": {
+            "heal": "600 / 1080 / 1944",
+            "damage": "40 / 72 / 84 ",
+            "dps": "26 / 47 / 84",
+            "amor": "20",
+            "speed": "0.65",
+            "mana": "50 / 90",
+            "mr": "20",
+            "range": "3/5"
+        }
+    },
+    {
+        "name": "Skarner",
+        "championId": "TFT7_Skarner",
+        "cost": 1,
+        "traits": [
+            "Astral",
+            "Bruiser"
+        ],
+        "ability": {
+            "skillName": "Crystalline Exoskeleton",
+            "skillDescription": "Skarner shields himself for 8 seconds and gains Attack Speed while it holds.",
+            "abilityType": ["Shield", "Attack Speed"],
+            "abilityStat": ["300/360/420", "30/50/80%"]
+        },
+
+        "championStat": {
+            "heal": "650 / 1170 / 2106",
+            "damage": "50 / 90 / 162",
+            "dps": "30 / 54 / 97",
+            "amor": "45",
+            "speed": "0.6",
+            "mana": "40 / 90",
+            "mr": "45",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Swain",
+        "championId": "TFT7_Swain",
+        "cost": 3,
+        "traits": [
+            "Ragewing",
+            "Dragonmancer",
+            "Shapeshifter"
+        ],
+        "ability": {
+            "skillName": "Draconic Ascension",
+            "skillDescription": "Swain transforms into Dragon Form, replacing his attacks with fireballs that deal magic damage and replacing his Ability with Greater Fireball. Greater Fireball: Swain's next fireball deals 50% more damage and explodes in an area around his target.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["65/105/165"]
+        },
+
+        "championStat": {
+            "heal": "600 / 1080 / 1944",
+            "damage": "45 / 81 / 146",
+            "dps": "32 / 57 / 102",
+            "amor": "30",
+            "speed": "0.7",
+            "mana": "0 / 45",
+            "mr": "30",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Thresh",
+        "championId": "TFT7_Thresh",
+        "cost": 2,
+        "traits": [
+            "Whispers",
+            "Guardian"
+        ],
+        "ability": {
+            "skillName": "Death Sentence",
+            "skillDescription": "Thresh hooks the farthest enemy, dealing magic damage and pulling them toward himself.",
+            "abilityType": ["Damage", "Pull"],
+            "abilityStat": ["175/350/800", "1.5/2/2.5"]
+        },
+
+        "championStat": {
+            "heal": "750 / 1350 / 2430",
+            "damage": "60 / 108 / 194",
+            "dps": "36 / 65 / 117",
+            "amor": "45",
+            "speed": "0.6",
+            "mana": "150 / 150",
+            "mr": "45",
+            "range": "2/5"
+        }
+    },
+    {
+        "name": "Ashe",
+        "championId": "TFT7_Ashe",
+        "cost": 2,
+        "traits": [
+            "Jade",
+            "Dragonmancer",
+            "Swiftshot"
+        ],
+        "ability": {
+            "skillName": "Volley",
+            "skillDescription": "Ashe fires a volley of arrows, dealing magic damage to each enemy hit and slowing their Attack Speed by 25% for seconds.",
+            "abilityType": ["Arrows", "Damage"],
+            "abilityStat": ["5/7/9", "90/120/250"]
+        },
+
+        "championStat": {
+            "heal": "600 / 1080 / 1944",
+            "damage": "45 / 81 / 146",
+            "dps": "34 / 61 / 109",
+            "amor": "20",
+            "speed": "0.75",
+            "mana": "50/100",
+            "mr": "20",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Yone",
+        "championId": "TFT7_Yone",
+        "cost": 2,
+        "traits": [
+            "Mirage",
+            "Warrior"
+        ],
+        "ability": {
+            "skillName": "Way of the Hunter",
+            "skillDescription": "Passive: Yone�s basic attacks alternate between dealing bonus magic damage and dealing bonus physical damage.",
+            "abilityType": ["Magic Damage", "Physical Damage:"],
+            "abilityStat": ["30/60/90", "30%/35%/40%"]
+        },
+
+        "championStat": {
+            "heal": "800 / 1440 / 2592",
+            "damage": "45 / 81 / 146",
+            "dps": "38 / 69 / 124",
+            "amor": "40",
+            "speed": "0.85",
+            "mana": "0",
+            "mr": "40",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Lillia",
+        "championId": "TFT7_Lillia",
+        "cost": 2,
+        "traits": [
+            "Scalescorn",
+            "Cavalier",
+            "Mage"
+        ],
+        "ability": {
+            "skillName": "Watch Out!",
+            "skillDescription": "Lillia strikes a small area around her target's current location, dealing magic damage spread amongst all enemies hit and bonus magic damage to the enemy at the center of the blast.",
+            "abilityType": ["Damage", "Bonus Damage"],
+            "abilityStat": ["215/275/350", "215/275/350"]
+        },
+
+        "championStat": {
+            "heal": "750 / 1350 / 2430",
+            "damage": "40 / 71 / 130",
+            "dps": "28 / 50 / 91",
+            "amor": "40",
+            "speed": "0.7",
+            "mana": "0/50",
+            "mr": "40",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Varus",
+        "championId": "TFT7_Varus",
+        "cost": 3,
+        "traits": [
+            "Astral",
+            "Swiftshot"
+        ],
+        "ability": {
+            "skillName": "Chain of Consellations",
+            "skillDescription": "Varus sends out a cosmic tendril towards his target that strikes the first enemy hit, dealing physical damage and stunning them. Tendrils then spread to 3 nearby enemies, dealing magic damage and stunning them for the remainder of the duration.",
+            "abilityType": ["Damage", "Stun", "Magic Damage"],
+            "abilityStat": ["210/220/230%", "1.5/1.75/2", "120/180/280"]
+        },
+
+        "championStat": {
+            "heal": "650 / 1170 / 2106",
+            "damage": "50 / 90 / 162",
+            "dps": "35 / 63 / 113",
+            "amor": "25",
+            "speed": "0.7",
+            "mana": "60/120",
+            "mr": "25",
+            "range": "3/5"
+        }
+    },
+    {
+        "name": "Lee Sin",
+        "championId": "TFT7_LeeSin",
+        "cost": 3,
+        "traits": [
+            "Tempest",
+            "Dragonmancer"
+        ],
+        "ability": {
+            "skillName": "Dragon's Rage",
+            "skillDescription": "Lee Sin kicks his target, stunning them and knocking them back. The target and all enemies they hit take magic damage.",
+            "abilityType": ["Stun", "Damage"],
+            "abilityStat": ["2/2.5/4", "280/360/480"]
+        },
+
+        "championStat": {
+            "heal": "800 / 1440 / 2592",
+            "damage": "50 / 90 / 162",
+            "dps": "35 / 63 / 113 ",
+            "amor": "45",
+            "speed": "0.7",
+            "mana": "40/100",
+            "mr": "45",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Shen",
+        "championId": "TFT7_Shen",
+        "cost": 2,
+        "traits": [
+            "Ragewing",
+            "Bruiser",
+            "Warrior"
+        ],
+        "ability": {
+            "skillName": "Flame's Refuge",
+            "skillDescription": "Shen creates a zone around himself, in which all nearby allies dodge Basic Attacks. While it's active, Shen gains Magic Resist.",
+            "abilityType": ["Duration", "MR"],
+            "abilityStat": ["2.5/3/4", "50/75/100"]
+        },
+
+        "championStat": {
+            "heal": "800 / 1440 / 2592",
+            "damage": "50 / 90 / 162",
+            "dps": "35 / 63 / 113",
+            "amor": "45",
+            "speed": "0.7",
+            "mana": "75/105",
+            "mr": "45",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Elise",
+        "championId": "TFT7_Elise",
+        "cost": 3,
+        "traits": [
+            "Whispers",
+            "Shapeshifter"
+        ],
+        "ability": {
+            "skillName": "Spider Form",
+            "skillDescription": "Elise transforms into Spider Form for the rest of combat, losing 1 Attack Range and replacing her ability with Venomous Bite, which she immediate casts. Venomous Bite: Elise's next attack deals bonus magic damage. If this kills her target she ascends, becoming untargetable before dropping near the lowest Health enemy and immediately casting Venomous Bite again.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["225/275/325"]
+        },
+
+        "championStat": {
+            "heal": "700 / 1260 / 2268",
+            "damage": "50 / 90 / 162",
+            "dps": "38 / 68 / 122",
+            "amor": "30",
+            "speed": "0.75",
+            "mana": "0 / 40",
+            "mr": "30",
+            "range": "2/5"
+        }
+    },
+    {
+        "name": "Volibear",
+        "championId": "TFT7_Volibear",
+        "cost": 3,
+        "traits": [
+            "Shimmerscale",
+            "Dragonmancer",
+            "Legend"
+        ],
+        "ability": {
+            "skillName": "Relentless Storm",
+            "skillDescription": "Volibear rages, gaining bonus Health. For the rest of combat, every 3rd attack deals bonus magic damage to the target, and magic damage to up to 4 additional enemies..",
+            "abilityType": ["Health", "Damage"],
+            "abilityStat": ["375/650/1200", "110/155/215"]
+        },
+
+        "championStat": {
+            "heal": "750 / 1350 / 2430",
+            "damage": "50 / 90 / 162",
+            "dps": "38 / 68 / 122",
+            "amor": "45",
+            "speed": "0.75",
+            "mana": "0/60",
+            "mr": "45",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Olaf",
+        "championId": "TFT7_Olaf",
+        "cost": 3,
+        "traits": [
+            "Scalescorn",
+            "Bruiser",
+            "Warrior"
+        ],
+        "ability": {
+            "skillName": "Reckless Swing",
+            "skillDescription": "Passive: Olaf seeks glorious death, permanently gaining Attack Damage whenever he dies. Active: Olaf strikes his target, dealing 35% physical damage and gaining Attack Speed for 6 seconds. If he's below a certain Health, the Attack Speed is doubled.",
+            "abilityType": ["Attack Speed"],
+            "abilityStat": ["40/50/60%"]
+        },
+
+        "championStat": {
+            "heal": "800 / 1440 / 2592",
+            "damage": "50 / 90 / 162",
+            "dps": "35 / 63 / 113 ",
+            "amor": "50",
+            "speed": "0.7",
+            "mana": "50/100",
+            "mr": "50",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Ryze",
+        "championId": "TFT7_Ryze",
+        "cost": 3,
+        "traits": [
+            "Guild",
+            "Mage"
+        ],
+        "ability": {
+            "skillName": "Overload",
+            "skillDescription": "Ryze hurls an arcane orb at his target, dealing magic damage. Each cast increases his maximum Mana and the number of orbs thrown.",
+            "abilityType": ["Spell Damage"],
+            "abilityStat": ["180/260/420%"]
+        },
+
+        "championStat": {
+            "heal": "600 / 1080 / 1944",
+            "damage": "40 / 72 / 130",
+            "dps": "26 / 47 / 84",
+            "amor": "25",
+            "speed": "0.65",
+            "mana": "0/20",
+            "mr": "25",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Lulu",
+        "championId": "TFT7_Lulu",
+        "cost": 3,
+        "traits": [
+            "Trainer",
+            "Mystic",
+            "Evoker"
+        ],
+        "ability": {
+            "skillName": "Whimsy",
+            "skillDescription": "Lulu enchants the nearest targets. Enchanted allies gain Attack Speed for 1.5 seconds. Enchanted enemies are stunned and transformed into harmless dragonlings, taking increased damage while stunned. If there are fewer than 3 units nearby, Lulu will enchant herself.",
+            "abilityType": ["Targets", "Attack Speed"],
+            "abilityStat": ["3/4/5", "70/80/120%"]
+        },
+
+        "championStat": {
+            "heal": "650 / 1170 / 2106",
+            "damage": "40 / 72 / 130",
+            "dps": "28 / 50 / 91",
+            "amor": "25",
+            "speed": "0.7",
+            "mana": "75/150",
+            "mr": "25",
+            "range": "3/5"
+        }
+    },
+    {
+        "name": "Ornn",
+        "championId": "TFT7_Ornn",
+        "cost": 4,
+        "traits": [
+            "Tempest",
+            "Bruiser",
+            "Legend"
+        ],
+        "ability": {
+            "skillName": "Stampede",
+            "skillDescription": "Ornn summons an elemental that charges towards Ornn through the farthest enemy, dealing magic damage to enemies hit and slowing their Attack Speed by 50% for 2 seconds. When the elemental reaches Ornn he redirects it towards another distant enemy, dealing magic damage to enemies hit and stunning them.",
+            "abilityType": ["Damage", "2nd Damage", "Stun Duration"],
+            "abilityStat": ["350/550/900", "350/550/900", "1.25/1.75/8"]
+        },
+
+        "championStat": {
+            "heal": "1000 / 1800 / 3240",
+            "damage": "60 / 108 / 194",
+            "dps": "36 / 65 / 117",
+            "amor": "60",
+            "speed": "0.6",
+            "mana": "80/180 ",
+            "mr": "60",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Shyvana",
+        "championId": "TFT7_Shyvana",
+        "cost": 5,
+        "traits": [
+            "Ragewing",
+            "Shapeshifter",
+            "Dragon"
+        ],
+        "ability": {
+            "skillName": "Dragon's Descent",
+            "skillDescription": "Shyvana transforms into Dragon Form for the rest of combat, replacing her ability with Flame Breath. She then becomes untargetable before dive-bombing the largest group of enemies, dealing magic damage and stunning them for 1.5 seconds. Flame Breath: Shyvana breathes fire in a cone, dealing a percent of the enemy's maximum Health as magic damage.",
+            "abilityType": ["Damage", "Flame Damage:"],
+            "abilityStat": ["100/175/500", "50/66/500%"]
+        },
+
+        "championStat": {
+            "heal": "1200 / 2160 / 3888",
+            "damage": "120 / 216 / 389",
+            "dps": "96 / 173 / 311",
+            "amor": "55",
+            "speed": "0.8",
+            "mana": "30/60",
+            "mr": "55",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Hecarim",
+        "championId": "TFT7_Hecarim",
+        "cost": 4,
+        "traits": [
+            "Ragewing",
+            "Cavalier"
+        ],
+        "ability": {
+            "skillName": "Onslaught of Shadows",
+            "skillDescription": "Hecarim summons spectral riders that charge through his target, dealing magic damage and stunning enemies hit.",
+            "abilityType": ["Damage", "Stun"],
+            "abilityStat": ["100/200/1600", "2.5/2.5/8"]
+        },
+
+        "championStat": {
+            "heal": "900 / 1620 / 2916",
+            "damage": "50 / 90 / 162",
+            "dps": "38 / 68 / 122",
+            "amor": "60",
+            "speed": "0.75",
+            "mana": "60/105",
+            "mr": "60",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Soraka",
+        "championId": "TFT7_Soraka",
+        "cost": 5,
+        "traits": [
+            "Jade",
+            "Starcaller"
+        ],
+        "ability": {
+            "skillName": "Starfall",
+            "skillDescription": "Passive: While any ally is below % Health, Soraka gains 15 mana per attack. Active: Soraka calls down a shower of stars. Allies are healed for each time a star hits them.",
+            "abilityType": ["Healing"],
+            "abilityStat": ["120/180/1000"]
+        },
+
+        "championStat": {
+            "heal": "800 / 1440 / 2592",
+            "damage": "40 / 72 / 130",
+            "dps": "35 / 63 / 113",
+            "amor": "30",
+            "speed": "0.7",
+            "mana": "100/200",
+            "mr": "30",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Karma",
+        "championId": "TFT7_Karma",
+        "cost": 1,
+        "traits": [
+            "Jade",
+            "Dragonmancer"
+        ],
+        "ability": {
+            "skillName": "Inner Flame",
+            "skillDescription": "Karma fires a burst of energy towards her target, dealing magic damage in a small area around the first enemy hit.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["200/275/350"]
+        },
+
+        "championStat": {
+            "heal": "500 / 900 / 1620",
+            "damage": "40 / 72 / 130",
+            "dps": "28 / 50 / 91",
+            "amor": "20",
+            "speed": "0.7",
+            "mana": "0/50",
+            "mr": "20",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Heimerdinger",
+        "championId": "TFT7_Heimerdinger",
+        "cost": 1,
+        "traits": [
+            "Trainer",
+            "Mage"
+        ],
+        "ability": {
+            "skillName": "Egg Toss",
+            "skillDescription": "Heimerdinger lobs an egg at the highest health enemy, dealing magic damage and stunning them.",
+            "abilityType": ["Damage", "Stun"],
+            "abilityStat": ["225/325/450", "1.5"]
+        },
+
+        "championStat": {
+            "heal": "500 / 900 / 1620",
+            "damage": "40 / 72 / 130",
+            "dps": "26 / 47 / 84",
+            "amor": "15",
+            "speed": "0.65",
+            "mana": "50/100",
+            "mr": "15",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Tristana",
+        "championId": "TFT7_Tristana",
+        "cost": 2,
+        "traits": [
+            "Trainer",
+            "Cannoneer"
+        ],
+        "ability": {
+            "skillName": "Explosive Charge",
+            "skillDescription": "Tristana fires up to 3 explosive charges, prioritizing the closest targets without a charge. Charges detonate after 1 second, dealing physical damage to nearby enemies and bonus magic damage to the target.",
+            "abilityType": ["Damage", "Bonus Damage"],
+            "abilityStat": ["165/170/175%", "130/160/200"]
+        },
+
+        "championStat": {
+            "heal": "600 / 1080 / 1944",
+            "damage": "50 / 90 / 162",
+            "dps": "35 / 63 / 113",
+            "amor": "20",
+            "speed": "0.7",
+            "mana": "0/60",
+            "mr": "20",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Anivia",
+        "championId": "TFT7_Anivia",
+        "cost": 3,
+        "traits": [
+            "Jade",
+            "Evoker",
+            "Legend"
+        ],
+        "ability": {
+            "skillName": "Prismatic Storm",
+            "skillDescription": "Anivia summons a prismatic storm around her target, dealing magic damage over 3 seconds. Enemies in the storm have their Magic Resist reduced by 40%.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["325/450/700"]
+        },
+
+        "championStat": {
+            "heal": "650 / 1170 / 2106  ",
+            "damage": "40 / 72 / 130",
+            "dps": "28 / 50 / 91",
+            "amor": "25",
+            "speed": "0.7",
+            "mana": "45/90",
+            "mr": "25",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Talon",
+        "championId": "TFT7_Talon",
+        "cost": 4,
+        "traits": [
+            "Guild",
+            "Assassin"
+        ],
+        "ability": {
+            "skillName": "Shadow Assault",
+            "skillDescription": "Talon stealths and flings out a ring of blades, dealing physical damage to enemies hit. He then leaps to an enemy and recalls the blades, dealing that damage again and dealing physical damage to his target.",
+            "abilityType": ["Blade Damage", "Base Damage", "Damage"],
+            "abilityStat": ["75/75/200%  ", "125/175/500", "325%"]
+        },
+
+        "championStat": {
+            "heal": "800 / 1440 / 2592",
+            "damage": "60 / 108 / 194",
+            "dps": "48 / 86 / 156",
+            "amor": "40",
+            "speed": "0.8",
+            "mana": "75 / 125",
+            "mr": "40",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Illaoi",
+        "championId": "TFT7_Illaoi",
+        "cost": 3,
+        "traits": [
+            "Astral",
+            "Bruiser"
+        ],
+        "ability": {
+            "skillName": "Cosmic Lash",
+            "skillDescription": "Illaoi slams her idol into the ground, summoning 3 lashing tentacles and dealing magic damage to enemies in a cone. Illaoi steals Armor and Magic Resist from each enemy hit for 5 seconds.",
+            "abilityType": ["Damage", "Steal"],
+            "abilityStat": ["125/175/250", "33%  "]
+        },
+
+        "championStat": {
+            "heal": "800 / 1440 / 2592",
+            "damage": "50 / 90 / 162",
+            "dps": "30 / 54 / 97",
+            "amor": "50",
+            "speed": "0.6",
+            "mana": "50/100",
+            "mr": "50",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Neeko",
+        "championId": "TFT7_Neeko",
+        "cost": 4,
+        "traits": [
+            "Jade",
+            "Shapeshifter"
+        ],
+        "ability": {
+            "skillName": "Inherent Glamour",
+            "skillDescription": "Each Combat: Neeko disguises herself as the nearest allied champion, adding their bonus Attack Damage, Attack Speed, and Ability Power to her own and copying all other stats except Health. She then gains a shield for 275/400/2000 plus 10/20/50% of her ally's Health.When the shield breaks she transforms into Neeko Form and casts Pop Blossom, dealing magic damage to nearby enemies and stunning them for 1.5 seconds. Neeko then casts Pop Blossom every 100 Mana.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["300/425/1500"]
+        },
+
+        "championStat": {
+            "heal": "1000 / 1800 / 3240",
+            "damage": "50 / 90 / 162",
+            "dps": "35 / 63 / 113",
+            "amor": "20",
+            "speed": "0.7",
+            "mana": "0 / 150",
+            "mr": "20",
+            "range": "2/5"
+        }
+    },
+    {
+        "name": "Zoe",
+        "championId": "TFT7_Zoe",
+        "cost": 5,
+        "traits": [
+            "Shimmerscale",
+            "Spell Thief",
+            "Mage"
+        ],
+        "ability": {
+            "skillName": "Nothing!",
+            "skillDescription": "Zoe doesn't have her own spell. As a Spell Thief, she will borrow spells from other dimensions during combat and cast them as if they were her own.",
+            "abilityType": [],
+            "abilityStat": []
+        },
+
+        "championStat": {
+            "heal": "800 / 1440 / 2592",
+            "damage": "45 / 81 / 146",
+            "dps": "34 / 61 / 109",
+            "amor": "20",
+            "speed": "0.75",
+            "mana": "50/100",
+            "mr": "20",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Yasuo",
+        "championId": "TFT7_Yasuo",
+        "cost": 5,
+        "traits": [
+            "Mirage",
+            "Dragonmancer",
+            "Warrior"
+        ],
+        "ability": {
+            "skillName": "Sweeping Blade",
+            "skillDescription": "Yasuo shields himself and dashes through his target, slashing nearby enemies for physical damage. Every third cast his slash deals 250% damage, hits a larger area, and knocks up enemies. If Yasuo hits only the last enemy left alive, he repeatedly slashes them until they die.",
+            "abilityType": ["Shield", "Shield Duration", "Damage"],
+            "abilityStat": ["180/240/2500", "2/2/20", "160/175/2000%"]
+        },
+
+        "championStat": {
+            "heal": "1100 / 1980 / 3564",
+            "damage": "85 / 153 / 275",
+            "dps": "85 / 153 / 275",
+            "amor": "50",
+            "speed": "1",
+            "mana": "0/25",
+            "mr": "50",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Corki",
+        "championId": "TFT7_Corki",
+        "cost": 4,
+        "traits": [
+            "Revel",
+            "Cannoneer"
+        ],
+        "ability": {
+            "skillName": "Missile Barrage",
+            "skillDescription": "Corki launches a barrage of missiles towards his target, striking the first enemy hit for physical damage. The final missile is The Big One, and also deals physical damage in an area.",
+            "abilityType": ["Damage", "Big One", "Big One Base Damage"],
+            "abilityStat": ["60/60/150%", "175/180/250%", "110/170/600"]
+        },
+
+        "championStat": {
+            "heal": "750 / 1350 / 2430",
+            "damage": "70 / 126 / 227",
+            "dps": "49 / 88 / 159",
+            "amor": "30",
+            "speed": "0.7",
+            "mana": "20/80",
+            "mr": "30",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Nunu & Willump",
+        "championId": "TFT7_Nunu",
+        "cost": 3,
+        "traits": [
+            "Mirage",
+            "Cavalier"
+        ],
+        "ability": {
+            "skillName": "Consume",
+            "skillDescription": "Nunu encourages Willump to bite his target, dealing magic damage. If Willump's target has less Health than he does before the bite, it deals an additional 50% damage and becomes true damage.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["350/500/800"]
+        },
+
+        "championStat": {
+            "heal": "850 / 1530 / 2754",
+            "damage": "60 / 108 / 194",
+            "dps": "33 / 59 / 107",
+            "amor": "50",
+            "speed": "0.55",
+            "mana": "40/100",
+            "mr": "50",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Bard",
+        "championId": "TFT7_Bard",
+        "cost": 5,
+        "traits": [
+            "Guild",
+            "Mystic",
+            "Bard"
+        ],
+        "ability": {
+            "skillName": "Tempered Fate",
+            "skillDescription": "Bard sends magical energy toward the largest group of enemies, stunning them and causing them to take increased damage while stunned. If he hits at least 1 enemy, Bard dances in celebration. ",
+            "abilityType": ["Increased Damage", "Stun  "],
+            "abilityStat": ["15/20/9999%", "1.25/2/15"]
+        },
+
+        "championStat": {
+            "heal": "850 / 1530 / 2754",
+            "damage": "60 / 108 / 194",
+            "dps": "42 / 76 / 136",
+            "amor": "40",
+            "speed": "0.7",
+            "mana": "160/240",
+            "mr": "40",
+            "range": "4/5"
+        }
+    },
+
+    {
+        "name": "Jinx",
+        "championId": "TFT7_Jinx",
+        "cost": 2,
+        "traits": [
+            "Revel",
+            "Cannoneer"
+        ],
+        "ability": {
+            "skillName": "Flame Chompers",
+            "skillDescription": "Jinx summons a line of traps centered on her target. Traps detonate after a brief delay, dealing magic damage and stunning enemies hit. Jinx gains mana for each empty trap.",
+            "abilityType": ["Damage", "Stun"],
+            "abilityStat": ["325/450/675", "1/1.5/2"]
+        },
+
+        "championStat": {
+            "heal": "550 / 990 / 1782",
+            "damage": "55 / 99 / 178  ",
+            "dps": "39 / 69 / 125",
+            "amor": "20",
+            "speed": "0.7",
+            "mana": "50/100",
+            "mr": "20",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Kayn",
+        "championId": "TFT7_Kayn",
+        "cost": 2,
+        "traits": [
+            "Ragewing",
+            "Shimmerscale",
+            "Assassin"
+        ],
+        "ability": {
+            "skillName": "Blade's Reach",
+            "skillDescription": "Kayn sweeps his scythe in a line through his target, dealing 250% physical damage to enemies and an additional magic damage to the first enemy hit.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["90/120/150"]
+        },
+
+        "championStat": {
+            "heal": "700 / 1260 / 2268",
+            "damage": "50 / 90 / 162",
+            "dps": "38 / 68 / 122",
+            "amor": "25",
+            "speed": "0.75",
+            "mana": "0/45",
+            "mr": "25",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Xayah",
+        "championId": "TFT7_Xayah",
+        "cost": 4,
+        "traits": [
+            "Ragewing",
+            "Swiftshot"
+        ],
+        "ability": {
+            "skillName": "Feathers FLY! ",
+            "skillDescription": "For 4 seconds Xayah's attacks also fire a feather, and extra feathers at up to 2/2/4 enemies near her target. Feathers are left behind her targets. At the end of this duration Xayah recalls her feathers. Each one deals physical damage to enemies hit.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["12/20/40"]
+        },
+
+        "championStat": {
+            "heal": "700 / 1260 / 2268",
+            "damage": "70 / 126 / 227",
+            "dps": "49 / 88 / 159",
+            "amor": "25",
+            "speed": "0.7",
+            "mana": "0/60",
+            "mr": "25",
+            "range": "3/5"
+        }
+    },
+    {
+        "name": "Qiyana",
+        "championId": "TFT7_Qiyana",
+        "cost": 2,
+        "traits": [
+            "Tempest",
+            "Assassin"
+        ],
+        "ability": {
+            "skillName": "Elemental Blade",
+            "skillDescription": "Qiyana dashes to the best position to strike enemies with her blade, dealing magic damage and disarming enemies hit.",
+            "abilityType": ["Damage", "Disarm"],
+            "abilityStat": ["200/250/325", "1.5/1.75/2"]
+        },
+
+        "championStat": {
+            "heal": "650 / 1170 / 2106",
+            "damage": "45 / 81 / 146",
+            "dps": "34 / 61 / 109",
+            "amor": "30",
+            "speed": "0.75",
+            "mana": "40/100",
+            "mr": "30",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Braum",
+        "championId": "TFT7_Braum",
+        "cost": 2,
+        "traits": [
+            "Scalescorn",
+            "Guardian"
+        ],
+        "ability": {
+            "skillName": "Unbreakable",
+            "skillDescription": "Braum puts up his shield towards the largest group of enemies for 4 seconds, reducing damage taken from that direction.",
+            "abilityType": ["Damage Reduction"],
+            "abilityStat": ["75%/80%/90%"]
+        },
+
+        "championStat": {
+            "heal": "800 / 1440 / 2592",
+            "damage": "40 / 72 / 130",
+            "dps": "24 / 43 / 78",
+            "amor": "60",
+            "speed": "0.6",
+            "mana": "30/60",
+            "mr": "60",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Sylas",
+        "championId": "TFT7_Sylas",
+        "cost": 3,
+        "traits": [
+            "Whispers",
+            "Mage",
+            "Bruiser"
+        ],
+        "ability": {
+            "skillName": "Petricite Burst",
+            "skillDescription": "Sylas whirls his chains, dealing magic damage to enemies hit and applying Mana-Reave, increasing the cost of their next ability by 35%. If this hits at least 1 Mana-Reaved enemy Sylas shields himself. ",
+            "abilityType": ["Damage", "Shield"],
+            "abilityStat": ["110/170/240", "365/415/475"]
+        },
+
+        "championStat": {
+            "heal": "800 / 1440 / 2592",
+            "damage": "50 / 90 / 162",
+            "dps": "30 / 54 / 97  ",
+            "amor": "50",
+            "speed": "0.6",
+            "mana": "60/120",
+            "mr": "50",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Taric",
+        "championId": "TFT7_Taric",
+        "cost": 1,
+        "traits": [
+            "Jade",
+            "Guardian"
+        ],
+        "ability": {
+            "skillName": "Bastion",
+            "skillDescription": "Taric grants himself and his closest ally a protective rune that increases Armor for 4 seconds.",
+            "abilityType": ["Armor"],
+            "abilityStat": ["60/80/150"]
+        },
+
+        "championStat": {
+            "heal": "700 / 1260 / 2268",
+            "damage": "60 / 108 / 194 ",
+            "dps": "36 / 65 / 117",
+            "amor": "45",
+            "speed": "0.6",
+            "mana": "0/50",
+            "mr": "45",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Leona",
+        "championId": "TFT7_Leona",
+        "cost": 1,
+        "traits": [
+            "Mirage",
+            "Guardian"
+        ],
+        "ability": {
+            "skillName": "Solar Barrier",
+            "skillDescription": "Leona creates a barrier around herself, reducing all incoming damage for 4 seconds.",
+            "abilityType": ["Damage Reduction"],
+            "abilityStat": ["30/40/60"]
+        },
+
+        "championStat": {
+            "heal": "650 / 1170 / 2106",
+            "damage": "65 / 117 / 211",
+            "dps": "36 / 64 / 116",
+            "amor": "45",
+            "speed": "0.55",
+            "mana": "40/80",
+            "mr": "45",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Twitch",
+        "championId": "TFT7_Twitch",
+        "cost": 2,
+        "traits": [
+            "Guild",
+            "Swiftshot"
+        ],
+        "ability": {
+            "skillName": "Blast Potion",
+            "skillDescription": "Twitch hurls an exploding flask at his target, dealing physical damage and reducing the Armor of enemies hit.",
+            "abilityType": ["damage", "heal"],
+            "abilityStat": ["250/300/350", "270/300/330"]
+        },
+
+        "championStat": {
+            "heal": "550 / 990 / 1782",
+            "damage": "45 / 81 / 146",
+            "dps": "29 / 53 / 95",
+            "amor": "20",
+            "speed": "0.65",
+            "mana": "40/80",
+            "mr": "20",
+            "range": "4/5"
+        }
+    },
+
+    {
+        "name": "Ao Shin",
+        "championId": "TFT7_AoShin",
+        "cost": 5,
+        "traits": [
+            "Tempest",
+            "Dragon"
+        ],
+        "ability": {
+            "skillName": "Lightning Rain",
+            "skillDescription": "Ao Shin fires a barrage of 14 lightning strikes at random enemies. Each strike deals magic damage and drains Mana from his target.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["240/400/2500"]
+        },
+
+        "championStat": {
+            "heal": "900 / 1620 / 2916",
+            "damage": "60 / 108 / 194",
+            "dps": "48 / 86 / 156",
+            "amor": "50",
+            "speed": "0.8",
+            "mana": "0/200",
+            "mr": "50",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Sy'fen",
+        "championId": "TFT7_DragonPurple",
+        "cost": 4,
+        "traits": [
+            "Whispers",
+            "Bruiser",
+            "Dragon"
+        ],
+        "ability": {
+            "skillName": "Rampage",
+            "skillDescription": "Sy'fen charges toward the farthest enemy within 3 hexes, dealing physical damage and knocking up enemies they pass through. After charging, Sy'fen bites an enemy, dealing physical damage and ignoring 50% of the target's Armor.",
+            "abilityType": ["Damage", "Bite Damage"],
+            "abilityStat": ["150/150/300%  ", "500/525/2500%"]
+        },
+
+        "championStat": {
+            "heal": "1100 / 1980 / 3564",
+            "damage": "110 / 198 / 356",
+            "dps": "77 / 139 / 249",
+            "amor": "70",
+            "speed": "0.7",
+            "mana": "120/175",
+            "mr": "70",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Shi Oh Yu",
+        "championId": "TFT7_DragonGreen",
+        "cost": 4,
+        "traits": [
+            "Jade",
+            "Mystic",
+            "Dragon"
+        ],
+        "ability": {
+            "skillName": "Jade Form",
+            "skillDescription": "Shi Oh Yu enters Jade stance, gaining damage reduction, immunity to crowd control, and empowering her next 3 attacks with special effects that deal X damage. Attack 1: Deals X physical damage and stuns the target for 1.25 second. Attack 2: Deals X true damage. Attack 3: Ends the stance, dealing X physical damage to all enemies in a line and knocking them up for 1 second.",
+            "abilityType": ["X Damage", "Damage Reduction"],
+            "abilityStat": ["265/275/1000%", "20/25/50%"]
+        },
+
+        "championStat": {
+            "heal": "900 / 1620 / 2916",
+            "damage": "75 / 135 / 243",
+            "dps": "56 / 101 / 182",
+            "amor": "60",
+            "speed": "0.75",
+            "mana": "30/90",
+            "mr": "60",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Idas",
+        "championId": "TFT7_DragonGold",
+        "cost": 4,
+        "traits": [
+            "Shimmerscale",
+            "Dragon",
+            "Guardian"
+        ],
+        "ability": {
+            "skillName": "Golden Scales",
+            "skillDescription": "Idas hardens her scales for 2 seconds, reducing incoming damage. She then roars, healing herself and shielding other allies for 50 seconds. The shield grants 30% Attack Speed while it holds.",
+            "abilityType": ["Damage Reduction", "Heal", "Shield"],
+            "abilityStat": ["35/50/300", "450/550/2500", "180/275/2000"]
+        },
+
+        "championStat": {
+            "heal": "1100 / 1980 / 3564 ",
+            "damage": "80 / 144 / 259",
+            "dps": "44 / 79 / 143",
+            "amor": "60",
+            "speed": "0.6",
+            "mana": "80/160",
+            "mr": "60",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Daeja",
+        "championId": "TFT7_DragonBlue",
+        "cost": 4,
+        "traits": [
+            "Mirage",
+            "Dragon"
+        ],
+        "ability": {
+            "skillName": "Windblast",
+            "skillDescription": "Passive: Daeja's attacks deal bonus magic damage and reduce the target's Magic Resist by 5. Daeja's attacks launch three barrages. Active: Daeja sends a wind blast toward the largest group of enemies, dealing magic damage.",
+            "abilityType": ["Passive Damage", "Damage"],
+            "abilityStat": ["25/40/150", "250/375/1800"]
+        },
+
+        "championStat": {
+            "heal": "850 / 1530 / 2754",
+            "damage": "20 / 36 / 65",
+            "dps": "12 / 22 / 39",
+            "amor": "40",
+            "speed": "0.6",
+            "mana": "0/160",
+            "mr": "40",
+            "range": "4/5"
+        }
+    },
+    {
+        "name": "Sona",
+        "championId": "TFT7_Sona",
+        "cost": 4,
+        "traits": [
+            "Revel",
+            "Evoker"
+        ],
+        "ability": {
+            "skillName": "Crescendo",
+            "skillDescription": "Sona plays her ultimate chord, dealing magic damage to enemies in a line in front of her, stunning them.",
+            "abilityType": ["Damage", "Stun"],
+            "abilityStat": ["200/300/1000", "1/1/4"]
+        },
+
+        "championStat": {
+            "heal": "750 / 1350 / 2430",
+            "damage": "40 / 72 / 130",
+            "dps": "28 / 50 / 91",
+            "amor": "30",
+            "speed": "0.7",
+            "mana": "100/160",
+            "mr": "30",
+            "range": "4/5"
+        }
+    },
+
+
+    {
+        "name": "Pyke",
+        "championId": "TFT7_Pyke",
+        "cost": 5,
+        "traits": [
+            "Whispers",
+            "Assassin"
+        ],
+        "ability": {
+            "skillName": "Death from Below",
+            "skillDescription": "Pyke dives toward the lowest Health enemy and slashes in an X, dealing magic damage to his target and magic damage to other enemies struck. Enemies hit suffer 50% reduced healing for 8 seconds.If Pyke hits an enemy at or below % Health he executes them and immediately recasts Death From Below.",
+            "abilityType": ["Damage", "Secondary Damage", "Execute"],
+            "abilityStat": ["325/425/5000", "150/225/5000", "25/33/100%"]
+        },
+
+        "championStat": {
+            "heal": "900 / 1620 / 2916",
+            "damage": "70 / 126 / 227",
+            "dps": "70 / 126 / 227",
+            "amor": "30",
+            "speed": "1",
+            "mana": "0/60",
+            "mr": "30",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Tahm Kench",
+        "championId": "TFT7_TahmKench",
+        "cost": 1,
+        "traits": [
+            "Revel",
+            "Bruiser"
+        ],
+        "ability": {
+            "skillName": "Thick Skin",
+            "skillDescription": "Tahm Kench shields himself for 5 seconds. The next 3 enemy attacks he receives during this duration deal magic damage to the attacker.",
+            "abilityType": ["Shield", "Damage"],
+            "abilityStat": ["240/250/275", "75/100/125"]
+        },
+
+        "championStat": {
+            "heal": "650 / 1170 / 2106",
+            "damage": "70 / 126 / 227",
+            "dps": "35 / 63 / 113 ",
+            "amor": "40",
+            "speed": "0.5",
+            "mana": "60/120",
+            "mr": "40",
+            "range": "1/5"
+        }
+    },
+    {
+        "name": "Aurelion Sol",
+        "championId": "TFT7_AurelionSol",
+        "cost": 5,
+        "traits": [
+            "Astral",
+            "Evoker",
+            "Dragon"
+        ],
+        "ability": {
+            "skillName": "Black Hole",
+            "skillDescription": "Aurelion Sol summons an unstable black hole underneath a random enemy. After 2 seconds it implodes, dealing magic damage to all enemies in the area and increasing their Damage taken by 20% for 10 seconds. Black holes generated after 20 seconds of combat are larger and deal 50% more damage.",
+            "abilityType": ["Damage"],
+            "abilityStat": ["350/475/5000"]
+        },
+
+        "championStat": {
+            "heal": "900 / 1620 / 2916",
+            "damage": "60 / 108 / 194",
+            "dps": "45 / 81 / 146",
+            "amor": "50",
+            "speed": "0.75",
+            "mana": "40/90",
+            "mr": "50",
+            "range": "4/5"
+        }
+    }
+]
